@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """
-Scientific American Latest Issue Scraper — updated
-- robust JSON-LD extraction
-- convert relative article/image URLs to absolute
-- tolerant handling of image, author, and description formats
+Scientific American Latest Issue Scraper — minimal change
+- robust JSON-LD extraction retained
+- also scan the HTML for <a class="articleLink-..."> + title and prefer that href as the article URL
 """
 
 import os
@@ -54,14 +53,39 @@ def fetch_with_flaresolverr(url):
         return None
 
 
+def build_anchor_title_map(html_content):
+    """
+    Scan HTML for anchor blocks like:
+    <a ... class="...articleLink..." href="/article/..."> ... <h2 class="...articleTitle..."><p>Title</p></h2> ...
+    Return dict mapping normalized_title -> href
+    """
+    pattern = re.compile(
+        r'<a[^>]+class=["\'][^"\']*articleLink[^"\']*["\'][^>]*href=["\']([^"\']+)["\'][^>]*>.*?<h2[^>]*class=["\'][^"\']*articleTitle[^"\']*["\'][^>]*>.*?<p[^>]*>(.*?)</p>',
+        flags=re.S | re.I
+    )
+    matches = pattern.findall(html_content)
+    mapping = {}
+    for href, title in matches:
+        key = re.sub(r'\s+', ' ', title).strip().lower()
+        if key:
+            mapping[key] = href
+    logger.info(f"Built anchor->title map with {len(mapping)} entries")
+    return mapping
+
+
 def extract_articles_from_html(html_content):
     """
     Robust extraction of articles from JSON-LD blocks in the HTML.
-    Returns list of article dicts (as found in JSON-LD 'hasPart' items).
+    Now also uses the HTML anchor/title map to correct article URLs when possible.
+    Returns list of article dicts (as found in JSON-LD 'hasPart' items), with 'url' fixed where possible.
     """
-    logger.info("Extracting articles from HTML content (searching JSON-LD)")
+    logger.info("Extracting articles from HTML content (searching JSON-LD and HTML anchors)")
 
     try:
+        # Build anchor->title map first
+        anchor_map = build_anchor_title_map(html_content)  # normalized_title -> href
+
+        # find all JSON-LD script tags
         scripts = re.findall(
             r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
             html_content,
@@ -96,11 +120,22 @@ def extract_articles_from_html(html_content):
                         if item.get('@type') == 'PublicationIssue':
                             articles = item.get('hasPart', [])
                             logger.info(f"Found {len(articles)} articles inside PublicationIssue (@graph)")
+                            # prefer anchor hrefs where possible
+                            for a in articles:
+                                title = (a.get('headline') or a.get('name') or '').strip()
+                                key = re.sub(r'\s+', ' ', title).strip().lower()
+                                if key and key in anchor_map:
+                                    a['url'] = urljoin(BASE_URL, anchor_map[key])
                             return articles
 
                 if data.get('@type') == 'PublicationIssue':
                     articles = data.get('hasPart', [])
                     logger.info(f"Found {len(articles)} articles (top-level PublicationIssue)")
+                    for a in articles:
+                        title = (a.get('headline') or a.get('name') or '').strip()
+                        key = re.sub(r'\s+', ' ', title).strip().lower()
+                        if key and key in anchor_map:
+                            a['url'] = urljoin(BASE_URL, anchor_map[key])
                     return articles
 
             # If top-level list
@@ -109,6 +144,11 @@ def extract_articles_from_html(html_content):
                     if isinstance(item, dict) and item.get('@type') == 'PublicationIssue':
                         articles = item.get('hasPart', [])
                         logger.info(f"Found {len(articles)} articles inside PublicationIssue (list)")
+                        for a in articles:
+                            title = (a.get('headline') or a.get('name') or '').strip()
+                            key = re.sub(r'\s+', ' ', title).strip().lower()
+                            if key and key in anchor_map:
+                                a['url'] = urljoin(BASE_URL, anchor_map[key])
                         return articles
 
         logger.warning("No PublicationIssue found in any JSON-LD blocks")
@@ -139,11 +179,9 @@ def parse_pubdate_iso_to_rfc822(pub_date_iso):
     if not pub_date_iso:
         return ''
     try:
-        # handle 'Z' and timezone-less strings
         if pub_date_iso.endswith('Z'):
             dt = datetime.fromisoformat(pub_date_iso.replace('Z', '+00:00'))
         else:
-            # if no timezone, treat as UTC
             if re.match(r'^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$', pub_date_iso):
                 dt = datetime.fromisoformat(pub_date_iso + '+00:00')
             else:
@@ -186,13 +224,11 @@ def extract_description(article):
     if isinstance(about, str):
         return about
     if isinstance(about, dict):
-        # try common keys
         return about.get('description') or about.get('name') or ''
     desc = article.get('description') or article.get('dek') or ''
     if isinstance(desc, dict):
         return desc.get('description') or desc.get('name') or ''
     if isinstance(desc, list):
-        # join short strings if it's a list
         return ' '.join([str(x) for x in desc if isinstance(x, str)])[:500]
     return desc if isinstance(desc, str) else ''
 
@@ -244,17 +280,13 @@ def create_rss_feed(articles):
     for article in articles:
         if not isinstance(article, dict):
             continue
-        # Skip non-Article types
-        if article.get('@type') and article.get('@type') != 'Article':
-            # some feeds omit @type; allow those
-            pass
 
         item_count += 1
 
         # title
         title = article.get('headline') or article.get('name') or 'Untitled Article'
 
-        # url: prefer 'url', then '@id'
+        # url: prefer anchor-derived 'url' (we set that earlier), then fallback to json fields
         raw_url = article.get('url') or article.get('@id') or ''
         article_url = urljoin(BASE_URL, raw_url) if raw_url else ''
 
@@ -294,7 +326,6 @@ def create_rss_feed(articles):
         if image_url:
             rss_lines.append(f'      <media:thumbnail url="{escape_xml(image_url)}"/>')
             rss_lines.append(f'      <media:content url="{escape_xml(image_url)}" medium="image"/>')
-            # try to guess MIME type from filename; default to image/jpeg
             rss_lines.append(f'      <enclosure url="{escape_xml(image_url)}" type="image/jpeg"/>')
 
         rss_lines.append('    </item>')
@@ -311,16 +342,19 @@ def main():
     logger.info("Starting Scientific American scraper")
 
     html_content = fetch_with_flaresolverr(PAGE_URL)
+
     if not html_content:
         logger.error("Failed to fetch page content")
         return False
 
     articles = extract_articles_from_html(html_content)
+
     if not articles:
-        logger.error("No articles found via JSON-LD extraction")
+        logger.error("No articles found")
         return False
 
     rss_content = create_rss_feed(articles)
+
     try:
         with open(RSS_OUTPUT_FILE, 'w', encoding='utf-8') as f:
             f.write(rss_content)
