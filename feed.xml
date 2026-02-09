@@ -1,25 +1,372 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Scientific American - Latest Issue</title>
     <link>https://www.scientificamerican.com/latest-issue/</link>
     <description>Latest articles from Scientific American magazine</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Feb 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 05:06:30 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/feed.xml" rel="self" type="application/rss+xml"/>
-    
-    <!-- Sample items - will be replaced by actual scraped content -->
+
     <item>
-      <title>Sample Article: The Future of Science</title>
-      <link>https://www.scientificamerican.com/article/sample-article/</link>
-      <description>This is a sample article description. The actual feed will contain real articles from Scientific American.</description>
-      <pubDate>Mon, 09 Feb 2026 06:00:00 +0000</pubDate>
-      <dc:creator>Sample Author</dc:creator>
-      <author>Sample Author</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/sample-article/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/sample-image.jpg"/>
-      <media:content url="https://static.scientificamerican.com/sample-image.jpg" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/sample-image.jpg" type="image/jpeg"/>
+      <title>The incredible, unlikely story of how cats became our pets</title>
+      <description>Two new studies dig into the long, curving path that cats took toward domestication</description>
+      <pubDate>Thu, 27 Nov 2025 14:00:00 -0500</pubDate>
+      <dc:creator>Meghan Bartels</dc:creator>
+      <author>Meghan Bartels</author>
+      <guid isPermaLink="false">The incredible, unlikely story of how cats became our pets</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/56cdcbae43a9071c/original/sa0226Adva01a.jpg?m=1769012689.92"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/56cdcbae43a9071c/original/sa0226Adva01a.jpg?m=1769012689.92" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/56cdcbae43a9071c/original/sa0226Adva01a.jpg?m=1769012689.92" type="image/jpeg"/>
     </item>
+
+    <item>
+      <title>These birds learned to tweet like R2-D2. Listen to the uncanny results</title>
+      <description>This lovable Star Wars droid is helping to shed light on why some bird species are better at mimicking sounds than others</description>
+      <pubDate>Wed, 19 Nov 2025 06:30:00 -0500</pubDate>
+      <dc:creator>Kate Graham-Shaw</dc:creator>
+      <author>Kate Graham-Shaw</author>
+      <guid isPermaLink="false">These birds learned to tweet like R2-D2. Listen to the uncanny results</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/66ccc231b979b561/original/sa0226Adva02.jpg?m=1767973361.0"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/66ccc231b979b561/original/sa0226Adva02.jpg?m=1767973361.0" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/66ccc231b979b561/original/sa0226Adva02.jpg?m=1767973361.0" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Spiders build giant decoys to scare predators from webs</title>
+      <description>Spiders scare off predators by seemingly supersizing themselves</description>
+      <pubDate>Mon, 19 Jan 2026 06:45:00 -0500</pubDate>
+      <dc:creator>Gennaro Tomma</dc:creator>
+      <author>Gennaro Tomma</author>
+      <guid isPermaLink="false">Spiders build giant decoys to scare predators from webs</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/397096f02c73ec71/original/sa0226Adva03.jpg?m=1767973540.635"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/397096f02c73ec71/original/sa0226Adva03.jpg?m=1767973540.635" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/397096f02c73ec71/original/sa0226Adva03.jpg?m=1767973540.635" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Zoo lunch mishap reveals lizards’ hidden fire detector</title>
+      <description>Australian “sleepy” lizards are not so sleepy when it comes to fire</description>
+      <pubDate>Wed, 22 Oct 2025 10:30:00 -0400</pubDate>
+      <dc:creator>Clarissa Brincat</dc:creator>
+      <author>Clarissa Brincat</author>
+      <guid isPermaLink="false">Zoo lunch mishap reveals lizards’ hidden fire detector</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/6f5c3fd174f1760c/original/australian_sleepy_lizard.jpg?m=1761141344.407"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/6f5c3fd174f1760c/original/australian_sleepy_lizard.jpg?m=1761141344.407" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/6f5c3fd174f1760c/original/australian_sleepy_lizard.jpg?m=1761141344.407" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Lost planet Theia, which created the moon, came from the inner solar system</title>
+      <description>New work pinpoints the origins of the planet Theia, whose ancient collision with Earth likely produced the moon</description>
+      <pubDate>Thu, 20 Nov 2025 14:00:00 -0500</pubDate>
+      <dc:creator>Jacek Krywko</dc:creator>
+      <author>Jacek Krywko</author>
+      <guid isPermaLink="false">Lost planet Theia, which created the moon, came from the inner solar system</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/5ff7c728901ea71e/original/Hopp-ado0623-Theia.jpg?m=1763662001.785"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/5ff7c728901ea71e/original/Hopp-ado0623-Theia.jpg?m=1763662001.785" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/5ff7c728901ea71e/original/Hopp-ado0623-Theia.jpg?m=1763662001.785" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Not everyone with schizophrenia hears voices. Here’s why</title>
+      <description>New research aims to tease out what exactly is happening in the brains of people with schizophrenia who have auditory hallucinations</description>
+      <pubDate>Mon, 10 Nov 2025 07:00:00 -0500</pubDate>
+      <dc:creator>Hannah Seo</dc:creator>
+      <author>Hannah Seo</author>
+      <guid isPermaLink="false">Not everyone with schizophrenia hears voices. Here’s why</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/236966801f506f7a/original/sa0226Adva05.jpg?m=1767974395.291"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/236966801f506f7a/original/sa0226Adva05.jpg?m=1767974395.291" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/236966801f506f7a/original/sa0226Adva05.jpg?m=1767974395.291" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>How woodpeckers turn their entire bodies into pecking machines</title>
+      <description>These birds’ drilling approach is more like extreme tennis playing than weight lifting</description>
+      <pubDate>Fri, 02 Jan 2026 07:00:00 -0500</pubDate>
+      <dc:creator>Rohini Subrahmanyam</dc:creator>
+      <author>Rohini Subrahmanyam</author>
+      <guid isPermaLink="false">How woodpeckers turn their entire bodies into pecking machines</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/1b122e81fb921645/original/sa0226Adva06.jpg?m=1766505830.135"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/1b122e81fb921645/original/sa0226Adva06.jpg?m=1766505830.135" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/1b122e81fb921645/original/sa0226Adva06.jpg?m=1766505830.135" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Why 52 cards is the perfect number for poker—mathematically</title>
+      <description>A traditional card deck happens to dodge a tricky poker paradox. Other poker variants aren’t so lucky</description>
+      <pubDate>Mon, 12 Jan 2026 06:45:00 -0500</pubDate>
+      <dc:creator>Emma R. Hasson</dc:creator>
+      <author>Emma R. Hasson</author>
+      <guid isPermaLink="false">Why 52 cards is the perfect number for poker—mathematically</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/64a85735d0fc8799/original/saw0226Adva31_leadImage.png?m=1767974796.563"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/64a85735d0fc8799/original/saw0226Adva31_leadImage.png?m=1767974796.563" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/64a85735d0fc8799/original/saw0226Adva31_leadImage.png?m=1767974796.563" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Math puzzle: A winning loser</title>
+      <description>Pick an unusual winning poker hand in this math puzzle</description>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 -0500</pubDate>
+      <dc:creator>Emma R. Hasson</dc:creator>
+      <author>Emma R. Hasson</author>
+      <guid isPermaLink="false">Math puzzle: A winning loser</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>This fossil is rewriting the story of how plants spread across the planet</title>
+      <description>An enigmatic group of fossil organisms has finally been identified—and is changing the story of how plants took root on land</description>
+      <pubDate>Tue, 25 Nov 2025 06:30:00 -0500</pubDate>
+      <dc:creator>Taylor Mitchell Brown</dc:creator>
+      <author>Taylor Mitchell Brown</author>
+      <guid isPermaLink="false">This fossil is rewriting the story of how plants spread across the planet</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/43ff82002e8b43db/original/Fig7_paleoart1.jpg?m=1767975420.924"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/43ff82002e8b43db/original/Fig7_paleoart1.jpg?m=1767975420.924" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/43ff82002e8b43db/original/Fig7_paleoart1.jpg?m=1767975420.924" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Why does life keep evolving these geometric patterns?</title>
+      <description>A global catalog shows how creatures across the tree of life balance rigidity with flexibility in remarkably consistent ways</description>
+      <pubDate>Mon, 05 Jan 2026 06:45:00 -0500</pubDate>
+      <dc:creator>Anirban Mukhopadhyay</dc:creator>
+      <author>Anirban Mukhopadhyay</author>
+      <guid isPermaLink="false">Why does life keep evolving these geometric patterns?</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/5e7c8055017e7837/original/sa0226Adva08.jpg?m=1767046920.289"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/5e7c8055017e7837/original/sa0226Adva08.jpg?m=1767046920.289" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/5e7c8055017e7837/original/sa0226Adva08.jpg?m=1767046920.289" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Extremophile ‘fire amoeba’ pushes the boundaries of complex life</title>
+      <description>It was thought that complex cells couldn’t survive above a certain temperature, but a tiny amoeba has proven that assumption wrong</description>
+      <pubDate>Fri, 05 Dec 2025 10:15:00 -0500</pubDate>
+      <dc:creator>Andrea Thompson</dc:creator>
+      <author>Andrea Thompson</author>
+      <guid isPermaLink="false">Extremophile ‘fire amoeba’ pushes the boundaries of complex life</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/645f4896ac36e3f8/original/amoeba_S12.gif?m=1764949957.311"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/645f4896ac36e3f8/original/amoeba_S12.gif?m=1764949957.311" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/645f4896ac36e3f8/original/amoeba_S12.gif?m=1764949957.311" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>A bright light in the dark</title>
+      <description>The Nobel Prizes remind us how science can unite society and inspire hope for the future</description>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 -0500</pubDate>
+      <dc:creator>David M. Ewalt</dc:creator>
+      <author>David M. Ewalt</author>
+      <guid isPermaLink="false">A bright light in the dark</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/6de1ff9b0cbe7462/original/sa0226-FromTheEditor-IssueCover.jpg?m=1767815782.234"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/6de1ff9b0cbe7462/original/sa0226-FromTheEditor-IssueCover.jpg?m=1767815782.234" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/6de1ff9b0cbe7462/original/sa0226-FromTheEditor-IssueCover.jpg?m=1767815782.234" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Readers respond to the October 2025 issue</title>
+      <description>Letters to the editors for the October 2025 issue of Scientific American</description>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 -0500</pubDate>
+      <dc:creator>Aaron Shattuck</dc:creator>
+      <author>Aaron Shattuck</author>
+      <guid isPermaLink="false">Readers respond to the October 2025 issue</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/4febcde940fa16b0/original/sa0226-Letters-IssueCover.jpg?m=1767816211.306"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/4febcde940fa16b0/original/sa0226-Letters-IssueCover.jpg?m=1767816211.306" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/4febcde940fa16b0/original/sa0226-Letters-IssueCover.jpg?m=1767816211.306" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>How one mom used vibe coding to build an AI tutor for her dyslexic son</title>
+      <description>Faced with her son’s struggle with dyslexia, one mom built an AI platform to help kids learn their own way</description>
+      <pubDate>Fri, 31 Oct 2025 06:30:00 -0400</pubDate>
+      <dc:creator>Deni Ellis Béchard</dc:creator>
+      <author>Deni Ellis Béchard</author>
+      <guid isPermaLink="false">How one mom used vibe coding to build an AI tutor for her dyslexic son</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/5d34364b5e537806/original/saw0226Indu01.jpg?m=1767816539.923"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/5d34364b5e537806/original/saw0226Indu01.jpg?m=1767816539.923" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/5d34364b5e537806/original/saw0226Indu01.jpg?m=1767816539.923" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>The neuroscience behind the ‘parenting paradox’ of happiness</title>
+      <description>Separate brain processes cope with moment-to-moment versus big-picture experiences, which helps to explain how parenting both increases and decreases aspects of well-being</description>
+      <pubDate>Wed, 29 Oct 2025 10:30:00 -0400</pubDate>
+      <dc:creator>Anthony Vaccaro</dc:creator>
+      <author>Anthony Vaccaro</author>
+      <guid isPermaLink="false">The neuroscience behind the ‘parenting paradox’ of happiness</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/600e0581debab9f8/original/GettyImages-1820528299-parenting-paradox.jpeg?m=1761747135.423"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/600e0581debab9f8/original/GettyImages-1820528299-parenting-paradox.jpeg?m=1761747135.423" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/600e0581debab9f8/original/GettyImages-1820528299-parenting-paradox.jpeg?m=1761747135.423" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>The math mystery that connects Sudoku, flight schedules and protein folding</title>
+      <description>Thousands of notoriously difficult problems in computer science are actually the same problem in disguise</description>
+      <pubDate>Mon, 06 Jan 2025 14:00:00 -0500</pubDate>
+      <dc:creator>Jack Murtagh</dc:creator>
+      <author>Jack Murtagh</author>
+      <guid isPermaLink="false">The math mystery that connects Sudoku, flight schedules and protein folding</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/6f557fd3bee73fc3/original/Wooden-sudoku-puzzle.jpg?m=1767818279.936"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/6f557fd3bee73fc3/original/Wooden-sudoku-puzzle.jpg?m=1767818279.936" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/6f557fd3bee73fc3/original/Wooden-sudoku-puzzle.jpg?m=1767818279.936" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Why is the Milky Way warped?</title>
+      <description>Observations show the disk of our galaxy is not flat but warped and waving. Astronomers are still working out the reasons why</description>
+      <pubDate>Fri, 07 Nov 2025 06:45:00 -0500</pubDate>
+      <dc:creator>Phil Plait</dc:creator>
+      <author>Phil Plait</author>
+      <guid isPermaLink="false">Why is the Milky Way warped?</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/13385619dec33f2/original/Gaia_discovers_our_galaxy_s_great_wave_edge-on-WEB.jpg?m=1767818615.764"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/13385619dec33f2/original/Gaia_discovers_our_galaxy_s_great_wave_edge-on-WEB.jpg?m=1767818615.764" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/13385619dec33f2/original/Gaia_discovers_our_galaxy_s_great_wave_edge-on-WEB.jpg?m=1767818615.764" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Heal injuries faster with new science</title>
+      <description>Motion is the new potion, and rest is no longer the best</description>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 -0500</pubDate>
+      <dc:creator>Lydia Denworth</dc:creator>
+      <author>Lydia Denworth</author>
+      <guid isPermaLink="false">Heal injuries faster with new science</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/4269a922df832194/original/sa0226SoH01.jpg?m=1767977216.422"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/4269a922df832194/original/sa0226SoH01.jpg?m=1767977216.422" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/4269a922df832194/original/sa0226SoH01.jpg?m=1767977216.422" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Poem: ‘E = mc²’</title>
+      <description>Science in meter and verse</description>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 -0500</pubDate>
+      <dc:creator>Elaine Mintzer</dc:creator>
+      <author>Elaine Mintzer</author>
+      <guid isPermaLink="false">Poem: ‘E = mc²’</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/760f0560bd01a1de/original/sa0226Metr-crop.jpg?m=1767977722.581"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/760f0560bd01a1de/original/sa0226Metr-crop.jpg?m=1767977722.581" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/760f0560bd01a1de/original/sa0226Metr-crop.jpg?m=1767977722.581" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>History smelled. Here’s how we’re sniffing it out</title>
+      <description>How can reconstructing long-lost smells of ancient artifacts help us connect with the past?</description>
+      <pubDate>Mon, 27 Oct 2025 06:45:00 -0400</pubDate>
+      <dc:creator>Gayoung Lee</dc:creator>
+      <author>Gayoung Lee</author>
+      <guid isPermaLink="false">History smelled. Here’s how we’re sniffing it out</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/5be2c9b0ab269bc4/original/sa0226QA01.jpg?m=1767987028.139"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/5be2c9b0ab269bc4/original/sa0226QA01.jpg?m=1767987028.139" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/5be2c9b0ab269bc4/original/sa0226QA01.jpg?m=1767987028.139" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Science crossword: Consciousness carriers</title>
+      <description>Play this crossword inspired by the February 2026 issue of Scientific American</description>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 -0500</pubDate>
+      <dc:creator>Aimee Lucido</dc:creator>
+      <author>Aimee Lucido</author>
+      <guid isPermaLink="false">Science crossword: Consciousness carriers</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Which dog breed stereotypes are true? Here’s the science</title>
+      <description>A large dataset shows some dog stereotypes are based in reality, and others might be unfair characterizations</description>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 -0500</pubDate>
+      <dc:creator>Humberto Basilio</dc:creator>
+      <author>Humberto Basilio</author>
+      <guid isPermaLink="false">Which dog breed stereotypes are true? Here’s the science</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/7564eeac40bff9e7/original/saw0226Gsci_lead.jpg?m=1767987509.721"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/7564eeac40bff9e7/original/saw0226Gsci_lead.jpg?m=1767987509.721" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/7564eeac40bff9e7/original/saw0226Gsci_lead.jpg?m=1767987509.721" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>February 2026: Science history from 50, 100 and 150 years ago</title>
+      <description>Giant atoms; corpses for science</description>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 -0500</pubDate>
+      <dc:creator>Jeanna Bryner</dc:creator>
+      <author>Jeanna Bryner</author>
+      <guid isPermaLink="false">February 2026: Science history from 50, 100 and 150 years ago</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/657a6411f8bbf141/original/sa0226Hist04b.jpg?m=1769096940.318"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/657a6411f8bbf141/original/sa0226Hist04b.jpg?m=1769096940.318" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/657a6411f8bbf141/original/sa0226Hist04b.jpg?m=1769096940.318" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>What is consciousness? Science faces its hardest problem yet</title>
+      <description>Will brain science deliver answers about consciousness or hit another wall?</description>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 -0500</pubDate>
+      <dc:creator>Allison Parshall</dc:creator>
+      <author>Allison Parshall</author>
+      <guid isPermaLink="false">What is consciousness? Science faces its hardest problem yet</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/7283d0106ed1b200/original/saw0226Pars01.jpg?m=1766504146.409"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/7283d0106ed1b200/original/saw0226Pars01.jpg?m=1766504146.409" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/7283d0106ed1b200/original/saw0226Pars01.jpg?m=1766504146.409" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Your guide to 29 wildly different theories of consciousness</title>
+      <description>The many, many ways researchers hope to solve the toughest mystery in science</description>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 -0500</pubDate>
+      <dc:creator>Allison Parshall</dc:creator>
+      <author>Allison Parshall</author>
+      <guid isPermaLink="false">Your guide to 29 wildly different theories of consciousness</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/1786c235c24add01/original/saw0226Pars02.jpg?m=1767811508.893"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/1786c235c24add01/original/saw0226Pars02.jpg?m=1767811508.893" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/1786c235c24add01/original/saw0226Pars02.jpg?m=1767811508.893" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>JWST could finally spot the very first stars in the universe</title>
+      <description>The James Webb Space Telescope should soon be able to spot the first generation of stars in space</description>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 -0500</pubDate>
+      <dc:creator>José María Diego Rodríguez</dc:creator>
+      <author>José María Diego Rodríguez</author>
+      <guid isPermaLink="false">JWST could finally spot the very first stars in the universe</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/326275ac0c7c2a0f/original/saw0226Dieg01.jpg?m=1768231691.718"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/326275ac0c7c2a0f/original/saw0226Dieg01.jpg?m=1768231691.718" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/326275ac0c7c2a0f/original/saw0226Dieg01.jpg?m=1768231691.718" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Life’s evil twins—mirror cells—could doom Earth if scientists don’t stop them</title>
+      <description>Researchers are closer to making “reversed” cells that may wipe us off the planet</description>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 -0500</pubDate>
+      <dc:creator>Vaughn S. Cooper</dc:creator>
+      <author>Vaughn S. Cooper</author>
+      <guid isPermaLink="false">Life’s evil twins—mirror cells—could doom Earth if scientists don’t stop them</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/ea923a5a0c018e/original/sa0226Coop01.jpg?m=1767812478.748"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/ea923a5a0c018e/original/sa0226Coop01.jpg?m=1767812478.748" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/ea923a5a0c018e/original/sa0226Coop01.jpg?m=1767812478.748" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>How extremophile molds are destroying museum artifacts</title>
+      <description>Extremophile molds are invading art museums and devouring their collections. Stigma and climate change have fueled their spread</description>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 -0500</pubDate>
+      <dc:creator>Elizabeth Anne Brown</dc:creator>
+      <author>Elizabeth Anne Brown</author>
+      <guid isPermaLink="false">How extremophile molds are destroying museum artifacts</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/90364b4e55bc81/original/sa0226Brow01.jpg?m=1768232173.24"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/90364b4e55bc81/original/sa0226Brow01.jpg?m=1768232173.24" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/90364b4e55bc81/original/sa0226Brow01.jpg?m=1768232173.24" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Can a buried time capsule beat Earth’s geology and deep time?</title>
+      <description>A ridiculous but instructive thought experiment involving deep time, plate tectonics, erosion and the slow death of the sun</description>
+      <pubDate>Mon, 17 Nov 2025 08:00:00 -0500</pubDate>
+      <dc:creator>Peter Brannen</dc:creator>
+      <author>Peter Brannen</author>
+      <guid isPermaLink="false">Can a buried time capsule beat Earth’s geology and deep time?</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/41371581d351429/original/timeCapsOpeners-brannen.jpg?m=1763055012.697"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/41371581d351429/original/timeCapsOpeners-brannen.jpg?m=1763055012.697" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/41371581d351429/original/timeCapsOpeners-brannen.jpg?m=1763055012.697" type="image/jpeg"/>
+    </item>
+
   </channel>
 </rss>
