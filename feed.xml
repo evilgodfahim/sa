@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Scientific American - Latest Issue</title>
+    <link>https://www.scientificamerican.com/latest-issue/</link>
+    <description>Latest articles from Scientific American magazine</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Feb 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <!-- Sample items - will be replaced by actual scraped content -->
+    <item>
+      <title>Sample Article: The Future of Science</title>
+      <link>https://www.scientificamerican.com/article/sample-article/</link>
+      <description>This is a sample article description. The actual feed will contain real articles from Scientific American.</description>
+      <pubDate>Mon, 09 Feb 2026 06:00:00 +0000</pubDate>
+      <dc:creator>Sample Author</dc:creator>
+      <author>Sample Author</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/sample-article/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/sample-image.jpg"/>
+      <media:content url="https://static.scientificamerican.com/sample-image.jpg" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/sample-image.jpg" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+name: Update Scientific American RSS Feed
+
+on:
+  schedule:
+    # Run daily at 6 AM UTC (adjust as needed)
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+      
+      - name: Start FlareSolverr
+        run: |
+          docker run -d --name flaresolverr \
+            -p 8191:8191 \
+            -e LOG_LEVEL=info \
+            ghcr.io/flaresolverr/flaresolverr:latest
+          
+          # Wait for FlareSolverr to be ready
+          echo "Waiting for FlareSolverr to start..."
+          for i in {1..30}; do
+            if curl -s http://localhost:8191/v1 > /dev/null 2>&1; then
+              echo "FlareSolverr is ready!"
+              break
+            fi
+            echo "Still waiting... ($i/30)"
+            sleep 2
+          done
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install --no-cache-dir -r requirements.txt
+      
+      - name: Run scraper
+        env:
+          FLARESOLVERR_URL: http://localhost:8191/v1
+        run: |
+          python scraper.py
+      
+      - name: Check if feed.xml changed
+        id: check_changes
+        run: |
+          if git diff --quiet feed.xml; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add feed.xml
+          git commit -m "Update RSS feed - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+      
+      - name: Stop FlareSolverr
+        if: always()
+        run: |
+          docker stop flaresolverr || true
+          docker rm flaresolverr || true

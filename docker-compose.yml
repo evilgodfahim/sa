@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  flaresolverr:
+    image: ghcr.io/flaresolverr/flaresolverr:latest
+    container_name: flaresolverr
+    environment:
+      - LOG_LEVEL=info
+      - LOG_HTML=false
+      - CAPTCHA_SOLVER=none
+      - TZ=America/New_York
+    ports:
+      - "8191:8191"
+    restart: unless-stopped
+    networks:
+      - scraper-network
+
+  scraper:
+    build: .
+    container_name: sciam-scraper
+    environment:
+      - FLARESOLVERR_URL=http://flaresolverr:8191/v1
+    volumes:
+      - ./feed.xml:/app/feed.xml
+    depends_on:
+      - flaresolverr
+    networks:
+      - scraper-network
+    command: python scraper.py
+
+networks:
+  scraper-network:
+    driver: bridge
