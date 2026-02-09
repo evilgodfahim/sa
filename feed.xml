@@ -5,7 +5,7 @@
     <link>https://www.scientificamerican.com/latest-issue/</link>
     <description>Latest articles from Scientific American magazine</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Feb 2026 07:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 07:07:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -310,11 +310,12 @@
 
     <item>
       <title>Your guide to 29 wildly different theories of consciousness</title>
+      <link>https://www.scientificamerican.com/article/your-guide-to-29-wildly-different-theories-of-consciousness/</link>
       <description>The many, many ways researchers hope to solve the toughest mystery in science</description>
       <pubDate>Tue, 20 Jan 2026 06:00:00 -0500</pubDate>
       <dc:creator>Allison Parshall</dc:creator>
       <author>Allison Parshall</author>
-      <guid isPermaLink="false">Your guide to 29 wildly different theories of consciousness</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/your-guide-to-29-wildly-different-theories-of-consciousness/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/1786c235c24add01/original/saw0226Pars02.jpg?m=1767811508.893"/>
       <media:content url="https://static.scientificamerican.com/dam/m/1786c235c24add01/original/saw0226Pars02.jpg?m=1767811508.893" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/1786c235c24add01/original/saw0226Pars02.jpg?m=1767811508.893" type="image/jpeg"/>
