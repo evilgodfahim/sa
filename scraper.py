@@ -76,7 +76,10 @@ def extract_window_data(html_content):
     json_match = re.search(r'JSON\.parse\(`([\s\S]*?)`\)', script_body)
     if json_match:
         raw = json_match.group(1)
-        raw = raw.replace('\\`', '`')   # unescape any literal backticks
+        # JS template literal escape processing (mirrors what the browser does):
+        #   \\ → \   (so that \\" becomes \" which JSON can then parse as a literal ")
+        #   \` → `   (escaped backtick inside template literal)
+        raw = raw.replace('\\\\', '\\').replace('\\`', '`')
         try:
             data = json.loads(raw)
             logger.info("Successfully parsed window.__DATA__ (JSON.parse form)")
