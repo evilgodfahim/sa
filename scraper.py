@@ -53,38 +53,50 @@ def fetch_with_flaresolverr(url):
 def extract_window_data(html_content):
     """
     Extract and parse window.__DATA__ from the page HTML.
-    This contains full article info including correct URLs, authors, images, etc.
+    Targets <script id="__DATA__"> directly — much more reliable than a
+    full-page regex over a ~100 KB JSON string inside backticks.
     Returns the parsed dict or None.
     """
-    match = re.search(
-        r'window\.__DATA__\s*=\s*JSON\.parse\(`(.*?)`\)\s*;',
+    # Step 1: grab the content of the <script id="__DATA__"> tag
+    script_match = re.search(
+        r'<script[^>]+id=["\']__DATA__["\'][^>]*>([\s\S]*?)</script>',
         html_content,
-        flags=re.S
+        flags=re.I
     )
-    if not match:
-        # also try without JSON.parse wrapper (plain assignment)
-        match = re.search(
-            r'window\.__DATA__\s*=\s*(\{.*?\})\s*;',
-            html_content,
-            flags=re.S
-        )
-    if not match:
-        logger.warning("window.__DATA__ not found in HTML")
+    if not script_match:
+        logger.warning("<script id='__DATA__'> not found in HTML")
         return None
 
-    raw = match.group(1)
-    # The value is a JSON-encoded string inside backticks (already escaped for JS)
-    # We need to unescape JS escape sequences (\n, \t, \\, \", etc.)
-    try:
-        # ast.literal_eval won't help here; use json.loads with proper quoting
-        # The backtick-delimited string uses \` for literal backticks; handle that
-        raw = raw.replace('\\`', '`')
-        data = json.loads(raw)
-        logger.info("Successfully parsed window.__DATA__")
-        return data
-    except json.JSONDecodeError as e:
-        logger.error(f"Failed to parse window.__DATA__: {e}")
-        return None
+    script_body = script_match.group(1)
+
+    # Step 2: the assignment is one of:
+    #   window.__DATA__=JSON.parse(`{...}`)
+    #   window.__DATA__={...}
+    # Try JSON.parse(`...`) form first
+    json_match = re.search(r'JSON\.parse\(`([\s\S]*?)`\)', script_body)
+    if json_match:
+        raw = json_match.group(1)
+        raw = raw.replace('\\`', '`')   # unescape any literal backticks
+        try:
+            data = json.loads(raw)
+            logger.info("Successfully parsed window.__DATA__ (JSON.parse form)")
+            return data
+        except json.JSONDecodeError as e:
+            logger.error(f"Failed to parse window.__DATA__ JSON.parse content: {e}")
+            # fall through to plain-object attempt
+
+    # Try plain object assignment: window.__DATA__={...}
+    obj_match = re.search(r'window\.__DATA__\s*=\s*(\{[\s\S]*\})', script_body)
+    if obj_match:
+        try:
+            data = json.loads(obj_match.group(1))
+            logger.info("Successfully parsed window.__DATA__ (plain object form)")
+            return data
+        except json.JSONDecodeError as e:
+            logger.error(f"Failed to parse window.__DATA__ plain object: {e}")
+
+    logger.warning("Could not extract JSON from __DATA__ script tag")
+    return None
 
 
 def normalize_articles_from_window_data(window_data):
@@ -191,6 +203,7 @@ def extract_articles_from_html(html_content):
             return articles
 
     logger.warning("window.__DATA__ extraction failed or empty; trying JSON-LD fallback")
+    logger.warning("NOTE: JSON-LD fallback does NOT contain article URLs — <link> tags will be missing")
     return extract_articles_from_jsonld(html_content)
 
 
