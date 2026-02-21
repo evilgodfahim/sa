@@ -5,16 +5,17 @@
     <link>https://www.scientificamerican.com/latest-issue/</link>
     <description>Latest articles from Scientific American magazine</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Feb 2026 19:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 19:18:18 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
       <title>Ancient humans were making fire 350,000 years earlier than scientists realized</title>
+      <link>https://www.scientificamerican.com/article/ancient-humans-were-making-fire-350-000-years-earlier-than-scientists/</link>
       <description>Making fire on demand was a milestone in the lives of our early ancestors. But the question of when that skill first arose has been difficult for scientists to pin down</description>
       <pubDate>Wed, 10 Dec 2025 11:00:00 -0500</pubDate>
       <dc:creator>Meghan Bartels</dc:creator>
       <author>Meghan Bartels</author>
-      <guid isPermaLink="false">Ancient humans were making fire 350,000 years earlier than scientists realized</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/ancient-humans-were-making-fire-350-000-years-earlier-than-scientists/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/87a7900ac0624916/original/sa0326Adva02.jpg?m=1770217792.238"/>
       <media:content url="https://static.scientificamerican.com/dam/m/87a7900ac0624916/original/sa0326Adva02.jpg?m=1770217792.238" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/87a7900ac0624916/original/sa0326Adva02.jpg?m=1770217792.238" type="image/jpeg"/>
@@ -22,11 +23,12 @@
 
     <item>
       <title>Math puzzle: The sum of all circles</title>
+      <link>https://www.scientificamerican.com/article/math-puzzle-the-sum-of-all-circles/</link>
       <description>Sum up the circles in this math puzzle</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Jack Murtagh</dc:creator>
       <author>Jack Murtagh</author>
-      <guid isPermaLink="false">Math puzzle: The sum of all circles</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/math-puzzle-the-sum-of-all-circles/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878"/>
       <media:content url="https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878" type="image/jpeg"/>
@@ -34,11 +36,12 @@
 
     <item>
       <title>Yellowstone’s earthquakes spark microbial boom deep underground</title>
+      <link>https://www.scientificamerican.com/article/yellowstones-earthquakes-spark-microbial-boom-deep-underground/</link>
       <description>Earthquake swarms can supercharge microbial growth</description>
       <pubDate>Mon, 09 Feb 2026 07:00:00 -0500</pubDate>
       <dc:creator>Damien Pine</dc:creator>
       <author>Damien Pine</author>
-      <guid isPermaLink="false">Yellowstone’s earthquakes spark microbial boom deep underground</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/yellowstones-earthquakes-spark-microbial-boom-deep-underground/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/ce914bb1b4387b77/original/sa0326Adva03.jpg?m=1770219078.391"/>
       <media:content url="https://static.scientificamerican.com/dam/m/ce914bb1b4387b77/original/sa0326Adva03.jpg?m=1770219078.391" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/ce914bb1b4387b77/original/sa0326Adva03.jpg?m=1770219078.391" type="image/jpeg"/>
@@ -46,11 +49,12 @@
 
     <item>
       <title>Astronomers spot one of the largest spinning structures in the universe</title>
-      <description>This enormous chain of hundreds of galaxies—a cosmic filament—is twisting through space 400 million light-years away</description>
+      <link>https://www.scientificamerican.com/article/astronomers-spot-one-of-the-largest-spinning-structures-in-the-universe/</link>
+      <description>This enormous chain of hundreds of galaxies&amp;mdash;a cosmic filament&amp;mdash;is twisting through space 400 million light-years away</description>
       <pubDate>Mon, 16 Feb 2026 06:45:00 -0500</pubDate>
       <dc:creator>Humberto Basilio</dc:creator>
       <author>Humberto Basilio</author>
-      <guid isPermaLink="false">Astronomers spot one of the largest spinning structures in the universe</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/astronomers-spot-one-of-the-largest-spinning-structures-in-the-universe/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/5db68b0d14397a28/original/saw0326Adva04.jpg?m=1770229468.578"/>
       <media:content url="https://static.scientificamerican.com/dam/m/5db68b0d14397a28/original/saw0326Adva04.jpg?m=1770229468.578" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/5db68b0d14397a28/original/saw0326Adva04.jpg?m=1770229468.578" type="image/jpeg"/>
@@ -58,11 +62,12 @@
 
     <item>
       <title>AI tool decreased political polarization from social media algorithms</title>
-      <description>Researchers used a browser extension to reorder people’s X feeds, reducing their polarizing effect</description>
+      <link>https://www.scientificamerican.com/article/ai-tool-decreased-political-polarization-from-social-media-algorithms/</link>
+      <description>Researchers used a browser extension to reorder people&amp;rsquo;s X feeds, reducing their polarizing effect</description>
       <pubDate>Fri, 13 Feb 2026 06:45:00 -0500</pubDate>
       <dc:creator>Simon Makin</dc:creator>
       <author>Simon Makin</author>
-      <guid isPermaLink="false">AI tool decreased political polarization from social media algorithms</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/ai-tool-decreased-political-polarization-from-social-media-algorithms/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/c091f307a06955cd/original/sa0326Adva05.jpg?m=1770908782.108"/>
       <media:content url="https://static.scientificamerican.com/dam/m/c091f307a06955cd/original/sa0326Adva05.jpg?m=1770908782.108" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/c091f307a06955cd/original/sa0326Adva05.jpg?m=1770908782.108" type="image/jpeg"/>
@@ -70,11 +75,12 @@
 
     <item>
       <title>Scientists create exotic new forms of ice never before seen on Earth</title>
+      <link>https://www.scientificamerican.com/article/scientists-create-exotic-new-forms-of-ice-never-before-seen-on-earth/</link>
       <description>Ice has many forms beyond the mundane stuff produced in a standard freezer</description>
       <pubDate>Fri, 23 Jan 2026 10:15:00 -0500</pubDate>
       <dc:creator>Meghan Bartels</dc:creator>
       <author>Meghan Bartels</author>
-      <guid isPermaLink="false">Scientists create exotic new forms of ice never before seen on Earth</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/scientists-create-exotic-new-forms-of-ice-never-before-seen-on-earth/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/41dd0bd23a332b0a/original/sa0326Adva06-online-early-gettyimages-623618316.jpg?m=1769179535.464"/>
       <media:content url="https://static.scientificamerican.com/dam/m/41dd0bd23a332b0a/original/sa0326Adva06-online-early-gettyimages-623618316.jpg?m=1769179535.464" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/41dd0bd23a332b0a/original/sa0326Adva06-online-early-gettyimages-623618316.jpg?m=1769179535.464" type="image/jpeg"/>
@@ -82,11 +88,12 @@
 
     <item>
       <title>Here’s how much practice you need to become the best in the world</title>
+      <link>https://www.scientificamerican.com/article/heres-how-much-practice-you-need-to-become-the-best-in-the-world/</link>
       <description>Are you a specialist or a generalist? The answer could reveal something about how well you learn and perfect a skill</description>
       <pubDate>Thu, 18 Dec 2025 15:00:00 -0500</pubDate>
       <dc:creator>Claire Cameron</dc:creator>
       <author>Claire Cameron</author>
-      <guid isPermaLink="false">Here’s how much practice you need to become the best in the world</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/heres-how-much-practice-you-need-to-become-the-best-in-the-world/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/65e9378c80109e7d/original/sa0326Adva07.jpg?m=1770221427.488"/>
       <media:content url="https://static.scientificamerican.com/dam/m/65e9378c80109e7d/original/sa0326Adva07.jpg?m=1770221427.488" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/65e9378c80109e7d/original/sa0326Adva07.jpg?m=1770221427.488" type="image/jpeg"/>
@@ -94,11 +101,12 @@
 
     <item>
       <title>Ancient bees burrowed inside bones, fossils reveal</title>
+      <link>https://www.scientificamerican.com/article/ancient-bees-burrowed-inside-bones-fossils-reveal/</link>
       <description>Bones of now extinct species became a haven for bee babies thousands of years ago, scientists report in a first-of-its-kind discovery</description>
       <pubDate>Tue, 16 Dec 2025 19:05:00 -0500</pubDate>
       <dc:creator>Stephanie Pappas</dc:creator>
       <author>Stephanie Pappas</author>
-      <guid isPermaLink="false">Ancient bees burrowed inside bones, fossils reveal</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/ancient-bees-burrowed-inside-bones-fossils-reveal/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/63248fc85ed02dcf/original/bees-in-ground-fossil-1-_web.jpeg?m=1770836967.673"/>
       <media:content url="https://static.scientificamerican.com/dam/m/63248fc85ed02dcf/original/bees-in-ground-fossil-1-_web.jpeg?m=1770836967.673" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/63248fc85ed02dcf/original/bees-in-ground-fossil-1-_web.jpeg?m=1770836967.673" type="image/jpeg"/>
@@ -106,11 +114,12 @@
 
     <item>
       <title>New research reveals how the brain separates speech into words</title>
+      <link>https://www.scientificamerican.com/article/new-research-reveals-how-the-brain-separates-speech-into-words/</link>
       <description>Speech blurs together unless you know the language; scientists found the brain signal that separates the words</description>
       <pubDate>Thu, 12 Feb 2026 06:45:00 -0500</pubDate>
       <dc:creator>Elise Cutts</dc:creator>
       <author>Elise Cutts</author>
-      <guid isPermaLink="false">New research reveals how the brain separates speech into words</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/new-research-reveals-how-the-brain-separates-speech-into-words/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/244613ff57aa6ff5/original/sa0326Adva09.jpg?m=1770222171.092"/>
       <media:content url="https://static.scientificamerican.com/dam/m/244613ff57aa6ff5/original/sa0326Adva09.jpg?m=1770222171.092" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/244613ff57aa6ff5/original/sa0326Adva09.jpg?m=1770222171.092" type="image/jpeg"/>
@@ -118,11 +127,12 @@
 
     <item>
       <title>Axolotls can regenerate their thymus, a complex immune system organ</title>
+      <link>https://www.scientificamerican.com/article/axolotls-can-regenerate-their-thymus-a-complex-immune-system-organ/</link>
       <description>Axolotls can completely rebuild their thymus, a key immune organ</description>
       <pubDate>Sat, 14 Feb 2026 07:00:00 -0500</pubDate>
       <dc:creator>Taylor Mitchell Brown</dc:creator>
       <author>Taylor Mitchell Brown</author>
-      <guid isPermaLink="false">Axolotls can regenerate their thymus, a complex immune system organ</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/axolotls-can-regenerate-their-thymus-a-complex-immune-system-organ/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/acc02c65135fc522/original/sa0326Adva10.jpg?m=1770222547.316"/>
       <media:content url="https://static.scientificamerican.com/dam/m/acc02c65135fc522/original/sa0326Adva10.jpg?m=1770222547.316" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/acc02c65135fc522/original/sa0326Adva10.jpg?m=1770222547.316" type="image/jpeg"/>
@@ -130,11 +140,12 @@
 
     <item>
       <title>How ‘effectively zero-knowledge’ proofs could transform cryptography</title>
-      <description>A new tool expands the ways people can prove they’ve solved a problem without revealing the solution</description>
+      <link>https://www.scientificamerican.com/article/how-effectively-zero-knowledge-proofs-could-transform-cryptography/</link>
+      <description>A new tool expands the ways people can prove they&amp;rsquo;ve solved a problem without revealing the solution</description>
       <pubDate>Wed, 11 Feb 2026 06:45:00 -0500</pubDate>
       <dc:creator>Peter Hall</dc:creator>
       <author>Peter Hall</author>
-      <guid isPermaLink="false">How ‘effectively zero-knowledge’ proofs could transform cryptography</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-effectively-zero-knowledge-proofs-could-transform-cryptography/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/a55cb8e8d08911e2/original/sa0326Adva11.jpg?m=1770908878.707"/>
       <media:content url="https://static.scientificamerican.com/dam/m/a55cb8e8d08911e2/original/sa0326Adva11.jpg?m=1770908878.707" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/a55cb8e8d08911e2/original/sa0326Adva11.jpg?m=1770908878.707" type="image/jpeg"/>
@@ -142,11 +153,12 @@
 
     <item>
       <title>The ghost in the machine</title>
+      <link>https://www.scientificamerican.com/article/the-ghost-in-the-machine/</link>
       <description>AI is forcing us to redraw the line between author and tool</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>David M. Ewalt</dc:creator>
       <author>David M. Ewalt</author>
-      <guid isPermaLink="false">The ghost in the machine</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-ghost-in-the-machine/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/c2a3ba24987eb62f/original/sa0326-FromTheEditor-IssueCover.jpg?m=1770829300.117"/>
       <media:content url="https://static.scientificamerican.com/dam/m/c2a3ba24987eb62f/original/sa0326-FromTheEditor-IssueCover.jpg?m=1770829300.117" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/c2a3ba24987eb62f/original/sa0326-FromTheEditor-IssueCover.jpg?m=1770829300.117" type="image/jpeg"/>
@@ -154,11 +166,12 @@
 
     <item>
       <title>Readers respond to the November 2025 issue</title>
+      <link>https://www.scientificamerican.com/article/readers-respond-to-the-november-2025-issue/</link>
       <description>Letters to the editors for the November 2025 issue of Scientific American</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Aaron Shattuck</dc:creator>
       <author>Aaron Shattuck</author>
-      <guid isPermaLink="false">Readers respond to the November 2025 issue</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/readers-respond-to-the-november-2025-issue/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/451ce447180a8650/original/sa0326-Letters-IssueCover.jpg?m=1770829533.582"/>
       <media:content url="https://static.scientificamerican.com/dam/m/451ce447180a8650/original/sa0326-Letters-IssueCover.jpg?m=1770829533.582" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/451ce447180a8650/original/sa0326-Letters-IssueCover.jpg?m=1770829533.582" type="image/jpeg"/>
@@ -166,11 +179,12 @@
 
     <item>
       <title>Vertical solar panels—wind-resistant trackers for high latitudes</title>
+      <link>https://www.scientificamerican.com/article/vertical-solar-panels-wind-resistant-trackers-for-high-latitudes-vaja/</link>
       <description>Traditional solar fails in the windswept north. Two Swedish inventors are betting on aerodynamic resilience to solve the latitude gap</description>
       <pubDate>Tue, 13 Jan 2026 08:00:00 -0500</pubDate>
       <dc:creator>Deni Ellis Béchard</dc:creator>
       <author>Deni Ellis Béchard</author>
-      <guid isPermaLink="false">Vertical solar panels—wind-resistant trackers for high latitudes</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/vertical-solar-panels-wind-resistant-trackers-for-high-latitudes-vaja/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/6a70d72d7facff67/original/saw0326Indu01.jpg?m=1768320670.74"/>
       <media:content url="https://static.scientificamerican.com/dam/m/6a70d72d7facff67/original/saw0326Indu01.jpg?m=1768320670.74" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/6a70d72d7facff67/original/saw0326Indu01.jpg?m=1768320670.74" type="image/jpeg"/>
@@ -178,11 +192,12 @@
 
     <item>
       <title>How Stanford doctors use AI scribes to cut paperwork and focus on patients</title>
-      <description>When a patient shared the story of her sister’s death, an AI captured the clinical details—freeing physician Christopher Sharp to just be present</description>
+      <link>https://www.scientificamerican.com/article/how-stanford-doctors-use-ai-scribes-to-cut-paperwork-and-focus-on-patients/</link>
+      <description>When a patient shared the story of her sister&amp;rsquo;s death, an AI captured the clinical details&amp;mdash;freeing physician Christopher Sharp to just be present</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Deni Ellis Béchard</dc:creator>
       <author>Deni Ellis Béchard</author>
-      <guid isPermaLink="false">How Stanford doctors use AI scribes to cut paperwork and focus on patients</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-stanford-doctors-use-ai-scribes-to-cut-paperwork-and-focus-on-patients/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/b096525af208b49a/original/AI-portraits-sharpBlue.jpg?m=1770046938.776"/>
       <media:content url="https://static.scientificamerican.com/dam/m/b096525af208b49a/original/AI-portraits-sharpBlue.jpg?m=1770046938.776" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/b096525af208b49a/original/AI-portraits-sharpBlue.jpg?m=1770046938.776" type="image/jpeg"/>
@@ -190,11 +205,12 @@
 
     <item>
       <title>How artist Stephanie Dinkins is trying to fix AI bias</title>
-      <description>Transdisciplinary artist Stephanie Dinkins challenges us to rethink what we feed our machines—and asks what AI might become if it were trained on care</description>
+      <link>https://www.scientificamerican.com/article/how-artist-stephanie-dinkins-is-trying-to-fix-ai-bias/</link>
+      <description>Transdisciplinary artist Stephanie Dinkins challenges us to rethink what we feed our machines&amp;mdash;and asks what AI might become if it were trained on care</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Deni Ellis Béchard</dc:creator>
       <author>Deni Ellis Béchard</author>
-      <guid isPermaLink="false">How artist Stephanie Dinkins is trying to fix AI bias</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-artist-stephanie-dinkins-is-trying-to-fix-ai-bias/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/01a10fa671ca5c5c/original/AI-portraits-dinkinsBlue.jpg?m=1770047137.862"/>
       <media:content url="https://static.scientificamerican.com/dam/m/01a10fa671ca5c5c/original/AI-portraits-dinkinsBlue.jpg?m=1770047137.862" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/01a10fa671ca5c5c/original/AI-portraits-dinkinsBlue.jpg?m=1770047137.862" type="image/jpeg"/>
@@ -202,11 +218,12 @@
 
     <item>
       <title>A veteran teacher explains how to use AI in the classroom the right way</title>
-      <description>Veteran teacher Jen Roberts explains why generative tools are more than just a platform for cheating—they’re a way to make classrooms fairer and more human</description>
+      <link>https://www.scientificamerican.com/article/a-veteran-teacher-explains-how-to-use-ai-in-the-classroom-the-right-way/</link>
+      <description>Veteran teacher Jen Roberts explains why generative tools are more than just a platform for cheating&amp;mdash;they&amp;rsquo;re a way to make classrooms fairer and more human</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Deni Ellis Béchard</dc:creator>
       <author>Deni Ellis Béchard</author>
-      <guid isPermaLink="false">A veteran teacher explains how to use AI in the classroom the right way</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/a-veteran-teacher-explains-how-to-use-ai-in-the-classroom-the-right-way/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/3b7f07827499c9b5/original/AI-portraits-robertsBlue.jpg?m=1770047260.346"/>
       <media:content url="https://static.scientificamerican.com/dam/m/3b7f07827499c9b5/original/AI-portraits-robertsBlue.jpg?m=1770047260.346" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/3b7f07827499c9b5/original/AI-portraits-robertsBlue.jpg?m=1770047260.346" type="image/jpeg"/>
@@ -214,11 +231,12 @@
 
     <item>
       <title>How AI helps this civil rights lawyer beat the Feds</title>
-      <description>Joseph McMullen uses AI to sort through terabytes of evidence, freeing him to focus on what the machines can’t find: the human story</description>
+      <link>https://www.scientificamerican.com/article/how-ai-helps-this-civil-rights-lawyer-beat-the-feds/</link>
+      <description>Joseph McMullen uses AI to sort through terabytes of evidence, freeing him to focus on what the machines can&amp;rsquo;t find: the human story</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Deni Ellis Béchard</dc:creator>
       <author>Deni Ellis Béchard</author>
-      <guid isPermaLink="false">How AI helps this civil rights lawyer beat the Feds</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-ai-helps-this-civil-rights-lawyer-beat-the-feds/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/0387d0d6801aabca/original/AI-portraits-mcmullenBlue.jpg?m=1770047389.977"/>
       <media:content url="https://static.scientificamerican.com/dam/m/0387d0d6801aabca/original/AI-portraits-mcmullenBlue.jpg?m=1770047389.977" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/0387d0d6801aabca/original/AI-portraits-mcmullenBlue.jpg?m=1770047389.977" type="image/jpeg"/>
@@ -226,11 +244,12 @@
 
     <item>
       <title>How one chemist is using AI and robots to automate lab experiments</title>
+      <link>https://www.scientificamerican.com/article/how-one-chemist-is-using-ai-and-robots-to-automate-lab-experiments/</link>
       <description>Gabriel Gomes built an agent that turns plain English into physical experiments, enabling research that humans alone could never sustain</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Deni Ellis Béchard</dc:creator>
       <author>Deni Ellis Béchard</author>
-      <guid isPermaLink="false">How one chemist is using AI and robots to automate lab experiments</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-one-chemist-is-using-ai-and-robots-to-automate-lab-experiments/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/ea400004fc2682fb/original/AI-portraits-gomesBlue.jpg?m=1770047496.134"/>
       <media:content url="https://static.scientificamerican.com/dam/m/ea400004fc2682fb/original/AI-portraits-gomesBlue.jpg?m=1770047496.134" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/ea400004fc2682fb/original/AI-portraits-gomesBlue.jpg?m=1770047496.134" type="image/jpeg"/>
@@ -238,11 +257,12 @@
 
     <item>
       <title>How influential people map their social world</title>
+      <link>https://www.scientificamerican.com/article/how-influential-people-map-their-social-world/</link>
       <description>The same brain areas that help us map physical space help us chart social connections, and the best relationship cartographers have most clout</description>
       <pubDate>Mon, 17 Nov 2025 07:00:00 -0500</pubDate>
       <dc:creator>Oriel FeldmanHall</dc:creator>
       <author>Oriel FeldmanHall</author>
-      <guid isPermaLink="false">How influential people map their social world</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-influential-people-map-their-social-world/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/bbafa3e31b058244/original/sa0326Mind01.jpg?m=1770404041.186"/>
       <media:content url="https://static.scientificamerican.com/dam/m/bbafa3e31b058244/original/sa0326Mind01.jpg?m=1770404041.186" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/bbafa3e31b058244/original/sa0326Mind01.jpg?m=1770404041.186" type="image/jpeg"/>
@@ -250,11 +270,12 @@
 
     <item>
       <title>Science crossword: What’s inside?</title>
+      <link>https://www.scientificamerican.com/article/science-crossword-whats-inside/</link>
       <description>Play this crossword inspired by the March 2026 issue of Scientific American</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Aimee Lucido</dc:creator>
       <author>Aimee Lucido</author>
-      <guid isPermaLink="false">Science crossword: What’s inside?</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/science-crossword-whats-inside/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078"/>
       <media:content url="https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078" type="image/jpeg"/>
@@ -262,11 +283,12 @@
 
     <item>
       <title>This mathematician proved the random walk theorem to clear his name as a lurker</title>
-      <description>George Pólya’s random walk theorem absolved him of being a lurker and revealed how the laws of chance interact with physical space</description>
+      <link>https://www.scientificamerican.com/article/this-mathematician-proved-the-random-walk-theorem-to-clear-his-name-as-a/</link>
+      <description>George P&amp;oacute;lya&amp;rsquo;s random walk theorem absolved him of being a lurker and revealed how the laws of chance interact with physical space</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Jack Murtagh</dc:creator>
       <author>Jack Murtagh</author>
-      <guid isPermaLink="false">This mathematician proved the random walk theorem to clear his name as a lurker</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/this-mathematician-proved-the-random-walk-theorem-to-clear-his-name-as-a/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/b174bf202c355c33/original/sa0326Math01.jpg?m=1770410426.763"/>
       <media:content url="https://static.scientificamerican.com/dam/m/b174bf202c355c33/original/sa0326Math01.jpg?m=1770410426.763" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/b174bf202c355c33/original/sa0326Math01.jpg?m=1770410426.763" type="image/jpeg"/>
@@ -274,11 +296,12 @@
 
     <item>
       <title>Is a river alive? A conversation with Robert Macfarlane on nature’s sovereignty</title>
-      <description>Scientific American sits down with nature writer Robert Macfarlane to discuss his latest book—one of our top picks of 2025—and whether a river has rights</description>
+      <link>https://www.scientificamerican.com/article/is-a-river-alive-a-conversation-with-robert-macfarlane-on-natures/</link>
+      <description>Scientific American sits down with nature writer Robert Macfarlane to discuss his latest book&amp;mdash;one of our top picks of 2025&amp;mdash;and whether a river has rights</description>
       <pubDate>Fri, 05 Dec 2025 13:30:00 -0500</pubDate>
       <dc:creator>Andrea Gawrylewski</dc:creator>
       <author>Andrea Gawrylewski</author>
-      <guid isPermaLink="false">Is a river alive? A conversation with Robert Macfarlane on nature’s sovereignty</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/is-a-river-alive-a-conversation-with-robert-macfarlane-on-natures/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/13f6314fc885912e/original/sa0326QA01.jpg?m=1770411530.18"/>
       <media:content url="https://static.scientificamerican.com/dam/m/13f6314fc885912e/original/sa0326QA01.jpg?m=1770411530.18" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/13f6314fc885912e/original/sa0326QA01.jpg?m=1770411530.18" type="image/jpeg"/>
@@ -286,11 +309,12 @@
 
     <item>
       <title>Dealing with stress-caused sickness in family caregivers</title>
+      <link>https://www.scientificamerican.com/article/dealing-with-stress-caused-sickness-in-family-caregivers/</link>
       <description>People who help sick, aging loved ones are at risk for physical illness themselves. There may be ways to improve their resilience</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Lydia Denworth</dc:creator>
       <author>Lydia Denworth</author>
-      <guid isPermaLink="false">Dealing with stress-caused sickness in family caregivers</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/dealing-with-stress-caused-sickness-in-family-caregivers/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/c5ced13bcd627998/original/sa0326SoH01.jpg?m=1770411867.255"/>
       <media:content url="https://static.scientificamerican.com/dam/m/c5ced13bcd627998/original/sa0326SoH01.jpg?m=1770411867.255" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/c5ced13bcd627998/original/sa0326SoH01.jpg?m=1770411867.255" type="image/jpeg"/>
@@ -298,11 +322,12 @@
 
     <item>
       <title>Poem: ‘Boulders at Hickory Run’</title>
+      <link>https://www.scientificamerican.com/article/poem-boulders-at-hickory-run/</link>
       <description>Science in meter and verse</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Chris Bullard</dc:creator>
       <author>Chris Bullard</author>
-      <guid isPermaLink="false">Poem: ‘Boulders at Hickory Run’</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/poem-boulders-at-hickory-run/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/40ffc4cfcb3bb2ed/original/sa0326Metr-crop.jpg?m=1770412300.386"/>
       <media:content url="https://static.scientificamerican.com/dam/m/40ffc4cfcb3bb2ed/original/sa0326Metr-crop.jpg?m=1770412300.386" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/40ffc4cfcb3bb2ed/original/sa0326Metr-crop.jpg?m=1770412300.386" type="image/jpeg"/>
@@ -310,11 +335,12 @@
 
     <item>
       <title>Cosmic magnification is one of the universe’s weirdest optical illusions</title>
+      <link>https://www.scientificamerican.com/article/cosmic-magnification-is-one-of-the-universes-weirdest-optical-illusions/</link>
       <description>In our topsy-turvy universe, sometimes the farther away an object is, the bigger it seems to be</description>
       <pubDate>Fri, 05 Dec 2025 06:45:00 -0500</pubDate>
       <dc:creator>Phil Plait</dc:creator>
       <author>Phil Plait</author>
-      <guid isPermaLink="false">Cosmic magnification is one of the universe’s weirdest optical illusions</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/cosmic-magnification-is-one-of-the-universes-weirdest-optical-illusions/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/3b8b42480116ba5a/original/GettyImages-2005618157-WEB.jpg?m=1764880215.243"/>
       <media:content url="https://static.scientificamerican.com/dam/m/3b8b42480116ba5a/original/GettyImages-2005618157-WEB.jpg?m=1764880215.243" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/3b8b42480116ba5a/original/GettyImages-2005618157-WEB.jpg?m=1764880215.243" type="image/jpeg"/>
@@ -322,11 +348,12 @@
 
     <item>
       <title>Moving to a walkable city can add 1,100 steps to your day</title>
-      <description>Researchers found that walkable city design—not personal motivation—was the key factor behind people taking 1,100 more steps per day</description>
+      <link>https://www.scientificamerican.com/article/moving-to-a-walkable-city-can-add-1-100-steps-to-your-day/</link>
+      <description>Researchers found that walkable city design&amp;mdash;not personal motivation&amp;mdash;was the key factor behind people taking 1,100 more steps per day</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Eve Lu</dc:creator>
       <author>Eve Lu</author>
-      <guid isPermaLink="false">Moving to a walkable city can add 1,100 steps to your day</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/moving-to-a-walkable-city-can-add-1-100-steps-to-your-day/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/880c07745ddad59b/original/saw0326Gsci_lead.jpg?m=1770737402.823"/>
       <media:content url="https://static.scientificamerican.com/dam/m/880c07745ddad59b/original/saw0326Gsci_lead.jpg?m=1770737402.823" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/880c07745ddad59b/original/saw0326Gsci_lead.jpg?m=1770737402.823" type="image/jpeg"/>
@@ -334,11 +361,12 @@
 
     <item>
       <title>March 2026: Science history from 50, 100 and 150 years ago</title>
+      <link>https://www.scientificamerican.com/article/march-2026-science-history-from-50-100-and-150-years-ago/</link>
       <description>A Greenland mystery; booming dunes</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Jeanna Bryner</dc:creator>
       <author>Jeanna Bryner</author>
-      <guid isPermaLink="false">March 2026: Science history from 50, 100 and 150 years ago</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/march-2026-science-history-from-50-100-and-150-years-ago/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/a81f5804e50b1afc/original/sa0326Hist04.jpg?m=1770739255.813"/>
       <media:content url="https://static.scientificamerican.com/dam/m/a81f5804e50b1afc/original/sa0326Hist04.jpg?m=1770739255.813" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/a81f5804e50b1afc/original/sa0326Hist04.jpg?m=1770739255.813" type="image/jpeg"/>
@@ -346,11 +374,12 @@
 
     <item>
       <title>How AI copilots became everyday infrastructure</title>
-      <description>From the exam room to the classroom, artificial intelligence is no longer just a tool—it&apos;s infrastructure. An introduction to our special report on life in the age of AI.</description>
+      <link>https://www.scientificamerican.com/article/how-ai-copilots-became-everyday-infrastructure/</link>
+      <description>From the exam room to the classroom, artificial intelligence is no longer just a tool&amp;mdash;it&apos;s infrastructure. An introduction to our special report on life in the age of AI.</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Eric Sullivan</dc:creator>
       <author>Eric Sullivan</author>
-      <guid isPermaLink="false">How AI copilots became everyday infrastructure</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-ai-copilots-became-everyday-infrastructure/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/74d69202e987e7e6/original/saw0326AI01_square.jpg?m=1769792587.04"/>
       <media:content url="https://static.scientificamerican.com/dam/m/74d69202e987e7e6/original/saw0326AI01_square.jpg?m=1769792587.04" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/74d69202e987e7e6/original/saw0326AI01_square.jpg?m=1769792587.04" type="image/jpeg"/>
@@ -358,11 +387,12 @@
 
     <item>
       <title>AI Is entering health care, and nurses are being asked to trust it</title>
-      <description>When alerts misfire or can’t explain themselves, nurses still carry the risk</description>
+      <link>https://www.scientificamerican.com/article/ai-is-entering-health-care-and-nurses-are-being-asked-to-trust-it/</link>
+      <description>When alerts misfire or can&amp;rsquo;t explain themselves, nurses still carry the risk</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Hilke Schellmann</dc:creator>
       <author>Hilke Schellmann</author>
-      <guid isPermaLink="false">AI Is entering health care, and nurses are being asked to trust it</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/ai-is-entering-health-care-and-nurses-are-being-asked-to-trust-it/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/c9ae1027f8d3f1d6/original/sa0326AI03.jpg?m=1769793208.377"/>
       <media:content url="https://static.scientificamerican.com/dam/m/c9ae1027f8d3f1d6/original/sa0326AI03.jpg?m=1769793208.377" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/c9ae1027f8d3f1d6/original/sa0326AI03.jpg?m=1769793208.377" type="image/jpeg"/>
@@ -370,11 +400,12 @@
 
     <item>
       <title>Deepfakes are getting faster than fact-checks, says digital forensics expert Hany Farid</title>
+      <link>https://www.scientificamerican.com/article/deepfakes-are-getting-faster-than-fact-checks-says-digital-forensics-expert/</link>
       <description>Digital forensics pioneer Hany Farid explains what it will take to rebuild trust in the deepfake era</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Eric Sullivan</dc:creator>
       <author>Eric Sullivan</author>
-      <guid isPermaLink="false">Deepfakes are getting faster than fact-checks, says digital forensics expert Hany Farid</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/deepfakes-are-getting-faster-than-fact-checks-says-digital-forensics-expert/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/76be9b9e98677589/original/sa0326AI08.jpg?m=1769793717.768"/>
       <media:content url="https://static.scientificamerican.com/dam/m/76be9b9e98677589/original/sa0326AI08.jpg?m=1769793717.768" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/76be9b9e98677589/original/sa0326AI08.jpg?m=1769793717.768" type="image/jpeg"/>
@@ -382,11 +413,12 @@
 
     <item>
       <title>What are JWST’s Little Red Dots? Astronomers may finally have an answer</title>
+      <link>https://www.scientificamerican.com/article/what-are-jwsts-little-red-dots-astronomers-may-finally-have-an-answer/</link>
       <description>Astronomers are racing to understand mysterious ancient objects that pepper James Webb Space Telescope images</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Rebecca Boyle</dc:creator>
       <author>Rebecca Boyle</author>
-      <guid isPermaLink="false">What are JWST’s Little Red Dots? Astronomers may finally have an answer</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/what-are-jwsts-little-red-dots-astronomers-may-finally-have-an-answer/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/5ccccd4de88e3b9e/original/saw0326Boyl01.jpg?m=1769799658.827"/>
       <media:content url="https://static.scientificamerican.com/dam/m/5ccccd4de88e3b9e/original/saw0326Boyl01.jpg?m=1769799658.827" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/5ccccd4de88e3b9e/original/saw0326Boyl01.jpg?m=1769799658.827" type="image/jpeg"/>
@@ -394,11 +426,12 @@
 
     <item>
       <title>Polyamory isn’t all about sex</title>
-      <description>An anthropologist’s detailed research shows polyamorists focus on intimacy and honesty, not sleeping around</description>
+      <link>https://www.scientificamerican.com/article/polyamory-isnt-all-about-sex/</link>
+      <description>An anthropologist&amp;rsquo;s detailed research shows polyamorists focus on intimacy and honesty, not sleeping around</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Rebecca J. Lester</dc:creator>
       <author>Rebecca J. Lester</author>
-      <guid isPermaLink="false">Polyamory isn’t all about sex</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/polyamory-isnt-all-about-sex/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/0f325c7b1494a841/original/saw0326Lest02.jpg?m=1769800398.972"/>
       <media:content url="https://static.scientificamerican.com/dam/m/0f325c7b1494a841/original/saw0326Lest02.jpg?m=1769800398.972" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/0f325c7b1494a841/original/saw0326Lest02.jpg?m=1769800398.972" type="image/jpeg"/>
@@ -406,11 +439,12 @@
 
     <item>
       <title>Photographer finds thousands of Triassic dinosaur prints on sheer mountain cliffs</title>
+      <link>https://www.scientificamerican.com/article/photographer-finds-thousands-of-triassic-dinosaur-prints-on-sheer-mountain/</link>
       <description>A newfound site in the Italian Alps holds one of the largest collections of Triassic dinosaur footprints ever seen</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Humberto Basilio</dc:creator>
       <author>Humberto Basilio</author>
-      <guid isPermaLink="false">Photographer finds thousands of Triassic dinosaur prints on sheer mountain cliffs</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/photographer-finds-thousands-of-triassic-dinosaur-prints-on-sheer-mountain/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/d8ad8f8ca0650a3b/original/sa0326Basi02.jpg?m=1770913077.652"/>
       <media:content url="https://static.scientificamerican.com/dam/m/d8ad8f8ca0650a3b/original/sa0326Basi02.jpg?m=1770913077.652" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/d8ad8f8ca0650a3b/original/sa0326Basi02.jpg?m=1770913077.652" type="image/jpeg"/>
@@ -418,11 +452,12 @@
 
     <item>
       <title>Strange special relativity effect observed for the first time</title>
+      <link>https://www.scientificamerican.com/article/strange-special-relativity-effect-observed-for-the-first-time/</link>
       <description>Physicists have observed the bizarre Terrell-Penrose effect in real life</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Victoria Helm</dc:creator>
       <author>Victoria Helm</author>
-      <guid isPermaLink="false">Strange special relativity effect observed for the first time</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/strange-special-relativity-effect-observed-for-the-first-time/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/553bc0e7a95e4a0e/original/saw0326Scha01.jpg?m=1770918444.714"/>
       <media:content url="https://static.scientificamerican.com/dam/m/553bc0e7a95e4a0e/original/saw0326Scha01.jpg?m=1770918444.714" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/553bc0e7a95e4a0e/original/saw0326Scha01.jpg?m=1770918444.714" type="image/jpeg"/>
@@ -430,11 +465,12 @@
 
     <item>
       <title>Why privatizing public land won’t solve the housing crisis</title>
-      <description>An environmental scientist’s analysis reveals who will win and who will lose in the push to put federal land into private hands</description>
+      <link>https://www.scientificamerican.com/article/why-privatizing-public-land-wont-solve-the-housing-crisis/</link>
+      <description>An environmental scientist&amp;rsquo;s analysis reveals who will win and who will lose in the push to put federal land into private hands</description>
       <pubDate>Tue, 17 Feb 2026 06:00:00 -0500</pubDate>
       <dc:creator>Kyle Manley</dc:creator>
       <author>Kyle Manley</author>
-      <guid isPermaLink="false">Why privatizing public land won’t solve the housing crisis</guid>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/why-privatizing-public-land-wont-solve-the-housing-crisis/</guid>
       <media:thumbnail url="https://static.scientificamerican.com/dam/m/84d571f132be6db3/original/sa0326Manl01.jpg?m=1770065807.582"/>
       <media:content url="https://static.scientificamerican.com/dam/m/84d571f132be6db3/original/sa0326Manl01.jpg?m=1770065807.582" medium="image"/>
       <enclosure url="https://static.scientificamerican.com/dam/m/84d571f132be6db3/original/sa0326Manl01.jpg?m=1770065807.582" type="image/jpeg"/>
