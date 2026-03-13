@@ -198,16 +198,18 @@ def extract_articles_from_html(html_content):
     Primary extraction pipeline:
     1. Try window.__DATA__ (has correct URLs + rich metadata)
     2. Fall back to JSON-LD hasPart
+    Returns (articles, issue_date).
     """
     window_data = extract_window_data(html_content)
     if window_data:
         articles = normalize_articles_from_window_data(window_data)
         if articles:
-            return articles
+            issue_date = window_data.get('initialData', {}).get('issueData', {}).get('issue_date', '')
+            return articles, issue_date
 
     logger.warning("window.__DATA__ extraction failed or empty; trying JSON-LD fallback")
     logger.warning("NOTE: JSON-LD fallback does NOT contain article URLs — <link> tags will be missing")
-    return extract_articles_from_jsonld(html_content)
+    return extract_articles_from_jsonld(html_content), ''
 
 
 # ── RSS helpers ────────────────────────────────────────────────────────────────
@@ -275,8 +277,6 @@ def extract_image_url(image_field):
     if not image_field:
         return ''
     if isinstance(image_field, str):
-        # Reject strings that are clearly not image URLs
-        # (JSON-LD hasPart 'image' is just a plain URL string — that's fine)
         return image_field
     if isinstance(image_field, dict):
         return image_field.get('url') or image_field.get('@id') or ''
@@ -289,9 +289,10 @@ def extract_image_url(image_field):
     return ''
 
 
-def create_rss_feed(articles):
+def create_rss_feed(articles, issue_date=''):
     logger.info("Creating RSS feed")
     build_date = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S +0000")
+    issue_pubdate = parse_pubdate_iso_to_rfc822(issue_date + 'T00:00:00+00:00') if issue_date else ''
 
     rss_lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
@@ -325,8 +326,6 @@ def create_rss_feed(articles):
             article_url = urljoin(BASE_URL, article_url)
 
         description = extract_description(article)
-        pub_date_iso = article.get('datePublished') or article.get('dateCreated') or ''
-        rfc822_date = parse_pubdate_iso_to_rfc822(pub_date_iso)
 
         image_raw = extract_image_url(article.get('image', ''))
         image_url = urljoin(BASE_URL, image_raw) if image_raw else ''
@@ -342,8 +341,8 @@ def create_rss_feed(articles):
             rss_lines.append(f'      <link>{escape_xml(article_url)}</link>')
         if description:
             rss_lines.append(f'      <description>{escape_xml(description)}</description>')
-        if rfc822_date:
-            rss_lines.append(f'      <pubDate>{escape_xml(rfc822_date)}</pubDate>')
+        if issue_pubdate:
+            rss_lines.append(f'      <pubDate>{escape_xml(issue_pubdate)}</pubDate>')
         if author_name:
             rss_lines.append(f'      <dc:creator>{escape_xml(author_name)}</dc:creator>')
             rss_lines.append(f'      <author>{escape_xml(author_name)}</author>')
@@ -371,12 +370,12 @@ def main():
         logger.error("Failed to fetch page content")
         return False
 
-    articles = extract_articles_from_html(html_content)
+    articles, issue_date = extract_articles_from_html(html_content)
     if not articles:
         logger.error("No articles found")
         return False
 
-    rss_content = create_rss_feed(articles)
+    rss_content = create_rss_feed(articles, issue_date)
 
     try:
         with open(RSS_OUTPUT_FILE, 'w', encoding='utf-8') as f:
