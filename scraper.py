@@ -225,22 +225,6 @@ def escape_xml(text):
                 .replace("'", '&apos;'))
 
 
-def parse_pubdate_iso_to_rfc822(pub_date_iso):
-    if not pub_date_iso:
-        return ''
-    try:
-        if pub_date_iso.endswith('Z'):
-            dt = datetime.fromisoformat(pub_date_iso.replace('Z', '+00:00'))
-        elif re.match(r'^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$', pub_date_iso):
-            dt = datetime.fromisoformat(pub_date_iso + '+00:00')
-        else:
-            dt = datetime.fromisoformat(pub_date_iso)
-        return dt.strftime('%a, %d %b %Y %H:%M:%S %z')
-    except Exception as e:
-        logger.debug(f"Could not parse date '{pub_date_iso}': {e}")
-        return ''
-
-
 def normalize_author_field(author_field):
     if not author_field:
         return ''
@@ -291,8 +275,9 @@ def extract_image_url(image_field):
 
 def create_rss_feed(articles, issue_date=''):
     logger.info("Creating RSS feed")
-    build_date = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S +0000")
-    issue_pubdate = parse_pubdate_iso_to_rfc822(issue_date + 'T00:00:00+00:00') if issue_date else ''
+    # Capture processing time once — used for both lastBuildDate and every item's pubDate
+    now = datetime.utcnow()
+    build_date = now.strftime("%a, %d %b %Y %H:%M:%S +0000")
 
     rss_lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
@@ -341,8 +326,7 @@ def create_rss_feed(articles, issue_date=''):
             rss_lines.append(f'      <link>{escape_xml(article_url)}</link>')
         if description:
             rss_lines.append(f'      <description>{escape_xml(description)}</description>')
-        if issue_pubdate:
-            rss_lines.append(f'      <pubDate>{escape_xml(issue_pubdate)}</pubDate>')
+        rss_lines.append(f'      <pubDate>{build_date}</pubDate>')
         if author_name:
             rss_lines.append(f'      <dc:creator>{escape_xml(author_name)}</dc:creator>')
             rss_lines.append(f'      <author>{escape_xml(author_name)}</author>')
