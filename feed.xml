@@ -5,436 +5,267 @@
     <link>https://www.scientificamerican.com/latest-issue/</link>
     <description>Latest articles from Scientific American magazine</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 09:54:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 09:36:52 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>This sulfurous hell world might change the way we classify exoplanets</title>
-      <link>https://www.scientificamerican.com/article/this-sulfurous-hell-world-might-change-the-way-we-classify-exoplanets/</link>
-      <description>An oddity among exoplanets, L 98-59 d is (so far) in a class all its own, but astronomers expect powerful new telescopes will eventually reveal more like it</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>K. R. Callaway</dc:creator>
-      <author>K. R. Callaway</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/this-sulfurous-hell-world-might-change-the-way-we-classify-exoplanets/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/3baa2a02-aa71-4c51-adf2-9196153ccdb1/saw0626Adva01.jpg?m=1779117374.693"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/3baa2a02-aa71-4c51-adf2-9196153ccdb1/saw0626Adva01.jpg?m=1779117374.693" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/3baa2a02-aa71-4c51-adf2-9196153ccdb1/saw0626Adva01.jpg?m=1779117374.693" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>See these ziti-sized fish scale a 50-foot waterfall</title>
-      <link>https://www.scientificamerican.com/article/see-these-ziti-sized-fish-scale-a-50-foot-waterfall/</link>
-      <description>These tiny fish use friction to put human rock climbers to shame</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Elizabeth Anne Brown</dc:creator>
-      <author>Elizabeth Anne Brown</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/see-these-ziti-sized-fish-scale-a-50-foot-waterfall/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/b52044c7-047d-49fa-a6d3-a83c815da780/waterfall-fish.jpeg?m=1778253729.406"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/b52044c7-047d-49fa-a6d3-a83c815da780/waterfall-fish.jpeg?m=1778253729.406" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/b52044c7-047d-49fa-a6d3-a83c815da780/waterfall-fish.jpeg?m=1778253729.406" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Scientists catalog the ‘fractal dimensions’ of more than 130,000 islands</title>
-      <link>https://www.scientificamerican.com/article/scientists-catalog-the-fractal-dimensions-of-more-than-130-000-islands/</link>
-      <description>The &amp;ldquo;coastline paradox&amp;rdquo; helped to define fractals, but coastlines themselves turn out to be less fractal than thought</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Alex Music</dc:creator>
-      <author>Alex Music</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/scientists-catalog-the-fractal-dimensions-of-more-than-130-000-islands/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/dadbc96e-9e5c-426a-b4d4-a1fced9c6c85/sa0626Adva04.jpg?m=1778250610.052"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/dadbc96e-9e5c-426a-b4d4-a1fced9c6c85/sa0626Adva04.jpg?m=1778250610.052" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/dadbc96e-9e5c-426a-b4d4-a1fced9c6c85/sa0626Adva04.jpg?m=1778250610.052" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Each atom in the universe might be unique</title>
-      <link>https://www.scientificamerican.com/article/each-atom-in-the-universe-might-be-unique/</link>
-      <description>Long-held assumptions tell us that atoms with the same number of protons, neutrons and electrons are indistinguishable, but one physicist wants to put this idea to the test</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>K. R. Callaway</dc:creator>
-      <author>K. R. Callaway</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/each-atom-in-the-universe-might-be-unique/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/552fcc73-88f8-4934-8dca-9b62edc8ab7f/sa0626Adva05.jpg?m=1778250863.999"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/552fcc73-88f8-4934-8dca-9b62edc8ab7f/sa0626Adva05.jpg?m=1778250863.999" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/552fcc73-88f8-4934-8dca-9b62edc8ab7f/sa0626Adva05.jpg?m=1778250863.999" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>When did plate tectonics on Earth begin? New research finds some of the earliest clues</title>
-      <link>https://www.scientificamerican.com/article/when-did-plate-tectonics-on-earth-begin-new-research-finds-some-of-the/</link>
-      <description>Scientists have found the oldest direct evidence for tectonic motion on Earth by more than half a billion years</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Marissa Grunes</dc:creator>
-      <author>Marissa Grunes</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/when-did-plate-tectonics-on-earth-begin-new-research-finds-some-of-the/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/4fa7fd78b86d845f/original/Brenner-adw9250-image-3-smaller.jpg?m=1779117743.047"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/4fa7fd78b86d845f/original/Brenner-adw9250-image-3-smaller.jpg?m=1779117743.047" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/4fa7fd78b86d845f/original/Brenner-adw9250-image-3-smaller.jpg?m=1779117743.047" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Depression scales may not work the same for highly intelligent people</title>
-      <link>https://www.scientificamerican.com/article/depression-scales-may-not-work-the-same-for-highly-intelligent-people/</link>
-      <description>Research suggests depression assessment questionnaires can&amp;rsquo;t reliably compare people with differing intelligence</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Simon Makin</dc:creator>
-      <author>Simon Makin</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/depression-scales-may-not-work-the-same-for-highly-intelligent-people/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/de544959-66f3-48f0-bbc0-602de4eaf6c4/saw0626Adva06.jpg?m=1779117730.464"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/de544959-66f3-48f0-bbc0-602de4eaf6c4/saw0626Adva06.jpg?m=1779117730.464" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/de544959-66f3-48f0-bbc0-602de4eaf6c4/saw0626Adva06.jpg?m=1779117730.464" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Scientists make AI play Battleship to help it do science better</title>
-      <link>https://www.scientificamerican.com/article/scientists-make-ai-play-battleship-to-help-it-do-science-better/</link>
-      <description>AI models and people played &amp;ldquo;collaborative&amp;rdquo; Battleship to test strategies for efficiently solving problems</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Peter Hall</dc:creator>
-      <author>Peter Hall</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/scientists-make-ai-play-battleship-to-help-it-do-science-better/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/1afe7c79-5cba-4dbe-8b86-82a8a828ef06/sa0626Adva09.jpg?m=1778177519.889"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/1afe7c79-5cba-4dbe-8b86-82a8a828ef06/sa0626Adva09.jpg?m=1778177519.889" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/1afe7c79-5cba-4dbe-8b86-82a8a828ef06/sa0626Adva09.jpg?m=1778177519.889" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Octopus sex is even weirder than you think</title>
-      <link>https://www.scientificamerican.com/article/octopus-sex-is-even-weirder-than-you-think/</link>
-      <description>Scientists have learned how male octopuses&amp;rsquo; specialized sperm-depositing arm knows where to go</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Cody Cottier</dc:creator>
-      <author>Cody Cottier</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/octopus-sex-is-even-weirder-than-you-think/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/427813d6-f5e4-4df0-9c2a-1f62921153a1/saw_California_two_spot_octopus.jpg?m=1778253980.645"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/427813d6-f5e4-4df0-9c2a-1f62921153a1/saw_California_two_spot_octopus.jpg?m=1778253980.645" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/427813d6-f5e4-4df0-9c2a-1f62921153a1/saw_California_two_spot_octopus.jpg?m=1778253980.645" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>The sun and thousands of its twins migrated across the Milky Way just in time</title>
-      <link>https://www.scientificamerican.com/article/the-sun-and-thousands-of-its-twins-migrated-across-the-milky-way-just-in/</link>
-      <description>The sun rode a massive galactic migration wave to the Milky Way&amp;rsquo;s suburbs</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
+      <title>Is life inside Enceladus? Cassini uncovers complex organic chemistry in Saturn’s ocean moon</title>
+      <link>https://www.scientificamerican.com/article/is-life-inside-enceladus-cassini-uncovers-complex-organic-chemistry-in/</link>
+      <description>A fresh analysis of old data has found rich organic chemistry within the hidden ocean of Saturn&amp;rsquo;s moon Enceladus</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
       <dc:creator>Jacek Krywko</dc:creator>
       <author>Jacek Krywko</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-sun-and-thousands-of-its-twins-migrated-across-the-milky-way-just-in/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/bcf9c4857d898cc/original/Migrating-Solar-Twins.jpg?m=1778254176.514"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/bcf9c4857d898cc/original/Migrating-Solar-Twins.jpg?m=1778254176.514" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/bcf9c4857d898cc/original/Migrating-Solar-Twins.jpg?m=1778254176.514" type="image/jpeg"/>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/is-life-inside-enceladus-cassini-uncovers-complex-organic-chemistry-in/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/6fcc536009423e86/original/cassini_enceladus_flyby.jpg?m=1762369717.755"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/6fcc536009423e86/original/cassini_enceladus_flyby.jpg?m=1762369717.755" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/6fcc536009423e86/original/cassini_enceladus_flyby.jpg?m=1762369717.755" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>These ants navigate with a compass tuned to the moon</title>
-      <link>https://www.scientificamerican.com/article/these-ants-navigate-with-a-compass-tuned-to-the-moon/</link>
-      <description>A newfound nocturnal navigation system challenges what entomologists thought they knew about how ants find their way</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>K. R. Callaway</dc:creator>
-      <author>K. R. Callaway</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/these-ants-navigate-with-a-compass-tuned-to-the-moon/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/b16e9bfc-48c1-44f8-9459-0503f7711b2a/saw0626Adva11.jpg?m=1778253168.707"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/b16e9bfc-48c1-44f8-9459-0503f7711b2a/saw0626Adva11.jpg?m=1778253168.707" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/b16e9bfc-48c1-44f8-9459-0503f7711b2a/saw0626Adva11.jpg?m=1778253168.707" type="image/jpeg"/>
+      <title>Questioning everything</title>
+      <link>https://www.scientificamerican.com/article/questioning-everything/</link>
+      <description>Where did stars, and light itself, come from? Is there a hidden sector of particles and forces called &amp;ldquo;dark energy&amp;rdquo; affecting the cosmos?</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Josh Fischman</dc:creator>
+      <author>Josh Fischman</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/questioning-everything/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/8ee9165c-7bbf-4bb9-8680-62e3143fd9ed/osq226Covr-landscape.jpg?m=1779805988.906"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/8ee9165c-7bbf-4bb9-8680-62e3143fd9ed/osq226Covr-landscape.jpg?m=1779805988.906" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/8ee9165c-7bbf-4bb9-8680-62e3143fd9ed/osq226Covr-landscape.jpg?m=1779805988.906" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>Microbe ‘cities’ may solve a key ocean mystery</title>
-      <link>https://www.scientificamerican.com/article/microbe-cities-may-solve-a-key-ocean-mystery/</link>
-      <description>Some of Earth&amp;rsquo;s tiniest life-forms inhabit slowly sinking particles of fish poop and debris, playing a crucial role in ocean carbon storage</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Damien Pine</dc:creator>
-      <author>Damien Pine</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/microbe-cities-may-solve-a-key-ocean-mystery/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/a5e40db9-2389-433d-9b18-e69fcb900686/sa0626Adva12.jpg?m=1778251465.303"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/a5e40db9-2389-433d-9b18-e69fcb900686/sa0626Adva12.jpg?m=1778251465.303" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/a5e40db9-2389-433d-9b18-e69fcb900686/sa0626Adva12.jpg?m=1778251465.303" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Math puzzle: Fix the matchstick equation</title>
-      <link>https://www.scientificamerican.com/article/math-puzzle-fix-the-matchstick-equation/</link>
-      <description>Fix the matchstick equation in this math puzzle</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Heinrich Hemme</dc:creator>
-      <author>Heinrich Hemme</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/math-puzzle-fix-the-matchstick-equation/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>A real quantum leap</title>
-      <link>https://www.scientificamerican.com/article/a-real-quantum-leap/</link>
-      <description>Sometimes science does make our world turn upside down</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>David M. Ewalt</dc:creator>
-      <author>David M. Ewalt</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/a-real-quantum-leap/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/50146758-dcef-42e0-a4a8-c787f696a464/sa0626-FromTheEditor-IssueCover.jpg?m=1778255203.425"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/50146758-dcef-42e0-a4a8-c787f696a464/sa0626-FromTheEditor-IssueCover.jpg?m=1778255203.425" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/50146758-dcef-42e0-a4a8-c787f696a464/sa0626-FromTheEditor-IssueCover.jpg?m=1778255203.425" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Readers respond to the February 2026 issue</title>
-      <link>https://www.scientificamerican.com/article/readers-respond-to-the-february-2026-issue/</link>
-      <description>Letters to the editors for the February 2026 issue of Scientific American</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Aaron Shattuck</dc:creator>
-      <author>Aaron Shattuck</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/readers-respond-to-the-february-2026-issue/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/939a2887-24d0-46eb-a0a6-a36cb62fc474/sa0626-Letters-IssueCover.jpg?m=1778255615.97"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/939a2887-24d0-46eb-a0a6-a36cb62fc474/sa0626-Letters-IssueCover.jpg?m=1778255615.97" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/939a2887-24d0-46eb-a0a6-a36cb62fc474/sa0626-Letters-IssueCover.jpg?m=1778255615.97" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Helion Energy is building a fusion power plant. Can its technology deliver?</title>
-      <link>https://www.scientificamerican.com/article/helion-energy-is-building-a-fusion-power-plant-can-its-technology-deliver/</link>
-      <description>This company says its pulsed plasma machine will deliver electricity to the grid by 2029. Some physicists warn that its promises are outrunning what the technology has proved</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Alex Pasternack</dc:creator>
-      <author>Alex Pasternack</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/helion-energy-is-building-a-fusion-power-plant-can-its-technology-deliver/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/a30ebd0f-2c84-475f-ad91-eb560fa1381e/sa0626Indu01.jpg?m=1778256462.326"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/a30ebd0f-2c84-475f-ad91-eb560fa1381e/sa0626Indu01.jpg?m=1778256462.326" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/a30ebd0f-2c84-475f-ad91-eb560fa1381e/sa0626Indu01.jpg?m=1778256462.326" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>A 100-year-old theory might explain what’s wrong with quantum mechanics</title>
-      <link>https://www.scientificamerican.com/article/a-100-year-old-theory-might-explain-whats-wrong-with-quantum-mechanics/</link>
-      <description>One physicist is on a mission to get scientists to look into Louis de Broglie&amp;rsquo;s pilot wave theory</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Tim Folger</dc:creator>
-      <author>Tim Folger</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/a-100-year-old-theory-might-explain-whats-wrong-with-quantum-mechanics/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/bc6a2ece-77f3-48b0-8309-8e375726a273/sa0626QA01.jpg?m=1778612250.899"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/bc6a2ece-77f3-48b0-8309-8e375726a273/sa0626QA01.jpg?m=1778612250.899" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/bc6a2ece-77f3-48b0-8309-8e375726a273/sa0626QA01.jpg?m=1778612250.899" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>People who know more about AI art find it less ethical</title>
-      <link>https://www.scientificamerican.com/article/people-who-know-more-about-ai-art-find-it-less-ethical/</link>
-      <description>When people understand the system and process behind AI art, its moral implications become harder to accept</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Ionela Bara</dc:creator>
-      <author>Ionela Bara</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/people-who-know-more-about-ai-art-find-it-less-ethical/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/2295563b6ce6ea04/original/GettyImages-2211086269.jpg?m=1772661156.811"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/2295563b6ce6ea04/original/GettyImages-2211086269.jpg?m=1772661156.811" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/2295563b6ce6ea04/original/GettyImages-2211086269.jpg?m=1772661156.811" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>How the seven bridges of Königsberg spawned new math</title>
-      <link>https://www.scientificamerican.com/article/how-the-seven-bridges-of-koenigsberg-spawned-new-math/</link>
-      <description>Are you smarter than an 18th-century Prussian?</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Jack Murtagh</dc:creator>
-      <author>Jack Murtagh</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-the-seven-bridges-of-koenigsberg-spawned-new-math/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/77153efcc9c42f07/original/B43KMN_WEB.jpg?m=1778612962.115"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/77153efcc9c42f07/original/B43KMN_WEB.jpg?m=1778612962.115" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/77153efcc9c42f07/original/B43KMN_WEB.jpg?m=1778612962.115" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>How commercial satellites are changing modern warfare</title>
-      <link>https://www.scientificamerican.com/article/how-commercial-satellites-are-changing-modern-warfare/</link>
-      <description>Commercial satellites can now watch much of Earth in near-real time. Militaries are learning new ways to fool them</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Sarah Scoles</dc:creator>
-      <author>Sarah Scoles</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-commercial-satellites-are-changing-modern-warfare/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/44e8a2e5-f361-41f1-920c-9dee46eeb2f2/sa0626SoW01.jpg?m=1778613895.87"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/44e8a2e5-f361-41f1-920c-9dee46eeb2f2/sa0626SoW01.jpg?m=1778613895.87" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/44e8a2e5-f361-41f1-920c-9dee46eeb2f2/sa0626SoW01.jpg?m=1778613895.87" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Science crossword: At the same time</title>
-      <link>https://www.scientificamerican.com/article/science-crossword-at-the-same-time/</link>
-      <description>Play this crossword inspired by the June 2026 issue of Scientific American</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Aimee Lucido</dc:creator>
-      <author>Aimee Lucido</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/science-crossword-at-the-same-time/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>New ways to keep from losing muscle on Ozempic</title>
-      <link>https://www.scientificamerican.com/article/new-ways-to-keep-from-losing-muscle-on-ozempic/</link>
-      <description>Ozempic and just getting older take off muscle. New therapies could retain it</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Lori Youmshajekian</dc:creator>
-      <author>Lori Youmshajekian</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/new-ways-to-keep-from-losing-muscle-on-ozempic/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/ef694c2e-05ac-4d0e-960e-d6c898f290c2/sa0626SoH01.jpg?m=1778614305.784"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/ef694c2e-05ac-4d0e-960e-d6c898f290c2/sa0626SoH01.jpg?m=1778614305.784" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/ef694c2e-05ac-4d0e-960e-d6c898f290c2/sa0626SoH01.jpg?m=1778614305.784" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Poem: ‘Horseshoe Crab’</title>
-      <link>https://www.scientificamerican.com/article/poem-horseshoe-crab/</link>
-      <description>Science in meter and verse</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Henry Stimpson</dc:creator>
-      <author>Henry Stimpson</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/poem-horseshoe-crab/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/f702a9f8-a41d-42fb-8363-633e24811b2c/sa0626Metr-crop.jpg?m=1778614852.628"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/f702a9f8-a41d-42fb-8363-633e24811b2c/sa0626Metr-crop.jpg?m=1778614852.628" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/f702a9f8-a41d-42fb-8363-633e24811b2c/sa0626Metr-crop.jpg?m=1778614852.628" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Rampant growth of satellite megaconstellations could ruin the night sky</title>
-      <link>https://www.scientificamerican.com/article/rampant-growth-of-satellite-mega-constellations-could-ruin-the-night-sky/</link>
-      <description>Satellites are wonders of modern technology that have improved all of our lives. But having more than a million of them in orbit could destroy our view of the heavens and seriously damage our planet</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Phil Plait</dc:creator>
-      <author>Phil Plait</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/rampant-growth-of-satellite-mega-constellations-could-ruin-the-night-sky/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/2ee5a500a54116fc/original/2XCRY0H_WEB.jpg?m=1719272145.488"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/2ee5a500a54116fc/original/2XCRY0H_WEB.jpg?m=1719272145.488" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/2ee5a500a54116fc/original/2XCRY0H_WEB.jpg?m=1719272145.488" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>A field guide to quantum computer qubits</title>
-      <link>https://www.scientificamerican.com/article/a-field-guide-to-quantum-computer-qubits/</link>
-      <description>Here are six ways to build a quantum computer</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
+      <title>Everyone who has ever been to space, charted</title>
+      <link>https://www.scientificamerican.com/article/everyone-who-has-ever-been-to-space-charted/</link>
+      <description>Space traveler demographics have shifted over time</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
       <dc:creator>Clara Moskowitz</dc:creator>
       <author>Clara Moskowitz</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/a-field-guide-to-quantum-computer-qubits/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/d9c10d20-fcbf-4637-b0a0-764ccef1e59f/saw0626Gsci_lead.jpg?m=1778615775.61"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/d9c10d20-fcbf-4637-b0a0-764ccef1e59f/saw0626Gsci_lead.jpg?m=1778615775.61" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/d9c10d20-fcbf-4637-b0a0-764ccef1e59f/saw0626Gsci_lead.jpg?m=1778615775.61" type="image/jpeg"/>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/everyone-who-has-ever-been-to-space-charted/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/62af9b3faf882c43/original/saw0225Gsci_lead.jpg?m=1736791964.641"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/62af9b3faf882c43/original/saw0225Gsci_lead.jpg?m=1736791964.641" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/62af9b3faf882c43/original/saw0225Gsci_lead.jpg?m=1736791964.641" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>June 2026: Science history from 50, 100 and 150 years ago</title>
-      <link>https://www.scientificamerican.com/article/june-2026-science-history-from-50-100-and-150-years-ago/</link>
-      <description>Door-building spiders; a new quantum liquid</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Jeanna Bryner</dc:creator>
-      <author>Jeanna Bryner</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/june-2026-science-history-from-50-100-and-150-years-ago/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/a1edc581-da26-4476-b6aa-ef974a29e505/sa0626Hist04.jpg?m=1778617145.867"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/a1edc581-da26-4476-b6aa-ef974a29e505/sa0626Hist04.jpg?m=1778617145.867" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/a1edc581-da26-4476-b6aa-ef974a29e505/sa0626Hist04.jpg?m=1778617145.867" type="image/jpeg"/>
+      <title>Auroras, solar flares and space weather peak at the solar maximum</title>
+      <link>https://www.scientificamerican.com/article/expect-auroras-solar-flares-and-more-space-weather-from-the-solar-maximum/</link>
+      <description>Activity on the sun heats up as the solar cycle progresses</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Clara Moskowitz</dc:creator>
+      <author>Clara Moskowitz</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/expect-auroras-solar-flares-and-more-space-weather-from-the-solar-maximum/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/3a0078a39732345/original/saw0924Gsci_lead.jpg?m=1722351515.506"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/3a0078a39732345/original/saw0924Gsci_lead.jpg?m=1722351515.506" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/3a0078a39732345/original/saw0924Gsci_lead.jpg?m=1722351515.506" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>Quantum computing is reaching its make-or-break moment</title>
-      <link>https://www.scientificamerican.com/article/quantum-computing-is-reaching-its-make-or-break-moment/</link>
-      <description>Will computers based on quantum physics really change the world?</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Adam Becker</dc:creator>
-      <author>Adam Becker</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/quantum-computing-is-reaching-its-make-or-break-moment/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/14008d5c-dc3d-4637-a058-74fae3e9119f/sa0626Beck01.jpg?m=1778506976.241"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/14008d5c-dc3d-4637-a058-74fae3e9119f/sa0626Beck01.jpg?m=1778506976.241" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/14008d5c-dc3d-4637-a058-74fae3e9119f/sa0626Beck01.jpg?m=1778506976.241" type="image/jpeg"/>
+      <title>The solar system&apos;s mysterious magnetic fields</title>
+      <link>https://www.scientificamerican.com/article/the-solar-systems-mysterious-magnetic-fields/</link>
+      <description>Most of our neighboring planets have magnetic fields, but scientists do not fully understand how they arise</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Clara Moskowitz</dc:creator>
+      <author>Clara Moskowitz</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-solar-systems-mysterious-magnetic-fields/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/bcfc3199-1dff-4c7e-83b5-715415ff2040/saw1021Gsci_hero.jpeg?m=1780066726.576"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/bcfc3199-1dff-4c7e-83b5-715415ff2040/saw1021Gsci_hero.jpeg?m=1780066726.576" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/bcfc3199-1dff-4c7e-83b5-715415ff2040/saw1021Gsci_hero.jpeg?m=1780066726.576" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>Which problems will quantum computers solve—and when?</title>
-      <link>https://www.scientificamerican.com/article/which-problems-will-quantum-computers-solve-and-when/</link>
-      <description>Quantum computing could lead to revolutions in cryptography, materials design and telecommunications. But fulfilling those promises could be many years away</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Zeeya Merali</dc:creator>
-      <author>Zeeya Merali</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/which-problems-will-quantum-computers-solve-and-when/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/af4dcd6a-3a56-4441-a773-3f9ca87cec75/saw0626Mera01.jpg?m=1778508607.074"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/af4dcd6a-3a56-4441-a773-3f9ca87cec75/saw0626Mera01.jpg?m=1778508607.074" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/af4dcd6a-3a56-4441-a773-3f9ca87cec75/saw0626Mera01.jpg?m=1778508607.074" type="image/jpeg"/>
+      <title>Have astronomers found a runaway monster black hole?</title>
+      <link>https://www.scientificamerican.com/article/have-astronomers-found-a-runaway-monster-black-hole/</link>
+      <description>Despite years of debate and follow-up studies, an odd streak of cosmic light still defies a final explanation. Is it a giant black hole screaming through intergalactic space?</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Phil Plait</dc:creator>
+      <author>Phil Plait</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/have-astronomers-found-a-runaway-monster-black-hole/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/220d5720a25ac86b/original/Half-Res-For-Display.png?m=1773359163.636"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/220d5720a25ac86b/original/Half-Res-For-Display.png?m=1773359163.636" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/220d5720a25ac86b/original/Half-Res-For-Display.png?m=1773359163.636" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>New high‑resolution map transforms what we know about Roman roads and the Roman Empire</title>
-      <link>https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/</link>
-      <description>A massive digitization project has nearly doubled the known extent of the first continent-scale road network</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Tom Brughmans</dc:creator>
-      <author>Tom Brughmans</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/bcce9619-01d3-4048-83c9-41a63d7554bb/sa0626Brug01.jpg?m=1778851821.765"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/bcce9619-01d3-4048-83c9-41a63d7554bb/sa0626Brug01.jpg?m=1778851821.765" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/bcce9619-01d3-4048-83c9-41a63d7554bb/sa0626Brug01.jpg?m=1778851821.765" type="image/jpeg"/>
+      <title>The new story of the Milky Way&apos;s surprisingly turbulent past</title>
+      <link>https://www.scientificamerican.com/article/the-new-story-of-the-milky-ways-surprisingly-turbulent-past/</link>
+      <description>The latest star maps are rewriting the story of our Milky Way, revealing a much more tumultuous history than astronomers suspected</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Ann Finkbeiner</dc:creator>
+      <author>Ann Finkbeiner</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-new-story-of-the-milky-ways-surprisingly-turbulent-past/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/73c1a258-896b-426c-ac23-72d96fa732c9/milky-ways-surprising-past-lead.jpeg?m=1778868849.973"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/73c1a258-896b-426c-ac23-72d96fa732c9/milky-ways-surprising-past-lead.jpeg?m=1778868849.973" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/73c1a258-896b-426c-ac23-72d96fa732c9/milky-ways-surprising-past-lead.jpeg?m=1778868849.973" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>The Riemann hypothesis is a million-dollar math problem hardly anyone is trying to solve</title>
-      <link>https://www.scientificamerican.com/article/the-riemann-hypothesis-is-a-million-dollar-math-problem-hardly-anyone-is-trying-to-solve/</link>
-      <description>The intimidating legacy of the scariest problem in mathematics</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Joseph Howlett</dc:creator>
-      <author>Joseph Howlett</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-riemann-hypothesis-is-a-million-dollar-math-problem-hardly-anyone-is-trying-to-solve/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/dd87f80c-b435-4a75-8e89-385895e4b0e9/saw0626Howl01.jpg?m=1778511875.695"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/dd87f80c-b435-4a75-8e89-385895e4b0e9/saw0626Howl01.jpg?m=1778511875.695" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/dd87f80c-b435-4a75-8e89-385895e4b0e9/saw0626Howl01.jpg?m=1778511875.695" type="image/jpeg"/>
+      <title>‘Dark matter’ may be a whole shadow world of mysterious atoms and forces</title>
+      <link>https://www.scientificamerican.com/article/dark-matter-may-be-a-whole-shadow-world-of-mysterious-atoms-and-forces/</link>
+      <description>Dark matter could be an entire dark sector of the universe, with its own particles and forces</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Kathryn Zurek</dc:creator>
+      <author>Kathryn Zurek</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/dark-matter-may-be-a-whole-shadow-world-of-mysterious-atoms-and-forces/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/40100b395380bfa5/original/sa0425Zure01.jpg?m=1741792805.5"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/40100b395380bfa5/original/sa0425Zure01.jpg?m=1741792805.5" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/40100b395380bfa5/original/sa0425Zure01.jpg?m=1741792805.5" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>NASA’s Artemis II mission launched four astronauts to the moon</title>
-      <link>https://www.scientificamerican.com/article/nasas-artemis-ii-mission-launches-four-astronauts-to-the-moon/</link>
-      <description>A daring 10-day voyage took four astronauts on a loop around the moon and set the stage for future forays to the lunar surface</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Nadia Drake</dc:creator>
-      <author>Nadia Drake</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/nasas-artemis-ii-mission-launches-four-astronauts-to-the-moon/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/3d6293f2-2103-4070-8fa9-761240fe2747/sa0626Arte01.jpg?m=1778524379.97"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/3d6293f2-2103-4070-8fa9-761240fe2747/sa0626Arte01.jpg?m=1778524379.97" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/3d6293f2-2103-4070-8fa9-761240fe2747/sa0626Arte01.jpg?m=1778524379.97" type="image/jpeg"/>
+      <title>Why we&apos;ll never live in space</title>
+      <link>https://www.scientificamerican.com/article/why-well-never-live-in-space/</link>
+      <description>Medical, financial and ethical hurdles stand in the way of the dream to settle in space</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Sarah Scoles</dc:creator>
+      <author>Sarah Scoles</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/why-well-never-live-in-space/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/f57a864b-ad93-4438-b427-dd738f8e8ae2/Scoles_lead.jpeg?m=1780065978.959"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/f57a864b-ad93-4438-b427-dd738f8e8ae2/Scoles_lead.jpeg?m=1780065978.959" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/f57a864b-ad93-4438-b427-dd738f8e8ae2/Scoles_lead.jpeg?m=1780065978.959" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>NASA’s Artemis era may finally solve three major moon mysteries</title>
-      <link>https://www.scientificamerican.com/article/nasas-artemis-era-may-finally-solve-three-major-moon-mysteries/</link>
-      <description>If NASA&amp;rsquo;s ambitious lunar exploration plans succeed, scientists will cover the moon with sensors&amp;mdash;and find answers to several long-standing questions about the inner solar system</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Robin George Andrews</dc:creator>
-      <author>Robin George Andrews</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/nasas-artemis-era-may-finally-solve-three-major-moon-mysteries/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/7a9da5b7-1e63-4eee-b5dc-ef977669a10b/gravity-moon-map.jpg?m=1778867487.392"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/7a9da5b7-1e63-4eee-b5dc-ef977669a10b/gravity-moon-map.jpg?m=1778867487.392" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/7a9da5b7-1e63-4eee-b5dc-ef977669a10b/gravity-moon-map.jpg?m=1778867487.392" type="image/jpeg"/>
+      <title>The puzzle of the first black holes</title>
+      <link>https://www.scientificamerican.com/article/the-puzzle-of-the-first-black-holes/</link>
+      <description>Astronomers are puzzled about how the oldest supermassive black holes could have grown so big so early in cosmic history</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Priyamvada Natarajan</dc:creator>
+      <author>Priyamvada Natarajan</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-puzzle-of-the-first-black-holes/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/b4ee224b-39c7-4b1e-841e-13133429b6ad/how-do-black-holes-start-lead.jpeg?m=1779216120.606"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/b4ee224b-39c7-4b1e-841e-13133429b6ad/how-do-black-holes-start-lead.jpeg?m=1779216120.606" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/b4ee224b-39c7-4b1e-841e-13133429b6ad/how-do-black-holes-start-lead.jpeg?m=1779216120.606" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>NASA’s Artemis moon missions are a game changer for astronomy</title>
-      <link>https://www.scientificamerican.com/article/nasas-artemis-moon-missions-are-a-game-changer-for-astronomy/</link>
-      <description>After decades of planning, NASA&amp;rsquo;s Artemis program is giving astronomers their long-awaited moonshot</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Joseph Howlett</dc:creator>
-      <author>Joseph Howlett</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/nasas-artemis-moon-missions-are-a-game-changer-for-astronomy/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/56aa5141-7572-44ba-a53f-1c6734235b5a/sa0626Arte06.jpg?m=1778527420.143"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/56aa5141-7572-44ba-a53f-1c6734235b5a/sa0626Arte06.jpg?m=1778527420.143" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/56aa5141-7572-44ba-a53f-1c6734235b5a/sa0626Arte06.jpg?m=1778527420.143" type="image/jpeg"/>
+      <title>Dark matter hunters may never find the universe’s missing mass</title>
+      <link>https://www.scientificamerican.com/article/dark-matter-hunters-may-never-find-the-universes-missing-mass/</link>
+      <description>Dark matter has turned out to be more elusive than physicists had hoped</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Tracy R. Slatyer</dc:creator>
+      <author>Tracy R. Slatyer</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/dark-matter-hunters-may-never-find-the-universes-missing-mass/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/14d9356dae8f1294/original/sa0924Slat01.jpg?m=1724334510.548"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/14d9356dae8f1294/original/sa0924Slat01.jpg?m=1724334510.548" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/14d9356dae8f1294/original/sa0924Slat01.jpg?m=1724334510.548" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>NASA dreams of a nuclear power plant on the moon. Here’s why</title>
-      <link>https://www.scientificamerican.com/article/nasa-dreams-of-a-nuclear-power-plant-on-the-moon-heres-why/</link>
-      <description>To build its moon base, NASA needs a lot of power</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:31 +0000</pubDate>
-      <dc:creator>Robin George Andrews</dc:creator>
-      <author>Robin George Andrews</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/nasa-dreams-of-a-nuclear-power-plant-on-the-moon-heres-why/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/dfa3533a-c095-4953-888b-52568fd9024e/saw0626Andr01.jpg?m=1778527630.174"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/dfa3533a-c095-4953-888b-52568fd9024e/saw0626Andr01.jpg?m=1778527630.174" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/dfa3533a-c095-4953-888b-52568fd9024e/saw0626Andr01.jpg?m=1778527630.174" type="image/jpeg"/>
+      <title>The universe’s first light could reveal secrets of the cosmic dawn</title>
+      <link>https://www.scientificamerican.com/article/the-universes-first-light-could-reveal-secrets-of-the-cosmic-dawn/</link>
+      <description>A new generation of telescopes could peer back to the earliest epochs of the universe</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Rebecca Boyle</dc:creator>
+      <author>Rebecca Boyle</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-universes-first-light-could-reveal-secrets-of-the-cosmic-dawn/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/7076e798100072c8/original/sa0625Boyl01.jpg?m=1747060461.932"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/7076e798100072c8/original/sa0625Boyl01.jpg?m=1747060461.932" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/7076e798100072c8/original/sa0625Boyl01.jpg?m=1747060461.932" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>How the inside of a black hole is secretly on the outside</title>
+      <link>https://www.scientificamerican.com/article/how-the-inside-of-a-black-hole-is-secretly-on-the-outside/</link>
+      <description>Mysterious &amp;ldquo;islands&amp;rdquo; help to explain what happens to information that falls into a black hole</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Ahmed Almheiri</dc:creator>
+      <author>Ahmed Almheiri</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-the-inside-of-a-black-hole-is-secretly-on-the-outside/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/06ec1f68-029f-4e3b-9914-05be38f03bfd/Alm_lead.jpeg?m=1780065282.976"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/06ec1f68-029f-4e3b-9914-05be38f03bfd/Alm_lead.jpeg?m=1780065282.976" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/06ec1f68-029f-4e3b-9914-05be38f03bfd/Alm_lead.jpeg?m=1780065282.976" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>JWST could finally spot the very first stars in the universe</title>
+      <link>https://www.scientificamerican.com/article/jwst-could-finally-spot-the-very-first-stars-in-the-universe/</link>
+      <description>The James Webb Space Telescope should soon be able to spot the first generation of stars in space</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>José María Diego Rodríguez</dc:creator>
+      <author>José María Diego Rodríguez</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/jwst-could-finally-spot-the-very-first-stars-in-the-universe/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/326275ac0c7c2a0f/original/saw0226Dieg01.jpg?m=1768231691.718"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/326275ac0c7c2a0f/original/saw0226Dieg01.jpg?m=1768231691.718" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/326275ac0c7c2a0f/original/saw0226Dieg01.jpg?m=1768231691.718" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>NASA’s Mars sample return mission in jeopardy as U.S. considers abandoning retrieval</title>
+      <link>https://www.scientificamerican.com/article/nasas-mars-sample-return-mission-in-jeopardy-as-u-s-considers-abandoning/</link>
+      <description>NASA spent years and billions of dollars collecting Martian samples to bring home. Now they might be stranded</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Jonathan O&apos;Callaghan</dc:creator>
+      <author>Jonathan O&apos;Callaghan</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/nasas-mars-sample-return-mission-in-jeopardy-as-u-s-considers-abandoning/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/46449a839f4df30/original/saw1225OCal01.jpg?m=1762372810.028"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/46449a839f4df30/original/saw1225OCal01.jpg?m=1762372810.028" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/46449a839f4df30/original/saw1225OCal01.jpg?m=1762372810.028" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Could ‘early dark energy’ resolve the mystery of cosmic expansion?</title>
+      <link>https://www.scientificamerican.com/article/could-early-dark-energy-resolve-the-mystery-of-cosmic-expansion/</link>
+      <description>Estimates of how fast the universe is expanding disagree. Could a new form of dark energy resolve the problem?</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Marc Kamionkowski</dc:creator>
+      <author>Marc Kamionkowski</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/could-early-dark-energy-resolve-the-mystery-of-cosmic-expansion/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/4fed946fc8f57f30/original/sa1124Ries01.jpg?m=1728327783.148"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/4fed946fc8f57f30/original/sa1124Ries01.jpg?m=1728327783.148" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/4fed946fc8f57f30/original/sa1124Ries01.jpg?m=1728327783.148" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>The universe keeps rewriting cosmology</title>
+      <link>https://www.scientificamerican.com/article/the-universe-keeps-rewriting-cosmology/</link>
+      <description>The universe has a habit of disproving &amp;ldquo;unassailable&amp;rdquo; facts</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Richard Panek</dc:creator>
+      <author>Richard Panek</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-universe-keeps-rewriting-cosmology/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/20cb50bd2890fd21/original/sa0925_180_05a.jpg?m=1754931311.531"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/20cb50bd2890fd21/original/sa0925_180_05a.jpg?m=1754931311.531" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/20cb50bd2890fd21/original/sa0925_180_05a.jpg?m=1754931311.531" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>In the search for life beyond Earth, the only constant is hope</title>
+      <link>https://www.scientificamerican.com/article/in-the-search-for-life-beyond-earth-the-only-constant-is-hope/</link>
+      <description>The search for extraterrestrial life has periodically been turned upside down</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Sarah Scoles</dc:creator>
+      <author>Sarah Scoles</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/in-the-search-for-life-beyond-earth-the-only-constant-is-hope/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/54d79892deaeaa8/original/sa0925_180_07.jpg?m=1754931428.578"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/54d79892deaeaa8/original/sa0925_180_07.jpg?m=1754931428.578" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/54d79892deaeaa8/original/sa0925_180_07.jpg?m=1754931428.578" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Why some black holes keep ‘burping’ light after eating a star</title>
+      <link>https://www.scientificamerican.com/article/why-some-black-holes-keep-burping-light-after-eating-a-star/</link>
+      <description>After black holes devour stars, sometimes the feast comes back up</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Yvette Cendes</dc:creator>
+      <author>Yvette Cendes</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/why-some-black-holes-keep-burping-light-after-eating-a-star/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/17d83ab2488c7295/original/sa070825Cend01.jpg?m=1779217182.737"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/17d83ab2488c7295/original/sa070825Cend01.jpg?m=1779217182.737" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/17d83ab2488c7295/original/sa070825Cend01.jpg?m=1779217182.737" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>NASA’s Voyager probes find puzzles beyond the solar system</title>
+      <link>https://www.scientificamerican.com/article/nasas-voyager-probes-find-puzzles-beyond-the-solar-system/</link>
+      <description>For two decades now, the iconic twin Voyager spacecraft have been quietly overturning everything we thought we knew about the boundary between our solar system and interstellar space</description>
+      <pubDate>Thu, 04 Jun 2026 09:36:52 +0000</pubDate>
+      <dc:creator>Meghan Bartels</dc:creator>
+      <author>Meghan Bartels</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/nasas-voyager-probes-find-puzzles-beyond-the-solar-system/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/f314c99bd0cffb3/original/voyager_in_interstellar_space.jpg?m=1779371574.963"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/f314c99bd0cffb3/original/voyager_in_interstellar_space.jpg?m=1779371574.963" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/f314c99bd0cffb3/original/voyager_in_interstellar_space.jpg?m=1779371574.963" type="image/jpeg"/>
     </item>
 
   </channel>
