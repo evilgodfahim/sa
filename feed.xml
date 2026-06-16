@@ -5,267 +5,852 @@
     <link>https://www.scientificamerican.com/latest-issue/</link>
     <description>Latest articles from Scientific American magazine</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 11:36:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 10:47:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Is life inside Enceladus? Cassini uncovers complex organic chemistry in Saturn’s ocean moon</title>
-      <link>https://www.scientificamerican.com/article/is-life-inside-enceladus-cassini-uncovers-complex-organic-chemistry-in/</link>
-      <description>A fresh analysis of old data has found rich organic chemistry within the hidden ocean of Saturn&amp;rsquo;s moon Enceladus</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Jacek Krywko</dc:creator>
-      <author>Jacek Krywko</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/is-life-inside-enceladus-cassini-uncovers-complex-organic-chemistry-in/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/6fcc536009423e86/original/cassini_enceladus_flyby.jpg?m=1762369717.755"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/6fcc536009423e86/original/cassini_enceladus_flyby.jpg?m=1762369717.755" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/6fcc536009423e86/original/cassini_enceladus_flyby.jpg?m=1762369717.755" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Questioning everything</title>
-      <link>https://www.scientificamerican.com/article/questioning-everything/</link>
-      <description>Where did stars, and light itself, come from? Is there a hidden sector of particles and forces called &amp;ldquo;dark energy&amp;rdquo; affecting the cosmos?</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Josh Fischman</dc:creator>
-      <author>Josh Fischman</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/questioning-everything/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/8ee9165c-7bbf-4bb9-8680-62e3143fd9ed/osq226Covr-landscape.jpg?m=1779805988.906"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/8ee9165c-7bbf-4bb9-8680-62e3143fd9ed/osq226Covr-landscape.jpg?m=1779805988.906" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/8ee9165c-7bbf-4bb9-8680-62e3143fd9ed/osq226Covr-landscape.jpg?m=1779805988.906" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Everyone who has ever been to space, charted</title>
-      <link>https://www.scientificamerican.com/article/everyone-who-has-ever-been-to-space-charted/</link>
-      <description>Space traveler demographics have shifted over time</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Clara Moskowitz</dc:creator>
-      <author>Clara Moskowitz</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/everyone-who-has-ever-been-to-space-charted/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/62af9b3faf882c43/original/saw0225Gsci_lead.jpg?m=1736791964.641"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/62af9b3faf882c43/original/saw0225Gsci_lead.jpg?m=1736791964.641" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/62af9b3faf882c43/original/saw0225Gsci_lead.jpg?m=1736791964.641" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Auroras, solar flares and space weather peak at the solar maximum</title>
-      <link>https://www.scientificamerican.com/article/expect-auroras-solar-flares-and-more-space-weather-from-the-solar-maximum/</link>
-      <description>Activity on the sun heats up as the solar cycle progresses</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Clara Moskowitz</dc:creator>
-      <author>Clara Moskowitz</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/expect-auroras-solar-flares-and-more-space-weather-from-the-solar-maximum/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/3a0078a39732345/original/saw0924Gsci_lead.jpg?m=1722351515.506"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/3a0078a39732345/original/saw0924Gsci_lead.jpg?m=1722351515.506" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/3a0078a39732345/original/saw0924Gsci_lead.jpg?m=1722351515.506" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>The solar system&apos;s mysterious magnetic fields</title>
-      <link>https://www.scientificamerican.com/article/the-solar-systems-mysterious-magnetic-fields/</link>
-      <description>Most of our neighboring planets have magnetic fields, but scientists do not fully understand how they arise</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Clara Moskowitz</dc:creator>
-      <author>Clara Moskowitz</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-solar-systems-mysterious-magnetic-fields/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/bcfc3199-1dff-4c7e-83b5-715415ff2040/saw1021Gsci_hero.jpeg?m=1780066726.576"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/bcfc3199-1dff-4c7e-83b5-715415ff2040/saw1021Gsci_hero.jpeg?m=1780066726.576" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/bcfc3199-1dff-4c7e-83b5-715415ff2040/saw1021Gsci_hero.jpeg?m=1780066726.576" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Have astronomers found a runaway monster black hole?</title>
-      <link>https://www.scientificamerican.com/article/have-astronomers-found-a-runaway-monster-black-hole/</link>
-      <description>Despite years of debate and follow-up studies, an odd streak of cosmic light still defies a final explanation. Is it a giant black hole screaming through intergalactic space?</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Phil Plait</dc:creator>
-      <author>Phil Plait</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/have-astronomers-found-a-runaway-monster-black-hole/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/220d5720a25ac86b/original/Half-Res-For-Display.png?m=1773359163.636"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/220d5720a25ac86b/original/Half-Res-For-Display.png?m=1773359163.636" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/220d5720a25ac86b/original/Half-Res-For-Display.png?m=1773359163.636" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>The new story of the Milky Way&apos;s surprisingly turbulent past</title>
-      <link>https://www.scientificamerican.com/article/the-new-story-of-the-milky-ways-surprisingly-turbulent-past/</link>
-      <description>The latest star maps are rewriting the story of our Milky Way, revealing a much more tumultuous history than astronomers suspected</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Ann Finkbeiner</dc:creator>
-      <author>Ann Finkbeiner</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-new-story-of-the-milky-ways-surprisingly-turbulent-past/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/73c1a258-896b-426c-ac23-72d96fa732c9/milky-ways-surprising-past-lead.jpeg?m=1778868849.973"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/73c1a258-896b-426c-ac23-72d96fa732c9/milky-ways-surprising-past-lead.jpeg?m=1778868849.973" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/73c1a258-896b-426c-ac23-72d96fa732c9/milky-ways-surprising-past-lead.jpeg?m=1778868849.973" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>‘Dark matter’ may be a whole shadow world of mysterious atoms and forces</title>
-      <link>https://www.scientificamerican.com/article/dark-matter-may-be-a-whole-shadow-world-of-mysterious-atoms-and-forces/</link>
-      <description>Dark matter could be an entire dark sector of the universe, with its own particles and forces</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Kathryn Zurek</dc:creator>
-      <author>Kathryn Zurek</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/dark-matter-may-be-a-whole-shadow-world-of-mysterious-atoms-and-forces/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/40100b395380bfa5/original/sa0425Zure01.jpg?m=1741792805.5"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/40100b395380bfa5/original/sa0425Zure01.jpg?m=1741792805.5" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/40100b395380bfa5/original/sa0425Zure01.jpg?m=1741792805.5" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Why we&apos;ll never live in space</title>
-      <link>https://www.scientificamerican.com/article/why-well-never-live-in-space/</link>
-      <description>Medical, financial and ethical hurdles stand in the way of the dream to settle in space</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Sarah Scoles</dc:creator>
-      <author>Sarah Scoles</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/why-well-never-live-in-space/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/f57a864b-ad93-4438-b427-dd738f8e8ae2/Scoles_lead.jpeg?m=1780065978.959"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/f57a864b-ad93-4438-b427-dd738f8e8ae2/Scoles_lead.jpeg?m=1780065978.959" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/f57a864b-ad93-4438-b427-dd738f8e8ae2/Scoles_lead.jpeg?m=1780065978.959" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>The puzzle of the first black holes</title>
-      <link>https://www.scientificamerican.com/article/the-puzzle-of-the-first-black-holes/</link>
-      <description>Astronomers are puzzled about how the oldest supermassive black holes could have grown so big so early in cosmic history</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Priyamvada Natarajan</dc:creator>
-      <author>Priyamvada Natarajan</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-puzzle-of-the-first-black-holes/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/b4ee224b-39c7-4b1e-841e-13133429b6ad/how-do-black-holes-start-lead.jpeg?m=1779216120.606"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/b4ee224b-39c7-4b1e-841e-13133429b6ad/how-do-black-holes-start-lead.jpeg?m=1779216120.606" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/b4ee224b-39c7-4b1e-841e-13133429b6ad/how-do-black-holes-start-lead.jpeg?m=1779216120.606" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Dark matter hunters may never find the universe’s missing mass</title>
-      <link>https://www.scientificamerican.com/article/dark-matter-hunters-may-never-find-the-universes-missing-mass/</link>
-      <description>Dark matter has turned out to be more elusive than physicists had hoped</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Tracy R. Slatyer</dc:creator>
-      <author>Tracy R. Slatyer</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/dark-matter-hunters-may-never-find-the-universes-missing-mass/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/14d9356dae8f1294/original/sa0924Slat01.jpg?m=1724334510.548"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/14d9356dae8f1294/original/sa0924Slat01.jpg?m=1724334510.548" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/14d9356dae8f1294/original/sa0924Slat01.jpg?m=1724334510.548" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>The universe’s first light could reveal secrets of the cosmic dawn</title>
-      <link>https://www.scientificamerican.com/article/the-universes-first-light-could-reveal-secrets-of-the-cosmic-dawn/</link>
-      <description>A new generation of telescopes could peer back to the earliest epochs of the universe</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Rebecca Boyle</dc:creator>
-      <author>Rebecca Boyle</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-universes-first-light-could-reveal-secrets-of-the-cosmic-dawn/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/7076e798100072c8/original/sa0625Boyl01.jpg?m=1747060461.932"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/7076e798100072c8/original/sa0625Boyl01.jpg?m=1747060461.932" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/7076e798100072c8/original/sa0625Boyl01.jpg?m=1747060461.932" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>How the inside of a black hole is secretly on the outside</title>
-      <link>https://www.scientificamerican.com/article/how-the-inside-of-a-black-hole-is-secretly-on-the-outside/</link>
-      <description>Mysterious &amp;ldquo;islands&amp;rdquo; help to explain what happens to information that falls into a black hole</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Ahmed Almheiri</dc:creator>
-      <author>Ahmed Almheiri</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-the-inside-of-a-black-hole-is-secretly-on-the-outside/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/06ec1f68-029f-4e3b-9914-05be38f03bfd/Alm_lead.jpeg?m=1780065282.976"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/06ec1f68-029f-4e3b-9914-05be38f03bfd/Alm_lead.jpeg?m=1780065282.976" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/06ec1f68-029f-4e3b-9914-05be38f03bfd/Alm_lead.jpeg?m=1780065282.976" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>JWST could finally spot the very first stars in the universe</title>
-      <link>https://www.scientificamerican.com/article/jwst-could-finally-spot-the-very-first-stars-in-the-universe/</link>
-      <description>The James Webb Space Telescope should soon be able to spot the first generation of stars in space</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>José María Diego Rodríguez</dc:creator>
-      <author>José María Diego Rodríguez</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/jwst-could-finally-spot-the-very-first-stars-in-the-universe/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/326275ac0c7c2a0f/original/saw0226Dieg01.jpg?m=1768231691.718"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/326275ac0c7c2a0f/original/saw0226Dieg01.jpg?m=1768231691.718" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/326275ac0c7c2a0f/original/saw0226Dieg01.jpg?m=1768231691.718" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>NASA’s Mars sample return mission in jeopardy as U.S. considers abandoning retrieval</title>
-      <link>https://www.scientificamerican.com/article/nasas-mars-sample-return-mission-in-jeopardy-as-u-s-considers-abandoning/</link>
-      <description>NASA spent years and billions of dollars collecting Martian samples to bring home. Now they might be stranded</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Jonathan O&apos;Callaghan</dc:creator>
-      <author>Jonathan O&apos;Callaghan</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/nasas-mars-sample-return-mission-in-jeopardy-as-u-s-considers-abandoning/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/46449a839f4df30/original/saw1225OCal01.jpg?m=1762372810.028"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/46449a839f4df30/original/saw1225OCal01.jpg?m=1762372810.028" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/46449a839f4df30/original/saw1225OCal01.jpg?m=1762372810.028" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Could ‘early dark energy’ resolve the mystery of cosmic expansion?</title>
-      <link>https://www.scientificamerican.com/article/could-early-dark-energy-resolve-the-mystery-of-cosmic-expansion/</link>
-      <description>Estimates of how fast the universe is expanding disagree. Could a new form of dark energy resolve the problem?</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Marc Kamionkowski</dc:creator>
-      <author>Marc Kamionkowski</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/could-early-dark-energy-resolve-the-mystery-of-cosmic-expansion/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/4fed946fc8f57f30/original/sa1124Ries01.jpg?m=1728327783.148"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/4fed946fc8f57f30/original/sa1124Ries01.jpg?m=1728327783.148" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/4fed946fc8f57f30/original/sa1124Ries01.jpg?m=1728327783.148" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>The universe keeps rewriting cosmology</title>
-      <link>https://www.scientificamerican.com/article/the-universe-keeps-rewriting-cosmology/</link>
-      <description>The universe has a habit of disproving &amp;ldquo;unassailable&amp;rdquo; facts</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Richard Panek</dc:creator>
-      <author>Richard Panek</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-universe-keeps-rewriting-cosmology/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/20cb50bd2890fd21/original/sa0925_180_05a.jpg?m=1754931311.531"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/20cb50bd2890fd21/original/sa0925_180_05a.jpg?m=1754931311.531" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/20cb50bd2890fd21/original/sa0925_180_05a.jpg?m=1754931311.531" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>In the search for life beyond Earth, the only constant is hope</title>
-      <link>https://www.scientificamerican.com/article/in-the-search-for-life-beyond-earth-the-only-constant-is-hope/</link>
-      <description>The search for extraterrestrial life has periodically been turned upside down</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Sarah Scoles</dc:creator>
-      <author>Sarah Scoles</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/in-the-search-for-life-beyond-earth-the-only-constant-is-hope/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/54d79892deaeaa8/original/sa0925_180_07.jpg?m=1754931428.578"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/54d79892deaeaa8/original/sa0925_180_07.jpg?m=1754931428.578" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/54d79892deaeaa8/original/sa0925_180_07.jpg?m=1754931428.578" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Why some black holes keep ‘burping’ light after eating a star</title>
-      <link>https://www.scientificamerican.com/article/why-some-black-holes-keep-burping-light-after-eating-a-star/</link>
-      <description>After black holes devour stars, sometimes the feast comes back up</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
-      <dc:creator>Yvette Cendes</dc:creator>
-      <author>Yvette Cendes</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/why-some-black-holes-keep-burping-light-after-eating-a-star/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/17d83ab2488c7295/original/sa070825Cend01.jpg?m=1779217182.737"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/17d83ab2488c7295/original/sa070825Cend01.jpg?m=1779217182.737" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/17d83ab2488c7295/original/sa070825Cend01.jpg?m=1779217182.737" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>NASA’s Voyager probes find puzzles beyond the solar system</title>
-      <link>https://www.scientificamerican.com/article/nasas-voyager-probes-find-puzzles-beyond-the-solar-system/</link>
-      <description>For two decades now, the iconic twin Voyager spacecraft have been quietly overturning everything we thought we knew about the boundary between our solar system and interstellar space</description>
-      <pubDate>Mon, 15 Jun 2026 11:36:48 +0000</pubDate>
+      <title>Spotted lanternflies’ love of cities may be the secret to their invasion success</title>
+      <link>https://www.scientificamerican.com/article/spotted-lanternflies-love-of-cities-may-be-the-secret-to-their-invasion-success/</link>
+      <description>These eye-catching insects offer a prime opportunity for scientists to dig deep into invasion ecology and evolutionary biology</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
       <dc:creator>Meghan Bartels</dc:creator>
       <author>Meghan Bartels</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/nasas-voyager-probes-find-puzzles-beyond-the-solar-system/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/f314c99bd0cffb3/original/voyager_in_interstellar_space.jpg?m=1779371574.963"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/f314c99bd0cffb3/original/voyager_in_interstellar_space.jpg?m=1779371574.963" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/f314c99bd0cffb3/original/voyager_in_interstellar_space.jpg?m=1779371574.963" type="image/jpeg"/>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/spotted-lanternflies-love-of-cities-may-be-the-secret-to-their-invasion-success/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/3b61368d-f4f0-4715-8d15-6f3a802f9689/saw070826Adva01.jpg?m=1779974900.632"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/3b61368d-f4f0-4715-8d15-6f3a802f9689/saw070826Adva01.jpg?m=1779974900.632" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/3b61368d-f4f0-4715-8d15-6f3a802f9689/saw070826Adva01.jpg?m=1779974900.632" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Two hundred chimpanzees are embroiled in a ‘civil war’</title>
+      <link>https://www.scientificamerican.com/article/two-hundred-chimpanzees-are-embroiled-in-a-civil-war/</link>
+      <description>The world&amp;rsquo;s largest-known group of chimpanzees split into two factions that are now engaged in deadly combat</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Jason P. Dinh</dc:creator>
+      <author>Jason P. Dinh</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/two-hundred-chimpanzees-are-embroiled-in-a-civil-war/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/ce243e11-ea67-4415-9218-55a07fbc4455/saw070826Adva03.jpg?m=1779975512.318"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/ce243e11-ea67-4415-9218-55a07fbc4455/saw070826Adva03.jpg?m=1779975512.318" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/ce243e11-ea67-4415-9218-55a07fbc4455/saw070826Adva03.jpg?m=1779975512.318" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Medieval aurora poetry provided clues to historic solar storms</title>
+      <link>https://www.scientificamerican.com/article/medieval-aurora-poetry-provided-clues-to-historic-solar-storms/</link>
+      <description>Medieval poets, including a Japanese noble, provided key descriptions to track down solar events</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Jacek Krywko</dc:creator>
+      <author>Jacek Krywko</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/medieval-aurora-poetry-provided-clues-to-historic-solar-storms/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/4477214c-3ea2-4c1a-8694-f1392d867835/aurora-over-Engaru_Tomohiro-M-Nakayama-CC-BY-NS.jpg?m=1779975631.235"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/4477214c-3ea2-4c1a-8694-f1392d867835/aurora-over-Engaru_Tomohiro-M-Nakayama-CC-BY-NS.jpg?m=1779975631.235" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/4477214c-3ea2-4c1a-8694-f1392d867835/aurora-over-Engaru_Tomohiro-M-Nakayama-CC-BY-NS.jpg?m=1779975631.235" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Aquanauts experience awe-inspiring ‘underview effect’</title>
+      <link>https://www.scientificamerican.com/article/aquanauts-experience-awe-inspiring-underview-effect/</link>
+      <description>Like astronauts&amp;rsquo; &amp;ldquo;overview effect,&amp;rdquo; a dramatic feeling of awe takes hold on extended seafloor stays</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Susan Cosier</dc:creator>
+      <author>Susan Cosier</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/aquanauts-experience-awe-inspiring-underview-effect/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/6b0517da-148e-4cf8-9701-a6aee923974e/saw070826Adva06.jpg?m=1779976950.52"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/6b0517da-148e-4cf8-9701-a6aee923974e/saw070826Adva06.jpg?m=1779976950.52" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/6b0517da-148e-4cf8-9701-a6aee923974e/saw070826Adva06.jpg?m=1779976950.52" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Plants can ‘hear’ rain coming, spurring them into action</title>
+      <link>https://www.scientificamerican.com/article/plants-can-hear-rain-coming-spurring-them-into-action/</link>
+      <description>Even before water reaches them, the sound of droplets triggers germination in rice plants</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>K. R. Callaway</dc:creator>
+      <author>K. R. Callaway</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/plants-can-hear-rain-coming-spurring-them-into-action/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/0387665f-5525-4c23-8750-498493b0a7fc/saw070826Adva07.jpg?m=1779976026.334"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/0387665f-5525-4c23-8750-498493b0a7fc/saw070826Adva07.jpg?m=1779976026.334" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/0387665f-5525-4c23-8750-498493b0a7fc/saw070826Adva07.jpg?m=1779976026.334" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>What AI-herding scientists can learn from watching ‘sheepdog YouTube’</title>
+      <link>https://www.scientificamerican.com/article/what-ai-herding-scientists-can-learn-from-watching-sheepdog-youtube/</link>
+      <description>Controlling a small group of &amp;ldquo;noisy&amp;rdquo; sheep holds hints for computer algorithms</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Rohini Subrahmanyam</dc:creator>
+      <author>Rohini Subrahmanyam</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/what-ai-herding-scientists-can-learn-from-watching-sheepdog-youtube/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/44782aca-fdf8-487c-9034-8a858575731d/saw070826Adva08.jpg?m=1779977321.956"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/44782aca-fdf8-487c-9034-8a858575731d/saw070826Adva08.jpg?m=1779977321.956" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/44782aca-fdf8-487c-9034-8a858575731d/saw070826Adva08.jpg?m=1779977321.956" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Humans conquered the planet 300 times faster than genetic evolution can explain</title>
+      <link>https://www.scientificamerican.com/article/humans-conquered-the-planet-300-times-faster-than-genetic-evolution-can-explain/</link>
+      <description>Culture is humanity&amp;rsquo;s secret for world domination. This calculation shows just how powerful it is</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Cody Cottier</dc:creator>
+      <author>Cody Cottier</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/humans-conquered-the-planet-300-times-faster-than-genetic-evolution-can-explain/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/1d69aca3-3255-41d7-a7d2-270e532991a0/saw070826Adva09.jpg?m=1779977611.811"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/1d69aca3-3255-41d7-a7d2-270e532991a0/saw070826Adva09.jpg?m=1779977611.811" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/1d69aca3-3255-41d7-a7d2-270e532991a0/saw070826Adva09.jpg?m=1779977611.811" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Mars orbiter watches mysterious wave of darkness spread across Red Planet’s surface</title>
+      <link>https://www.scientificamerican.com/article/mars-orbiter-watches-mysterious-wave-of-darkness-spread-across-red-planets-surface/</link>
+      <description>Observations by the Mars Express orbiter reveal rapid changes on the Red Planet&amp;rsquo;s surface from windblown volcanic ash</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Joseph Howlett</dc:creator>
+      <author>Joseph Howlett</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/mars-orbiter-watches-mysterious-wave-of-darkness-spread-across-red-planets-surface/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/c5d1f143-e5f8-409a-8195-f3b9f11e109c/mars-ash-closeup.jpeg?m=1776362609.206"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/c5d1f143-e5f8-409a-8195-f3b9f11e109c/mars-ash-closeup.jpeg?m=1776362609.206" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/c5d1f143-e5f8-409a-8195-f3b9f11e109c/mars-ash-closeup.jpeg?m=1776362609.206" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Cats, unlike dogs and toddlers, help you only when it helps them</title>
+      <link>https://www.scientificamerican.com/article/cats-unlike-dogs-and-toddlers-help-you-only-when-it-helps-them/</link>
+      <description>Dogs spontaneously aid struggling humans the way young children do&amp;mdash;whereas cats wait until they stand to benefit</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Anirban Mukhopadhyay</dc:creator>
+      <author>Anirban Mukhopadhyay</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/cats-unlike-dogs-and-toddlers-help-you-only-when-it-helps-them/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/b655057b-1a12-4e1b-857c-2a798a4b9189/saw070826Adva11.jpg?m=1779978059.041"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/b655057b-1a12-4e1b-857c-2a798a4b9189/saw070826Adva11.jpg?m=1779978059.041" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/b655057b-1a12-4e1b-857c-2a798a4b9189/saw070826Adva11.jpg?m=1779978059.041" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Math Puzzle: Go to great lengths</title>
+      <link>https://www.scientificamerican.com/article/math-puzzle-go-to-great-lengths/</link>
+      <description>Find the lengths of the sides of the square in this math puzzle</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Heinrich Hemme</dc:creator>
+      <author>Heinrich Hemme</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/math-puzzle-go-to-great-lengths/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>How breast cancer screening can predict heart disease risk</title>
+      <link>https://www.scientificamerican.com/article/how-breast-cancer-screening-can-predict-heart-disease-risk/</link>
+      <description>AI analysis of mammograms could provide a &amp;ldquo;bonus finding&amp;rdquo; for heart disease</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Lauren J. Young</dc:creator>
+      <author>Lauren J. Young</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-breast-cancer-screening-can-predict-heart-disease-risk/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/40515d26-d297-4cf0-9467-d47ff8475209/saw070826Adva12.jpg?m=1779978251.4"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/40515d26-d297-4cf0-9467-d47ff8475209/saw070826Adva12.jpg?m=1779978251.4" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/40515d26-d297-4cf0-9467-d47ff8475209/saw070826Adva12.jpg?m=1779978251.4" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Science’s rising stars</title>
+      <link>https://www.scientificamerican.com/article/sciences-rising-stars/</link>
+      <description>There are bright futures ahead for our first-ever Young American Scientist honorees</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>David M. Ewalt</dc:creator>
+      <author>David M. Ewalt</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/sciences-rising-stars/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/fa29a40d-29a8-4d2c-aeac-44c951d9dcad/sa070826-FromTheEditor-IssueCover.jpg?m=1781279259.633"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/fa29a40d-29a8-4d2c-aeac-44c951d9dcad/sa070826-FromTheEditor-IssueCover.jpg?m=1781279259.633" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/fa29a40d-29a8-4d2c-aeac-44c951d9dcad/sa070826-FromTheEditor-IssueCover.jpg?m=1781279259.633" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Readers respond to the March 2026 issue</title>
+      <link>https://www.scientificamerican.com/article/readers-respond-to-the-march-2026-issue/</link>
+      <description>Letters to the editors for the March 2026 issue of Scientific American</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Aaron Shattuck</dc:creator>
+      <author>Aaron Shattuck</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/readers-respond-to-the-march-2026-issue/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/4c6cde6f-8fd7-4867-85cc-6877256da3f1/sa070826-Letters-IssueCover.jpg?m=1781279309.399"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/4c6cde6f-8fd7-4867-85cc-6877256da3f1/sa070826-Letters-IssueCover.jpg?m=1781279309.399" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/4c6cde6f-8fd7-4867-85cc-6877256da3f1/sa070826-Letters-IssueCover.jpg?m=1781279309.399" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Tonima Tasmin Ananna</title>
+      <link>https://www.scientificamerican.com/article/tonima-tasmin-ananna/</link>
+      <description>Understanding the behavior of supermassive black holes</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Emma Gometz</dc:creator>
+      <author>Emma Gometz</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/tonima-tasmin-ananna/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/4cfd5124-cd73-4591-96d9-abc03e556ff1/saw070826YAS-1-Tonima-Annana.jpg?m=1780335657.061"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/4cfd5124-cd73-4591-96d9-abc03e556ff1/saw070826YAS-1-Tonima-Annana.jpg?m=1780335657.061" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/4cfd5124-cd73-4591-96d9-abc03e556ff1/saw070826YAS-1-Tonima-Annana.jpg?m=1780335657.061" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Allie Balter-Kennedy</title>
+      <link>https://www.scientificamerican.com/article/allie-balter-kennedy/</link>
+      <description>Exploring ice cores to foresee the effects of climate change</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Claire Cameron</dc:creator>
+      <author>Claire Cameron</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/allie-balter-kennedy/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/5c661253-cfbf-4a3d-9664-583c66d5f797/saw070826YAS-2-Allie-Balter-Kennedy.jpg?m=1780338384.598"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/5c661253-cfbf-4a3d-9664-583c66d5f797/saw070826YAS-2-Allie-Balter-Kennedy.jpg?m=1780338384.598" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/5c661253-cfbf-4a3d-9664-583c66d5f797/saw070826YAS-2-Allie-Balter-Kennedy.jpg?m=1780338384.598" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Samagya Banskota</title>
+      <link>https://www.scientificamerican.com/article/samagya-banskota/</link>
+      <description>Using viruslike particles to deliver therapies safely and effectively</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Kate Wong</dc:creator>
+      <author>Kate Wong</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/samagya-banskota/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/5b276cbf-8d8f-4009-8d9d-4f4442537c98/saw070826YAS-3-Samagya-Banskota.jpg?m=1780339181.833"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/5b276cbf-8d8f-4009-8d9d-4f4442537c98/saw070826YAS-3-Samagya-Banskota.jpg?m=1780339181.833" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/5b276cbf-8d8f-4009-8d9d-4f4442537c98/saw070826YAS-3-Samagya-Banskota.jpg?m=1780339181.833" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Jenny Bergner</title>
+      <link>https://www.scientificamerican.com/article/jenny-bergner/</link>
+      <description>Mimicking the chemistry of outer space to explain how planets form</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Andrea Gawrylewski</dc:creator>
+      <author>Andrea Gawrylewski</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/jenny-bergner/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/bac24a14-5c7a-4742-b8ab-c0111ef43732/saw070826YAS-4-Jenny-Bergner.jpg?m=1780339915.83"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/bac24a14-5c7a-4742-b8ab-c0111ef43732/saw070826YAS-4-Jenny-Bergner.jpg?m=1780339915.83" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/bac24a14-5c7a-4742-b8ab-c0111ef43732/saw070826YAS-4-Jenny-Bergner.jpg?m=1780339915.83" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Adam Bowman</title>
+      <link>https://www.scientificamerican.com/article/adam-bowman/</link>
+      <description>Clocking the electrical messages between neurons using fluorescence</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Josh Fischman</dc:creator>
+      <author>Josh Fischman</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/adam-bowman/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/03a97e49-093d-46fe-99fd-0c47633d87fe/saw070826YAS-5-Adam-Bowman.jpg?m=1780340156.928"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/03a97e49-093d-46fe-99fd-0c47633d87fe/saw070826YAS-5-Adam-Bowman.jpg?m=1780340156.928" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/03a97e49-093d-46fe-99fd-0c47633d87fe/saw070826YAS-5-Adam-Bowman.jpg?m=1780340156.928" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Colin Carlson</title>
+      <link>https://www.scientificamerican.com/article/colin-carlson/</link>
+      <description>Explaining how climate change affects ecological diversity and human health</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>K. R. Callaway</dc:creator>
+      <author>K. R. Callaway</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/colin-carlson/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/4a19c009-8ab5-4464-a968-c1fbbed2a153/saw070826YAS-6-Colin-Carlson.jpg?m=1780341197.014"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/4a19c009-8ab5-4464-a968-c1fbbed2a153/saw070826YAS-6-Colin-Carlson.jpg?m=1780341197.014" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/4a19c009-8ab5-4464-a968-c1fbbed2a153/saw070826YAS-6-Colin-Carlson.jpg?m=1780341197.014" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Steven Chavez</title>
+      <link>https://www.scientificamerican.com/article/steven-chavez/</link>
+      <description>Making catalysts used in industrial processes hardier and more effective</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Megha Satyanarayana</dc:creator>
+      <author>Megha Satyanarayana</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/steven-chavez/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/9ed510b7-1092-4801-8e68-27240309d99e/saw070826YAS-7-Steven-Chavez.jpg?m=1780342963.267"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/9ed510b7-1092-4801-8e68-27240309d99e/saw070826YAS-7-Steven-Chavez.jpg?m=1780342963.267" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/9ed510b7-1092-4801-8e68-27240309d99e/saw070826YAS-7-Steven-Chavez.jpg?m=1780342963.267" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Jieneng Chen</title>
+      <link>https://www.scientificamerican.com/article/jieneng-chen/</link>
+      <description>Creating artificial-intelligence tools for cancer detection</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Ari Sen</dc:creator>
+      <author>Ari Sen</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/jieneng-chen/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/7d5b3894-b9eb-42a6-b7af-10d54d28135d/saw070826YAS-8-Jieneng-Chen.jpg?m=1780407528.343"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/7d5b3894-b9eb-42a6-b7af-10d54d28135d/saw070826YAS-8-Jieneng-Chen.jpg?m=1780407528.343" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/7d5b3894-b9eb-42a6-b7af-10d54d28135d/saw070826YAS-8-Jieneng-Chen.jpg?m=1780407528.343" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Kauê M. Costa</title>
+      <link>https://www.scientificamerican.com/article/kaue-m-costa/</link>
+      <description>Applying new tools to behavioral tests to discern how we learn</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Dan Vergano</dc:creator>
+      <author>Dan Vergano</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/kaue-m-costa/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/47a2a034-dbb2-4338-8b30-d13cc4b86641/saw070826YAS-9-Kaue-Costa.jpg?m=1780416779.349"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/47a2a034-dbb2-4338-8b30-d13cc4b86641/saw070826YAS-9-Kaue-Costa.jpg?m=1780416779.349" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/47a2a034-dbb2-4338-8b30-d13cc4b86641/saw070826YAS-9-Kaue-Costa.jpg?m=1780416779.349" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Dane deQuilettes</title>
+      <link>https://www.scientificamerican.com/article/dane-dequilettes/</link>
+      <description>Inventing better materials to improve solar energy</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Eric Sullivan</dc:creator>
+      <author>Eric Sullivan</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/dane-dequilettes/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/bd6d6f72-713d-434a-9b76-9c1d6f8b4399/saw070826YAS-10-Dane-William-de-Quilettes.jpg?m=1780431372.985"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/bd6d6f72-713d-434a-9b76-9c1d6f8b4399/saw070826YAS-10-Dane-William-de-Quilettes.jpg?m=1780431372.985" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/bd6d6f72-713d-434a-9b76-9c1d6f8b4399/saw070826YAS-10-Dane-William-de-Quilettes.jpg?m=1780431372.985" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Chee-Huat Linus Eng</title>
+      <link>https://www.scientificamerican.com/article/chee-huat-linus-eng/</link>
+      <description>Creating techniques to allow scientists to see biological processes in real time</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Tara Haelle</dc:creator>
+      <author>Tara Haelle</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/chee-huat-linus-eng/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/83c40311-f44a-4a72-813f-44860db9a9aa/saw070826YAS-11-Linus-Chee-Huat-Eng.jpg?m=1780431623.417"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/83c40311-f44a-4a72-813f-44860db9a9aa/saw070826YAS-11-Linus-Chee-Huat-Eng.jpg?m=1780431623.417" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/83c40311-f44a-4a72-813f-44860db9a9aa/saw070826YAS-11-Linus-Chee-Huat-Eng.jpg?m=1780431623.417" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Emily Finn</title>
+      <link>https://www.scientificamerican.com/article/emily-finn/</link>
+      <description>Studying why people interpret the same thing in different ways</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Allison Parshall</dc:creator>
+      <author>Allison Parshall</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/emily-finn/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/178d9ee5-6b24-462d-8afe-f85d1ca8abf1/saw070826YAS-12-Emily-Finn.jpg?m=1780432018.815"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/178d9ee5-6b24-462d-8afe-f85d1ca8abf1/saw070826YAS-12-Emily-Finn.jpg?m=1780432018.815" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/178d9ee5-6b24-462d-8afe-f85d1ca8abf1/saw070826YAS-12-Emily-Finn.jpg?m=1780432018.815" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Jaye Gardiner</title>
+      <link>https://www.scientificamerican.com/article/jaye-gardiner/</link>
+      <description>Learning how the matrix around cells and tissues impacts cancers</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Jeanna Bryner</dc:creator>
+      <author>Jeanna Bryner</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/jaye-gardiner/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/f6549749-2f58-4a08-a6de-a8d994827301/saw070826YAS-13-Jaye-Gardiner.jpg?m=1780432784.47"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/f6549749-2f58-4a08-a6de-a8d994827301/saw070826YAS-13-Jaye-Gardiner.jpg?m=1780432784.47" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/f6549749-2f58-4a08-a6de-a8d994827301/saw070826YAS-13-Jaye-Gardiner.jpg?m=1780432784.47" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Trevor GrandPre</title>
+      <link>https://www.scientificamerican.com/article/trevor-grandpre/</link>
+      <description>Building models to understand how self-organizing structures in cells lead to disease</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Sarah Lewin Frasier</dc:creator>
+      <author>Sarah Lewin Frasier</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/trevor-grandpre/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/7a7b67a0-a3d3-44b0-91af-dd0b5b015dcf/saw070826YAS-14-Trevor-GrandPre.jpg?m=1780433055.748"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/7a7b67a0-a3d3-44b0-91af-dd0b5b015dcf/saw070826YAS-14-Trevor-GrandPre.jpg?m=1780433055.748" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/7a7b67a0-a3d3-44b0-91af-dd0b5b015dcf/saw070826YAS-14-Trevor-GrandPre.jpg?m=1780433055.748" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Anna Ho</title>
+      <link>https://www.scientificamerican.com/article/anna-ho/</link>
+      <description>Describing the characteristics of short-lived astrophysical events</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Lee Billings</dc:creator>
+      <author>Lee Billings</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/anna-ho/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/f1dc5a7d-9dc4-4a54-8f18-1e6c45f8de07/saw070826YAS-15-Anna-Ho.jpg?m=1780433534.812"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/f1dc5a7d-9dc4-4a54-8f18-1e6c45f8de07/saw070826YAS-15-Anna-Ho.jpg?m=1780433534.812" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/f1dc5a7d-9dc4-4a54-8f18-1e6c45f8de07/saw070826YAS-15-Anna-Ho.jpg?m=1780433534.812" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Kaiyi Jiang</title>
+      <link>https://www.scientificamerican.com/article/kaiyi-jiang/</link>
+      <description>Creating AI platforms to discover new therapeutics</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Megha Satyanarayana</dc:creator>
+      <author>Megha Satyanarayana</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/kaiyi-jiang/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/6e75fea7-22a7-4e7c-b58e-a0ce865e1864/saw070826YAS-16-Kaiyi-Jiang.jpg?m=1780497929.974"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/6e75fea7-22a7-4e7c-b58e-a0ce865e1864/saw070826YAS-16-Kaiyi-Jiang.jpg?m=1780497929.974" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/6e75fea7-22a7-4e7c-b58e-a0ce865e1864/saw070826YAS-16-Kaiyi-Jiang.jpg?m=1780497929.974" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>JianJun Jin</title>
+      <link>https://www.scientificamerican.com/article/jianjun-jin/</link>
+      <description>Formulating software for the study of plant genomes</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Ari Sen</dc:creator>
+      <author>Ari Sen</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/jianjun-jin/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/c079d420-c427-4905-90cc-f833035e2adc/saw070826YAS-17-JianJun-Jin.jpg?m=1780498531.394"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/c079d420-c427-4905-90cc-f833035e2adc/saw070826YAS-17-JianJun-Jin.jpg?m=1780498531.394" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/c079d420-c427-4905-90cc-f833035e2adc/saw070826YAS-17-JianJun-Jin.jpg?m=1780498531.394" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Dmitrii Kochkov</title>
+      <link>https://www.scientificamerican.com/article/dmitrii-kochkov/</link>
+      <description>Making artificial-intelligence tools to predict what climate change will mean for extreme weather</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Andrea Thompson</dc:creator>
+      <author>Andrea Thompson</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/dmitrii-kochkov/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/6de988ba-e5ce-4f0d-af76-7b4352a9d8dc/saw070826YAS-18-Dmitrii-Kochkov.jpg?m=1780498862.194"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/6de988ba-e5ce-4f0d-af76-7b4352a9d8dc/saw070826YAS-18-Dmitrii-Kochkov.jpg?m=1780498862.194" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/6de988ba-e5ce-4f0d-af76-7b4352a9d8dc/saw070826YAS-18-Dmitrii-Kochkov.jpg?m=1780498862.194" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Mikhail Kolmogorov</title>
+      <link>https://www.scientificamerican.com/article/mikhail-kolmogorov/</link>
+      <description>Developing software to reveal large genetic changes that lead to cancer</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Stephanie Pappas</dc:creator>
+      <author>Stephanie Pappas</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/mikhail-kolmogorov/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/61c8d7ec-b62b-4630-b569-9b4d5a5f1463/saw070826YAS-19-Mikhail-Kolmogorov.jpg?m=1780500576.009"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/61c8d7ec-b62b-4630-b569-9b4d5a5f1463/saw070826YAS-19-Mikhail-Kolmogorov.jpg?m=1780500576.009" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/61c8d7ec-b62b-4630-b569-9b4d5a5f1463/saw070826YAS-19-Mikhail-Kolmogorov.jpg?m=1780500576.009" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Erini Lambrides</title>
+      <link>https://www.scientificamerican.com/article/erini-lambrides/</link>
+      <description>Characterizing the &amp;ldquo;Little Red Dots&amp;rdquo; to decipher the beginnings of galaxies</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Megha Satyanarayana</dc:creator>
+      <author>Megha Satyanarayana</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/erini-lambrides/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/ebd44283-8630-47c8-833b-1738f8baa6c4/saw070826YAS-20-Erini-Lambrides.jpg?m=1780500850.785"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/ebd44283-8630-47c8-833b-1738f8baa6c4/saw070826YAS-20-Erini-Lambrides.jpg?m=1780500850.785" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/ebd44283-8630-47c8-833b-1738f8baa6c4/saw070826YAS-20-Erini-Lambrides.jpg?m=1780500850.785" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Armita Manafzadeh</title>
+      <link>https://www.scientificamerican.com/article/armita-manafzadeh/</link>
+      <description>Investigating the shape and evolution of animal joints</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Jackie Flynn Mogensen</dc:creator>
+      <author>Jackie Flynn Mogensen</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/armita-manafzadeh/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/4c5a4ae8-22b7-439f-aec3-046f8d72a68e/saw070826YAS-21-Armita-Manafzadeh.jpg?m=1780501021.974"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/4c5a4ae8-22b7-439f-aec3-046f8d72a68e/saw070826YAS-21-Armita-Manafzadeh.jpg?m=1780501021.974" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/4c5a4ae8-22b7-439f-aec3-046f8d72a68e/saw070826YAS-21-Armita-Manafzadeh.jpg?m=1780501021.974" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Tixiao Shan</title>
+      <link>https://www.scientificamerican.com/article/tixiao-shan/</link>
+      <description>Teaching robots how to recognize and interpret their surroundings</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>David M. Ewalt</dc:creator>
+      <author>David M. Ewalt</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/tixiao-shan/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/c98ac2c0-1d9e-4269-b8ea-7c4c7d8eb08e/saw070826YAS-22-Tixiao-Shan.jpg?m=1780501293.822"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/c98ac2c0-1d9e-4269-b8ea-7c4c7d8eb08e/saw070826YAS-22-Tixiao-Shan.jpg?m=1780501293.822" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/c98ac2c0-1d9e-4269-b8ea-7c4c7d8eb08e/saw070826YAS-22-Tixiao-Shan.jpg?m=1780501293.822" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Alice Stanton</title>
+      <link>https://www.scientificamerican.com/article/alice-stanton/</link>
+      <description>Building models of the human brain to better understand disease</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Tanya Lewis</dc:creator>
+      <author>Tanya Lewis</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/alice-stanton/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/b6fa3910-da62-4cf9-b873-4324ee65b369/saw070826YAS-23-Alice-Stanton.jpg?m=1780506365.762"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/b6fa3910-da62-4cf9-b873-4324ee65b369/saw070826YAS-23-Alice-Stanton.jpg?m=1780506365.762" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/b6fa3910-da62-4cf9-b873-4324ee65b369/saw070826YAS-23-Alice-Stanton.jpg?m=1780506365.762" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Christina V. Theodoris</title>
+      <link>https://www.scientificamerican.com/article/christina-v-theodoris/</link>
+      <description>Creating artificial-intelligence models to find treatments for cardiac diseases</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Lauren J. Young</dc:creator>
+      <author>Lauren J. Young</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/christina-v-theodoris/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/c1f82dfd-6c2f-4412-98e3-4851fde769b8/saw070826YAS-24-Christina-Theodoris.jpg?m=1780506576.13"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/c1f82dfd-6c2f-4412-98e3-4851fde769b8/saw070826YAS-24-Christina-Theodoris.jpg?m=1780506576.13" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/c1f82dfd-6c2f-4412-98e3-4851fde769b8/saw070826YAS-24-Christina-Theodoris.jpg?m=1780506576.13" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Xiao Yang</title>
+      <link>https://www.scientificamerican.com/article/xiao-yang/</link>
+      <description>Improving brain-machine interfaces to make them more resilient</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Stephanie Pappas</dc:creator>
+      <author>Stephanie Pappas</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/xiao-yang/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/42035eca-df65-42f5-a9c4-0c3768530e51/saw070826YAS-25-Xiao-Yang.jpg?m=1780506844.509"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/42035eca-df65-42f5-a9c4-0c3768530e51/saw070826YAS-25-Xiao-Yang.jpg?m=1780506844.509" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/42035eca-df65-42f5-a9c4-0c3768530e51/saw070826YAS-25-Xiao-Yang.jpg?m=1780506844.509" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Amber Young</title>
+      <link>https://www.scientificamerican.com/article/amber-young/</link>
+      <description>Standardizing and improving models used in astrobiology</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Meghan Bartels</dc:creator>
+      <author>Meghan Bartels</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/amber-young/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/12a604dd-3372-4568-b529-b60797eb7f88/saw070826YAS-26-Amber-Young.jpg?m=1780507050.862"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/12a604dd-3372-4568-b529-b60797eb7f88/saw070826YAS-26-Amber-Young.jpg?m=1780507050.862" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/12a604dd-3372-4568-b529-b60797eb7f88/saw070826YAS-26-Amber-Young.jpg?m=1780507050.862" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Alex L. Zhang</title>
+      <link>https://www.scientificamerican.com/article/alex-l-zhang/</link>
+      <description>Making artificial-intelligence recursive language models more efficient</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Deni Ellis Béchard</dc:creator>
+      <author>Deni Ellis Béchard</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/alex-l-zhang/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/f2cca3dd-c175-4eb8-877e-2fa86edb0730/saw070826YAS-27-Alex-Zhang.jpg?m=1780507610.082"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/f2cca3dd-c175-4eb8-877e-2fa86edb0730/saw070826YAS-27-Alex-Zhang.jpg?m=1780507610.082" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/f2cca3dd-c175-4eb8-877e-2fa86edb0730/saw070826YAS-27-Alex-Zhang.jpg?m=1780507610.082" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Lvmin Zhang</title>
+      <link>https://www.scientificamerican.com/article/lvmin-zhang/</link>
+      <description>Developing artificial-intelligence systems to enhance digital art creation</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Brianne Kane</dc:creator>
+      <author>Brianne Kane</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/lvmin-zhang/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/b84b7b54-2bbe-4cce-aa6f-96730a810628/saw070826YAS-28-Lvmin-Zhang.jpg?m=1780507891.467"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/b84b7b54-2bbe-4cce-aa6f-96730a810628/saw070826YAS-28-Lvmin-Zhang.jpg?m=1780507891.467" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/b84b7b54-2bbe-4cce-aa6f-96730a810628/saw070826YAS-28-Lvmin-Zhang.jpg?m=1780507891.467" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>A face-swapping illusion can unlock childhood memories</title>
+      <link>https://www.scientificamerican.com/article/a-face-swapping-illusion-can-unlock-childhood-memories/</link>
+      <description>By making people feel as if they inhabit a younger version of their own face, researchers can bring childhood memories into sharper focus</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Jane Aspell</dc:creator>
+      <author>Jane Aspell</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/a-face-swapping-illusion-can-unlock-childhood-memories/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/f726cf03-fc17-42fd-9e7d-a857f90eb639/boy-orange-toy.jpg?m=1776183214.211"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/f726cf03-fc17-42fd-9e7d-a857f90eb639/boy-orange-toy.jpg?m=1776183214.211" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/f726cf03-fc17-42fd-9e7d-a857f90eb639/boy-orange-toy.jpg?m=1776183214.211" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Trump’s Genesis Mission is putting AI to work on nuclear weapons</title>
+      <link>https://www.scientificamerican.com/article/trumps-genesis-mission-is-putting-ai-to-work-on-nuclear-weapons/</link>
+      <description>The Department of Energy bills Genesis as an AI push for scientific discovery. Its first public challenges tell a different story</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Sarah Scoles</dc:creator>
+      <author>Sarah Scoles</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/trumps-genesis-mission-is-putting-ai-to-work-on-nuclear-weapons/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/814d31c8-35d3-4b4c-8cd1-d2e20eefe721/sa070826SoW01.jpg?m=1779908366.116"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/814d31c8-35d3-4b4c-8cd1-d2e20eefe721/sa070826SoW01.jpg?m=1779908366.116" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/814d31c8-35d3-4b4c-8cd1-d2e20eefe721/sa070826SoW01.jpg?m=1779908366.116" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Science crossword: Looking to the future</title>
+      <link>https://www.scientificamerican.com/article/science-crossword-looking-to-the-future/</link>
+      <description>Play this crossword inspired by the July/August 2026 issue of Scientific American</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Aimee Lucido</dc:creator>
+      <author>Aimee Lucido</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/science-crossword-looking-to-the-future/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>How a Renaissance gambling dispute spawned probability theory</title>
+      <link>https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/</link>
+      <description>A dispute over how to divvy up the pot in an interrupted game of chance led early mathematicians to invent modern risk assessment</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Jack Murtagh</dc:creator>
+      <author>Jack Murtagh</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/eb2e8ed0-c13b-4c11-8a4c-afe23c1ed280/points-problem_graphic_leadImage.png?m=1776449332.201"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/eb2e8ed0-c13b-4c11-8a4c-afe23c1ed280/points-problem_graphic_leadImage.png?m=1776449332.201" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/eb2e8ed0-c13b-4c11-8a4c-afe23c1ed280/points-problem_graphic_leadImage.png?m=1776449332.201" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Clean pesticides off your fruits and veggies with common kitchen ingredients</title>
+      <link>https://www.scientificamerican.com/article/is-washing-with-water-enough-to-get-pfas-pesticides-off-fruits-vegetables/</link>
+      <description>Pesticides on your produce can be easily removed with common kitchen ingredients</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Emma Gometz</dc:creator>
+      <author>Emma Gometz</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/is-washing-with-water-enough-to-get-pfas-pesticides-off-fruits-vegetables/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/474c844f-b551-46fe-9f47-962783ad6553/sa070826SoH01.jpg?m=1781214611.395"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/474c844f-b551-46fe-9f47-962783ad6553/sa070826SoH01.jpg?m=1781214611.395" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/474c844f-b551-46fe-9f47-962783ad6553/sa070826SoH01.jpg?m=1781214611.395" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Poem: ‘The Soliloquy of Schrödinger’s Cat’</title>
+      <link>https://www.scientificamerican.com/article/poem-the-soliloquy-of-schroedingers-cat/</link>
+      <description>A meditation on life and the von Neumann&amp;ndash;Wigner interpretation of quantum mechanics</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Pippa Storey</dc:creator>
+      <author>Pippa Storey</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/poem-the-soliloquy-of-schroedingers-cat/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/05a50532-e4c9-4546-b84a-57d74bc0cf88/sa070826Mtr01.jpg?m=1779909911.25"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/05a50532-e4c9-4546-b84a-57d74bc0cf88/sa070826Mtr01.jpg?m=1779909911.25" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/05a50532-e4c9-4546-b84a-57d74bc0cf88/sa070826Mtr01.jpg?m=1779909911.25" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>NASA’s Dragonfly mission will send a nuclear-powered flying drone to Titan</title>
+      <link>https://www.scientificamerican.com/article/nasas-dragonfly-mission-will-send-a-nuclear-powered-flying-drone-to-titan/</link>
+      <description>NASA plans to launch a wildly ambitious nuclear-powered octocopter to Saturn&amp;rsquo;s largest moon, Titan, in 2028</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Phil Plait</dc:creator>
+      <author>Phil Plait</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/nasas-dragonfly-mission-will-send-a-nuclear-powered-flying-drone-to-titan/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/226c1ea2-8b17-4f20-a030-84cf85914638/Dragonfly_Flight.jpg?m=1775760370.565"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/226c1ea2-8b17-4f20-a030-84cf85914638/Dragonfly_Flight.jpg?m=1775760370.565" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/226c1ea2-8b17-4f20-a030-84cf85914638/Dragonfly_Flight.jpg?m=1775760370.565" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Why humanoid robots are learning everyday tasks faster than expected</title>
+      <link>https://www.scientificamerican.com/article/why-humanoid-robots-are-learning-everyday-tasks-faster-than-expected/</link>
+      <description>Roboticist Benjie Holson created the &amp;ldquo;Humanoid Olympic Games&amp;rdquo; thinking home robots were 15 years away. Then they started folding the laundry</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Deni Ellis Béchard</dc:creator>
+      <author>Deni Ellis Béchard</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/why-humanoid-robots-are-learning-everyday-tasks-faster-than-expected/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/3b649001-0cd4-46bf-9ba0-26b0d8fe5a50/sa070826QA01.jpg?m=1779992875.139"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/3b649001-0cd4-46bf-9ba0-26b0d8fe5a50/sa070826QA01.jpg?m=1779992875.139" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/3b649001-0cd4-46bf-9ba0-26b0d8fe5a50/sa070826QA01.jpg?m=1779992875.139" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>See how academic freedom is changing around the world</title>
+      <link>https://www.scientificamerican.com/article/see-how-academic-freedom-is-changing-around-the-world/</link>
+      <description>Some countries have seen a stark decline in academic freedom over the past decade</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Jen Christiansen</dc:creator>
+      <author>Jen Christiansen</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/see-how-academic-freedom-is-changing-around-the-world/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/ed8c3e10-85cf-49c1-aa46-9b13b97cc762/saw070826Gsci_lead.jpg?m=1779988236.585"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/ed8c3e10-85cf-49c1-aa46-9b13b97cc762/saw070826Gsci_lead.jpg?m=1779988236.585" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/ed8c3e10-85cf-49c1-aa46-9b13b97cc762/saw070826Gsci_lead.jpg?m=1779988236.585" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>July/August 2026: Science history from 50, 100 and 150 years ago</title>
+      <link>https://www.scientificamerican.com/article/july-august-2026-science-history-from-50-100-and-150-years-ago/</link>
+      <description>Natural fission reactor uncovered; geometry of soap bubbles</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Jeanna Bryner</dc:creator>
+      <author>Jeanna Bryner</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/july-august-2026-science-history-from-50-100-and-150-years-ago/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/0c9e113d-b70d-4ad0-a412-17e523bcb5af/sa070826Hist04.jpg?m=1779910930.943"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/0c9e113d-b70d-4ad0-a412-17e523bcb5af/sa070826Hist04.jpg?m=1779910930.943" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/0c9e113d-b70d-4ad0-a412-17e523bcb5af/sa070826Hist04.jpg?m=1779910930.943" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>America’s compact between science and politics is broken</title>
+      <link>https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/</link>
+      <description>How did we get here?</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Adam Rogers</dc:creator>
+      <author>Adam Rogers</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/14de7018-3a11-43b8-8392-6e83ccd5b0a3/saw070826Roge01.jpg?m=1779983432.668"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/14de7018-3a11-43b8-8392-6e83ccd5b0a3/saw070826Roge01.jpg?m=1779983432.668" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/14de7018-3a11-43b8-8392-6e83ccd5b0a3/saw070826Roge01.jpg?m=1779983432.668" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>These young scientists are on our radar</title>
+      <link>https://www.scientificamerican.com/article/these-young-scientists-are-on-our-radar/</link>
+      <description>These young scientists are making waves in their own ways. Keep an eye on them&amp;mdash;great things are ahead</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Megha Satyanarayana</dc:creator>
+      <author>Megha Satyanarayana</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/these-young-scientists-are-on-our-radar/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/21ed7dd5-3ec1-4b1e-b6fb-05448e191fba/sa070826YAS_OnRadar01.jpg?m=1779987111.06"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/21ed7dd5-3ec1-4b1e-b6fb-05448e191fba/sa070826YAS_OnRadar01.jpg?m=1779987111.06" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/21ed7dd5-3ec1-4b1e-b6fb-05448e191fba/sa070826YAS_OnRadar01.jpg?m=1779987111.06" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Craig Venter</title>
+      <link>https://www.scientificamerican.com/article/craig-venter/</link>
+      <description>In his final interview, the &amp;ldquo;swashbuckling&amp;rdquo; geneticist pointed the way for science</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Jeanna Bryner</dc:creator>
+      <author>Jeanna Bryner</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/craig-venter/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/fe308acf-c8f5-4e9f-8b8c-faf80e1800fb/saw070826Lumin_Vent01.jpg?m=1780074989.882"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/fe308acf-c8f5-4e9f-8b8c-faf80e1800fb/saw070826Lumin_Vent01.jpg?m=1780074989.882" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/fe308acf-c8f5-4e9f-8b8c-faf80e1800fb/saw070826Lumin_Vent01.jpg?m=1780074989.882" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Alan Lightman on his childhood in science</title>
+      <link>https://www.scientificamerican.com/article/alan-lightman-on-his-childhood-in-science/</link>
+      <description>The story of the author&amp;rsquo;s extremely early career</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Alan Lightman</dc:creator>
+      <author>Alan Lightman</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/alan-lightman-on-his-childhood-in-science/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/3317aa44-43fa-4906-9371-5b7afe5a2c8a/saw070826_Ligh01.jpg?m=1780335165.581"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/3317aa44-43fa-4906-9371-5b7afe5a2c8a/saw070826_Ligh01.jpg?m=1780335165.581" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/3317aa44-43fa-4906-9371-5b7afe5a2c8a/saw070826_Ligh01.jpg?m=1780335165.581" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Science is under pressure again. Here’s what that means for young researchers</title>
+      <link>https://www.scientificamerican.com/article/science-is-under-pressure-again-heres-what-that-means-for-young-researchers/</link>
+      <description>It&amp;rsquo;s a complicated time to be a young scientist in America. Lessons from history can tell us what the future might hold</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Deborah Blum</dc:creator>
+      <author>Deborah Blum</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/science-is-under-pressure-again-heres-what-that-means-for-young-researchers/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/d0fc08b0-6e14-44cd-a4b3-1280c64097aa/saw070826Blum02.jpg?m=1779994343.346"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/d0fc08b0-6e14-44cd-a4b3-1280c64097aa/saw070826Blum02.jpg?m=1779994343.346" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/d0fc08b0-6e14-44cd-a4b3-1280c64097aa/saw070826Blum02.jpg?m=1779994343.346" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Atul Gawande</title>
+      <link>https://www.scientificamerican.com/article/atul-gawande/</link>
+      <description>On reclaiming America&amp;rsquo;s edge in research and public health</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Tara Haelle</dc:creator>
+      <author>Tara Haelle</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/atul-gawande/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/dc98dd3b-93a6-47f4-a51c-e03ffb139b54/saw070826Lumin_Gawa01.jpg?m=1780081094.655"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/dc98dd3b-93a6-47f4-a51c-e03ffb139b54/saw070826Lumin_Gawa01.jpg?m=1780081094.655" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/dc98dd3b-93a6-47f4-a51c-e03ffb139b54/saw070826Lumin_Gawa01.jpg?m=1780081094.655" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>U.S. scientists are being lured abroad—and they aren&apos;t looking back</title>
+      <link>https://www.scientificamerican.com/article/u-s-scientists-are-being-lured-abroad-and-they-arent-looking-back/</link>
+      <description>The great American brain drain could define science for a generation</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Sarah Scoles</dc:creator>
+      <author>Sarah Scoles</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/u-s-scientists-are-being-lured-abroad-and-they-arent-looking-back/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/30a85ab3-97e3-4454-9ee5-c39b2c0179c8/sa070826Scol01.jpg?m=1779995322.74"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/30a85ab3-97e3-4454-9ee5-c39b2c0179c8/sa070826Scol01.jpg?m=1779995322.74" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/30a85ab3-97e3-4454-9ee5-c39b2c0179c8/sa070826Scol01.jpg?m=1779995322.74" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Timnit Gebru</title>
+      <link>https://www.scientificamerican.com/article/timnit-gebru/</link>
+      <description>On safeguarding independent research in the age of big tech</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Megha Satyanarayana</dc:creator>
+      <author>Megha Satyanarayana</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/timnit-gebru/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/e4888f60-95f7-458c-a498-d4b5ab7774bb/saw070826Lumin_Gebru01.jpg?m=1780076066.55"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/e4888f60-95f7-458c-a498-d4b5ab7774bb/saw070826Lumin_Gebru01.jpg?m=1780076066.55" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/e4888f60-95f7-458c-a498-d4b5ab7774bb/saw070826Lumin_Gebru01.jpg?m=1780076066.55" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Inside U.S. labs at a moment of fear—and unexpected promise</title>
+      <link>https://www.scientificamerican.com/article/inside-u-s-labs-at-a-moment-of-fear-and-unexpected-promise/</link>
+      <description>Despite funding woes, American scientists are finding reasons for optimism</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Rebecca Boyle</dc:creator>
+      <author>Rebecca Boyle</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/inside-u-s-labs-at-a-moment-of-fear-and-unexpected-promise/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/205f752e-4e90-4290-9fd1-472db381e9eb/saw070826Boyl01a.jpg?m=1779997909.68"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/205f752e-4e90-4290-9fd1-472db381e9eb/saw070826Boyl01a.jpg?m=1779997909.68" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/205f752e-4e90-4290-9fd1-472db381e9eb/saw070826Boyl01a.jpg?m=1779997909.68" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Elizabeth Blackburn</title>
+      <link>https://www.scientificamerican.com/article/elizabeth-blackburn/</link>
+      <description>On fighting for truth, inclusion and the next generation of scientists</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Rachel Nuwer</dc:creator>
+      <author>Rachel Nuwer</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/elizabeth-blackburn/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/847e76ae-9108-4d3b-8047-b7a5c53a683f/saw070826Lumin_Black01.jpg?m=1780076229.443"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/847e76ae-9108-4d3b-8047-b7a5c53a683f/saw070826Lumin_Black01.jpg?m=1780076229.443" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/847e76ae-9108-4d3b-8047-b7a5c53a683f/saw070826Lumin_Black01.jpg?m=1780076229.443" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Distrust in science thrives on dangerous stereotypes</title>
+      <link>https://www.scientificamerican.com/article/distrust-in-science-thrives-on-dangerous-stereotypes/</link>
+      <description>Scientists are seen as oddballs, and that&amp;rsquo;s a problem</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Dava Sobel</dc:creator>
+      <author>Dava Sobel</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/distrust-in-science-thrives-on-dangerous-stereotypes/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/ba0ef0f1-4985-4042-b822-7b6aec858c97/saw070826_Sobe01.jpg?m=1780335200.517"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/ba0ef0f1-4985-4042-b822-7b6aec858c97/saw070826_Sobe01.jpg?m=1780335200.517" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/ba0ef0f1-4985-4042-b822-7b6aec858c97/saw070826_Sobe01.jpg?m=1780335200.517" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Why U.S. science funding needs reform</title>
+      <link>https://www.scientificamerican.com/article/why-u-s-science-funding-needs-reform/</link>
+      <description>The federal funding system for scientific research in the U.S. is crumbling. Here&amp;rsquo;s how it can be rebuilt</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Dan Vergano</dc:creator>
+      <author>Dan Vergano</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/why-u-s-science-funding-needs-reform/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/e577902f-88cd-4e1a-bb7f-3e64002ae376/saw070826Verg01.jpg?m=1780067194.848"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/e577902f-88cd-4e1a-bb7f-3e64002ae376/saw070826Verg01.jpg?m=1780067194.848" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/e577902f-88cd-4e1a-bb7f-3e64002ae376/saw070826Verg01.jpg?m=1780067194.848" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Mark Kelly</title>
+      <link>https://www.scientificamerican.com/article/mark-kelly/</link>
+      <description>On steering the path forward for research and innovation</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Claire Cameron</dc:creator>
+      <author>Claire Cameron</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/mark-kelly/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/4c8fe97e-266a-406a-b2a2-2fd38168b84c/saw070826Lumin_Kelly01.jpg?m=1780076374.17"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/4c8fe97e-266a-406a-b2a2-2fd38168b84c/saw070826Lumin_Kelly01.jpg?m=1780076374.17" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/4c8fe97e-266a-406a-b2a2-2fd38168b84c/saw070826Lumin_Kelly01.jpg?m=1780076374.17" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Autonomous labs are running science experiments 24/7</title>
+      <link>https://www.scientificamerican.com/article/autonomous-labs-are-running-science-experiments-24-7/</link>
+      <description>Robots and AI are running experiments around the clock, from battery chemistry to cancer therapies. But can they be trusted to get it right?</description>
+      <pubDate>Tue, 16 Jun 2026 10:47:01 +0000</pubDate>
+      <dc:creator>Patrick Sisson</dc:creator>
+      <author>Patrick Sisson</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/autonomous-labs-are-running-science-experiments-24-7/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/5cdfeeaa-72d9-4173-8c06-993b82ca1469/saw070826Siss01.jpg?m=1781295196.94"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/5cdfeeaa-72d9-4173-8c06-993b82ca1469/saw070826Siss01.jpg?m=1781295196.94" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/5cdfeeaa-72d9-4173-8c06-993b82ca1469/saw070826Siss01.jpg?m=1781295196.94" type="image/jpeg"/>
     </item>
 
   </channel>
