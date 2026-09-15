@@ -5,319 +5,449 @@
     <link>https://www.scientificamerican.com/latest-issue/</link>
     <description>Latest articles from Scientific American magazine</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:30:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>The brain, solved</title>
-      <link>https://www.scientificamerican.com/article/the-brain-solved/</link>
-      <description>The human brain has upward of 86 billion neurons, connected by some 100 trillion synapses</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Andrea Gawrylewski</dc:creator>
-      <author>Andrea Gawrylewski</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-brain-solved/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/617ba9fe-c68e-4d8c-b8ec-8742a32a51d0/osq326Covr-landscape.jpg?m=1787667467.27"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/617ba9fe-c68e-4d8c-b8ec-8742a32a51d0/osq326Covr-landscape.jpg?m=1787667467.27" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/617ba9fe-c68e-4d8c-b8ec-8742a32a51d0/osq326Covr-landscape.jpg?m=1787667467.27" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>What makes ultraprocessed foods addictive?</title>
-      <link>https://www.scientificamerican.com/article/what-makes-ultraprocessed-foods-addictive/</link>
-      <description>A neuroscientist explains how highly processed foods may be key to &amp;ldquo;food addiction.&amp;rdquo; She also reveals some solutions</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Lauren J. Young</dc:creator>
-      <author>Lauren J. Young</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/what-makes-ultraprocessed-foods-addictive/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/5ba43e65d579caf1/original/sa0426QA01.jpg?m=1773088610.031"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/5ba43e65d579caf1/original/sa0426QA01.jpg?m=1773088610.031" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/5ba43e65d579caf1/original/sa0426QA01.jpg?m=1773088610.031" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>You don’t remember being a baby, but your brain was making memories</title>
-      <link>https://www.scientificamerican.com/article/you-dont-remember-being-a-baby-but-your-brain-was-making-memories/</link>
-      <description>Brain scans capture memory formation in babies, raising new questions about why people forget their earliest years</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Nick Turk-Browne</dc:creator>
-      <author>Nick Turk-Browne</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/you-dont-remember-being-a-baby-but-your-brain-was-making-memories/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/703a1faad2efee81/original/baby-looking-up.jpg?m=1787943939.15"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/703a1faad2efee81/original/baby-looking-up.jpg?m=1787943939.15" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/703a1faad2efee81/original/baby-looking-up.jpg?m=1787943939.15" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Brain scientists finally discover the glue that makes memories stick for a lifetime</title>
-      <link>https://www.scientificamerican.com/article/brain-scientists-finally-discover-the-glue-that-makes-memories-stick-for-a/</link>
-      <description>A long-running research endeavor reveals key chemical players that cement memories in place&amp;mdash;and still more have yet to be discovered</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Simon Makin</dc:creator>
-      <author>Simon Makin</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/brain-scientists-finally-discover-the-glue-that-makes-memories-stick-for-a/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/68aa4e59f12e4892/original/GettyImages-1190800124_WEB.jpg?m=1787674574.333"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/68aa4e59f12e4892/original/GettyImages-1190800124_WEB.jpg?m=1787674574.333" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/68aa4e59f12e4892/original/GettyImages-1190800124_WEB.jpg?m=1787674574.333" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Forgotten memories may remain intact in the brain</title>
-      <link>https://www.scientificamerican.com/article/forgotten-memories-may-remain-intact-in-the-brain/</link>
-      <description>Everyday lapses in memory can be a part of learning</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Daisy Yuhas</dc:creator>
-      <author>Daisy Yuhas</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/forgotten-memories-may-remain-intact-in-the-brain/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/sciam/cache/file/4BFC22F9-F279-4A1A-B77BAAF36C486CDE_source.jpg"/>
-      <media:content url="https://static.scientificamerican.com/sciam/cache/file/4BFC22F9-F279-4A1A-B77BAAF36C486CDE_source.jpg" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/sciam/cache/file/4BFC22F9-F279-4A1A-B77BAAF36C486CDE_source.jpg" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Can diet and exercise prevent Alzheimer’s disease? What the research says</title>
-      <link>https://www.scientificamerican.com/article/can-diet-and-exercise-prevent-alzheimers-disease-what-the-research-says/</link>
-      <description>Early studies suggest that lifestyle changes such as diet, exercise and social engagement may help slow or prevent Alzheimer&amp;rsquo;s symptoms&amp;mdash;but the evidence is inconsistent, and many doctors remain cautious</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Sara Harrison</dc:creator>
-      <author>Sara Harrison</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/can-diet-and-exercise-prevent-alzheimers-disease-what-the-research-says/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/3681ea03f2188892/original/sa1025Inno_Harr01.jpg?m=1756841898.042"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/3681ea03f2188892/original/sa1025Inno_Harr01.jpg?m=1756841898.042" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/3681ea03f2188892/original/sa1025Inno_Harr01.jpg?m=1756841898.042" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>A new generation of Alzheimer’s treatments, explained in graphics</title>
-      <link>https://www.scientificamerican.com/article/a-new-generation-of-alzheimers-treatments-explained-in-graphics/</link>
-      <description>While our understanding of Alzheimer&amp;rsquo;s disease is far from complete, the latest therapies, and others in more than 100 clinical trials, offer new hope</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Esther Landhuis</dc:creator>
-      <author>Esther Landhuis</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/a-new-generation-of-alzheimers-treatments-explained-in-graphics/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/282e51d67205be5/original/saw1025Inno_Landhuis_lead.png?m=1756843031.816"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/282e51d67205be5/original/saw1025Inno_Landhuis_lead.png?m=1756843031.816" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/282e51d67205be5/original/saw1025Inno_Landhuis_lead.png?m=1756843031.816" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Controversial new Alzheimer’s treatments gain ground despite serious side effects</title>
-      <link>https://www.scientificamerican.com/article/controversial-new-alzheimers-treatments-gain-ground-despite-serious-side/</link>
-      <description>New Alzheimer&amp;rsquo;s drugs known as anti-amyloid therapies may slow disease progression&amp;mdash;but they also carry serious risks, including brain bleeds and strokelike symptoms</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Liz Seegert</dc:creator>
-      <author>Liz Seegert</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/controversial-new-alzheimers-treatments-gain-ground-despite-serious-side/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/46639adcadcdd20b/original/sa1025Inno_Seeg01.jpg?m=1756912102.109"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/46639adcadcdd20b/original/sa1025Inno_Seeg01.jpg?m=1756912102.109" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/46639adcadcdd20b/original/sa1025Inno_Seeg01.jpg?m=1756912102.109" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>New Alzheimer’s blood tests promise early detection but no clear path forward</title>
-      <link>https://www.scientificamerican.com/article/new-alzheimers-blood-tests-promise-early-detection-but-no-clear-path-forward/</link>
-      <description>A new generation of Alzheimer&amp;rsquo;s blood tests could speed up diagnosis and access to care&amp;mdash;but they also raise thorny questions about prediction, treatment and uncertainty</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Cassandra Willyard</dc:creator>
-      <author>Cassandra Willyard</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/new-alzheimers-blood-tests-promise-early-detection-but-no-clear-path-forward/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/57db0311f0e9f117/original/sa1025Inno_Will01.jpg?m=1756914728.159"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/57db0311f0e9f117/original/sa1025Inno_Will01.jpg?m=1756914728.159" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/57db0311f0e9f117/original/sa1025Inno_Will01.jpg?m=1756914728.159" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>As memory-care facilities close, America faces a crisis in Alzheimer’s care</title>
-      <link>https://www.scientificamerican.com/article/as-memory-care-facilities-close-america-faces-a-crisis-in-alzheimers-care/</link>
-      <description>More than 13.8 million Americans could have Alzheimer&amp;rsquo;s by 2060, and at the rate care facilities are closing, many of them will have nowhere to go. Regina Shih of the State Alzheimer&amp;rsquo;s Research Support Center (StARS) wants to help solve that problem</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Tara Haelle</dc:creator>
-      <author>Tara Haelle</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/as-memory-care-facilities-close-america-faces-a-crisis-in-alzheimers-care/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/6dcfae99d7eb6633/original/saw1025Inno_Hael_lead.png?m=1756920048.263"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/6dcfae99d7eb6633/original/saw1025Inno_Hael_lead.png?m=1756920048.263" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/6dcfae99d7eb6633/original/saw1025Inno_Hael_lead.png?m=1756920048.263" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Is AI really conscious—or are we bringing it to life?</title>
-      <link>https://www.scientificamerican.com/article/is-ai-really-conscious-or-are-we-bringing-it-to-life/</link>
-      <description>In rethinking whether AI is sentient, we are asking bigger questions about cognition, human-machine interaction and even our own consciousness</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Simon Duan</dc:creator>
-      <author>Simon Duan</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/is-ai-really-conscious-or-are-we-bringing-it-to-life/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/d9037990-2cce-4085-8e8b-01007623b929/osqw326Duan01.jpg?m=1787758580.044"/>
-      <media:content url="https://static.scientificamerican.com/dam/asset/d9037990-2cce-4085-8e8b-01007623b929/osqw326Duan01.jpg?m=1787758580.044" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/asset/d9037990-2cce-4085-8e8b-01007623b929/osqw326Duan01.jpg?m=1787758580.044" type="image/jpeg"/>
-    </item>
-
-    <item>
-      <title>Raccoons will solve puzzles just for fun</title>
-      <link>https://www.scientificamerican.com/article/raccoons-will-solve-puzzles-just-for-fun/</link>
-      <description>Raccoons might want to break into your trash can even without delicious leftovers inside</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
+      <title>Fog may be hiding secret ecosystems</title>
+      <link>https://www.scientificamerican.com/article/fog-may-be-hiding-secret-ecosystems/</link>
+      <description>There&amp;rsquo;s more to fog than meets the eye</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
       <dc:creator>Meghan Bartels</dc:creator>
       <author>Meghan Bartels</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/raccoons-will-solve-puzzles-just-for-fun/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/3141af8bff4ff4c1/original/raccoon-working-lock.jpg?m=1787759556.647"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/3141af8bff4ff4c1/original/raccoon-working-lock.jpg?m=1787759556.647" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/3141af8bff4ff4c1/original/raccoon-working-lock.jpg?m=1787759556.647" type="image/jpeg"/>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/fog-may-be-hiding-secret-ecosystems/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/cfa86b50-90c8-4c9c-9fb8-f429be68f9ef/saw1026Adva01.jpg?m=1788279738.899"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/cfa86b50-90c8-4c9c-9fb8-f429be68f9ef/saw1026Adva01.jpg?m=1788279738.899" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/cfa86b50-90c8-4c9c-9fb8-f429be68f9ef/saw1026Adva01.jpg?m=1788279738.899" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>What is consciousness? Science faces its hardest problem yet</title>
-      <link>https://www.scientificamerican.com/article/what-is-consciousness-science-faces-its-hardest-problem-yet/</link>
-      <description>Will brain science deliver answers about consciousness or hit another wall?</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Allison Parshall</dc:creator>
-      <author>Allison Parshall</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/what-is-consciousness-science-faces-its-hardest-problem-yet/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/7283d0106ed1b200/original/saw0226Pars01.jpg?m=1766504146.409"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/7283d0106ed1b200/original/saw0226Pars01.jpg?m=1766504146.409" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/7283d0106ed1b200/original/saw0226Pars01.jpg?m=1766504146.409" type="image/jpeg"/>
+      <title>Scientists catch bacteria sharing proteins to survive antibiotics</title>
+      <link>https://www.scientificamerican.com/article/scientists-catch-bacteria-sharing-proteins-to-survive-antibiotics/</link>
+      <description>Bacteria send protein packages to dormant neighbors to endure antibiotic attack</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Jacek Krywko</dc:creator>
+      <author>Jacek Krywko</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/scientists-catch-bacteria-sharing-proteins-to-survive-antibiotics/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/7f643cd1-b0b3-4124-9922-7d24ad7f3e70/RF-e-coli-GettyImages-521677434.jpg?m=1788276092.699"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/7f643cd1-b0b3-4124-9922-7d24ad7f3e70/RF-e-coli-GettyImages-521677434.jpg?m=1788276092.699" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/7f643cd1-b0b3-4124-9922-7d24ad7f3e70/RF-e-coli-GettyImages-521677434.jpg?m=1788276092.699" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>Why your brain needs exercise</title>
-      <link>https://www.scientificamerican.com/article/why-your-brain-needs-exercise/</link>
-      <description>The evolutionary history of humans explains why physical activity is important for brain health</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>David A. Raichlen</dc:creator>
-      <author>David A. Raichlen</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/why-your-brain-needs-exercise/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/sciam/cache/file/388008E7-BFE5-40D2-8CD1E08B7CBE8FB8_source.jpg"/>
-      <media:content url="https://static.scientificamerican.com/sciam/cache/file/388008E7-BFE5-40D2-8CD1E08B7CBE8FB8_source.jpg" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/sciam/cache/file/388008E7-BFE5-40D2-8CD1E08B7CBE8FB8_source.jpg" type="image/jpeg"/>
+      <title>Strange crystals found inside wreckage from the first nuclear bomb test</title>
+      <link>https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/</link>
+      <description>The Trinity bomb test left behind a unique form of matter, and now scientists have discovered a new chemical structure inside it</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Clara Moskowitz</dc:creator>
+      <author>Clara Moskowitz</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/12cb3e17-9ed8-4e16-92fe-384efe63b377/GettyImages-2217357656-cropped.jpeg?m=1778530102.63"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/12cb3e17-9ed8-4e16-92fe-384efe63b377/GettyImages-2217357656-cropped.jpeg?m=1778530102.63" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/12cb3e17-9ed8-4e16-92fe-384efe63b377/GettyImages-2217357656-cropped.jpeg?m=1778530102.63" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>Do insects feel joy and pain?</title>
-      <link>https://www.scientificamerican.com/article/do-insects-feel-joy-and-pain/</link>
-      <description>Insects have surprisingly rich inner lives&amp;mdash;a revelation that has wide-ranging ethical implications</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Lars Chittka</dc:creator>
-      <author>Lars Chittka</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/do-insects-feel-joy-and-pain/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/sciam/cache/file/5A7224AE-F921-4431-A454D3F6688EA35A_source.jpg"/>
-      <media:content url="https://static.scientificamerican.com/sciam/cache/file/5A7224AE-F921-4431-A454D3F6688EA35A_source.jpg" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/sciam/cache/file/5A7224AE-F921-4431-A454D3F6688EA35A_source.jpg" type="image/jpeg"/>
+      <title>These smart bricks know what object they make up</title>
+      <link>https://www.scientificamerican.com/article/these-smart-bricks-know-what-object-they-make-up/</link>
+      <description>Collectively intelligent bricks figure out if they&amp;rsquo;re in a boat, chair or guitar</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Matthew Hutson</dc:creator>
+      <author>Matthew Hutson</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/these-smart-bricks-know-what-object-they-make-up/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/018be4c3-54e0-4fbd-9ca5-e00fcd0e0c7a/saw1026Adva05.jpg?m=1788279673.114"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/018be4c3-54e0-4fbd-9ca5-e00fcd0e0c7a/saw1026Adva05.jpg?m=1788279673.114" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/018be4c3-54e0-4fbd-9ca5-e00fcd0e0c7a/saw1026Adva05.jpg?m=1788279673.114" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>Five types of research, underexplored until recently, could produce Alzheimer&apos;s treatments</title>
-      <link>https://www.scientificamerican.com/article/five-types-of-research-underexplored-until-recently-could-produce-alzheimers-treatments/</link>
-      <description>Research into the brain&amp;rsquo;s protein-disposal systems, electrical activity and three other areas looks promising</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Kenneth S. Kosik</dc:creator>
-      <author>Kenneth S. Kosik</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/five-types-of-research-underexplored-until-recently-could-produce-alzheimers-treatments/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/sciam/cache/file/9B64DEFD-0C93-44C9-A7CD91423A1D06D5_source.jpg"/>
-      <media:content url="https://static.scientificamerican.com/sciam/cache/file/9B64DEFD-0C93-44C9-A7CD91423A1D06D5_source.jpg" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/sciam/cache/file/9B64DEFD-0C93-44C9-A7CD91423A1D06D5_source.jpg" type="image/jpeg"/>
+      <title>Avocado flowers switch sex daily—now we know why</title>
+      <link>https://www.scientificamerican.com/article/avocado-flowers-switch-sex-daily-now-we-know-why/</link>
+      <description>New work explains how avocado trees coordinate a complex reproductive strategy, switching every day between male and female</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Jeanne Timmons</dc:creator>
+      <author>Jeanne Timmons</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/avocado-flowers-switch-sex-daily-now-we-know-why/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/9efe70b4-a4e0-45a4-96c4-1dc8ca0f4ff8/saw1026Adva06.jpg?m=1788277677.652"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/9efe70b4-a4e0-45a4-96c4-1dc8ca0f4ff8/saw1026Adva06.jpg?m=1788277677.652" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/9efe70b4-a4e0-45a4-96c4-1dc8ca0f4ff8/saw1026Adva06.jpg?m=1788277677.652" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>Your guide to 29 wildly different theories of consciousness</title>
-      <link>https://www.scientificamerican.com/article/your-guide-to-29-wildly-different-theories-of-consciousness/</link>
-      <description>The many, many ways researchers hope to solve the toughest mystery in science</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Allison Parshall</dc:creator>
-      <author>Allison Parshall</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/your-guide-to-29-wildly-different-theories-of-consciousness/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/1786c235c24add01/original/saw0226Pars02.jpg?m=1767811508.893"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/1786c235c24add01/original/saw0226Pars02.jpg?m=1767811508.893" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/1786c235c24add01/original/saw0226Pars02.jpg?m=1767811508.893" type="image/jpeg"/>
+      <title>‘Odd couple’ black holes can find each other in space</title>
+      <link>https://www.scientificamerican.com/article/odd-couple-black-holes-can-find-each-other-in-space/</link>
+      <description>Two studies find signs of strange black hole binary systems</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Mary Randolph</dc:creator>
+      <author>Mary Randolph</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/odd-couple-black-holes-can-find-each-other-in-space/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/c4c00594-998c-4159-a5e6-5dde5ac5335a/saw1026Adva07.jpg?m=1788278220.086"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/c4c00594-998c-4159-a5e6-5dde5ac5335a/saw1026Adva07.jpg?m=1788278220.086" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/c4c00594-998c-4159-a5e6-5dde5ac5335a/saw1026Adva07.jpg?m=1788278220.086" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>Ozempic quiets food noise in the brain—but how?</title>
-      <link>https://www.scientificamerican.com/article/ozempic-quiets-food-noise-in-the-brain-but-how/</link>
-      <description>Blockbuster weight-loss drugs are revealing how appetite, pleasure and addiction work in the brain</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Lauren J. Young</dc:creator>
-      <author>Lauren J. Young</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/ozempic-quiets-food-noise-in-the-brain-but-how/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/6775ee88f6ca2bf/original/sa070824Youn01-crop.jpg?m=1718379757.926"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/6775ee88f6ca2bf/original/sa070824Youn01-crop.jpg?m=1718379757.926" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/6775ee88f6ca2bf/original/sa070824Youn01-crop.jpg?m=1718379757.926" type="image/jpeg"/>
+      <title>Mathematicians discover the worst way to hang a painting</title>
+      <link>https://www.scientificamerican.com/article/mathematicians-discover-the-worst-way-to-hang-a-painting/</link>
+      <description>New solutions found to picture-hanging problems</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Emma R. Hasson</dc:creator>
+      <author>Emma R. Hasson</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/mathematicians-discover-the-worst-way-to-hang-a-painting/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/703b1868-8d37-4bf4-ad7b-16e309e6ae49/RF-Paintings-Museum.jpg?m=1788533292.057"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/703b1868-8d37-4bf4-ad7b-16e309e6ae49/RF-Paintings-Museum.jpg?m=1788533292.057" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/703b1868-8d37-4bf4-ad7b-16e309e6ae49/RF-Paintings-Museum.jpg?m=1788533292.057" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>Damage to a protective shield around the brain may lead to Alzheimer&apos;s and other diseases</title>
-      <link>https://www.scientificamerican.com/article/damage-to-a-protective-shield-around-the-brain-may-lead-to-alzheimers-and-other-diseases/</link>
-      <description>The blood-brain barrier deteriorates with aging, but animal studies indicate repairs can make old brains look young again</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Daniela Kaufer</dc:creator>
-      <author>Daniela Kaufer</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/damage-to-a-protective-shield-around-the-brain-may-lead-to-alzheimers-and-other-diseases/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/sciam/cache/file/42253159-3A86-4BD2-B3D0D71EB626F26F_source.jpg"/>
-      <media:content url="https://static.scientificamerican.com/sciam/cache/file/42253159-3A86-4BD2-B3D0D71EB626F26F_source.jpg" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/sciam/cache/file/42253159-3A86-4BD2-B3D0D71EB626F26F_source.jpg" type="image/jpeg"/>
+      <title>Math Puzzle: A puzzling picture</title>
+      <link>https://www.scientificamerican.com/article/math-puzzle-a-puzzling-picture/</link>
+      <description>Hang a painting poorly in this math puzzle</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Emma R. Hasson</dc:creator>
+      <author>Emma R. Hasson</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/math-puzzle-a-puzzling-picture/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>Brains are not required when it comes to thinking and solving problems—simple cells can do it</title>
-      <link>https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/</link>
-      <description>Tiny clumps of cells show basic cognitive abilities, and some animals can remember things after losing their head</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Rowan Jacobsen</dc:creator>
-      <author>Rowan Jacobsen</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/sciam/cache/file/0B155646-0D3C-4284-A0AB8EE80631BBA1_source.jpg"/>
-      <media:content url="https://static.scientificamerican.com/sciam/cache/file/0B155646-0D3C-4284-A0AB8EE80631BBA1_source.jpg" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/sciam/cache/file/0B155646-0D3C-4284-A0AB8EE80631BBA1_source.jpg" type="image/jpeg"/>
+      <title>Newly discovered ‘demon cave fish’ hid out in Alabama military installation for 40 years</title>
+      <link>https://www.scientificamerican.com/article/newly-discovered-demon-cave-fish-hid-out-in-alabama-military-installation-for-40-years/</link>
+      <description>Scientists named this oddball creature after the Demogorgon from Stranger Things</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Elizabeth Anne Brown</dc:creator>
+      <author>Elizabeth Anne Brown</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/newly-discovered-demon-cave-fish-hid-out-in-alabama-military-installation-for-40-years/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/1323dfd6-bf8a-43fc-950b-4e2aaa5aa2b2/saw1026Adva08.jpg?m=1788360280.418"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/1323dfd6-bf8a-43fc-950b-4e2aaa5aa2b2/saw1026Adva08.jpg?m=1788360280.418" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/1323dfd6-bf8a-43fc-950b-4e2aaa5aa2b2/saw1026Adva08.jpg?m=1788360280.418" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>U.S. kids are falling behind global competition, but brain science shows how to catch up</title>
-      <link>https://www.scientificamerican.com/article/u-s-kids-are-falling-behind-global-competition-but-brain-science-shows-how-to-catch-up/</link>
-      <description>Paid parental leave and high-quality child care improve children&amp;rsquo;s brain development and prospects for a better future</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Dana Suskind</dc:creator>
-      <author>Dana Suskind</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/u-s-kids-are-falling-behind-global-competition-but-brain-science-shows-how-to-catch-up/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/sciam/cache/file/7D7116D9-8BC3-4CBF-A6B7FA7C0FF87E31_source.jpg"/>
-      <media:content url="https://static.scientificamerican.com/sciam/cache/file/7D7116D9-8BC3-4CBF-A6B7FA7C0FF87E31_source.jpg" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/sciam/cache/file/7D7116D9-8BC3-4CBF-A6B7FA7C0FF87E31_source.jpg" type="image/jpeg"/>
+      <title>Nature may have a preferred tempo</title>
+      <link>https://www.scientificamerican.com/article/nature-may-have-a-preferred-tempo/</link>
+      <description>From flashing fireflies to human music, many biological rhythms appear to converge on the same rhythmic range</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Anirban Mukhopadhyay</dc:creator>
+      <author>Anirban Mukhopadhyay</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/nature-may-have-a-preferred-tempo/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/354428fd-d15a-4dca-83ba-aa475de3b730/saw1026Adva09.jpg?m=1788360878.045"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/354428fd-d15a-4dca-83ba-aa475de3b730/saw1026Adva09.jpg?m=1788360878.045" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/354428fd-d15a-4dca-83ba-aa475de3b730/saw1026Adva09.jpg?m=1788360878.045" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>Some people who appear to be in a coma may actually be conscious</title>
-      <link>https://www.scientificamerican.com/article/some-people-who-appear-to-be-in-a-coma-may-actually-be-conscious/</link>
-      <description>Brain scans reveal that some people who can&amp;rsquo;t speak or move are aware of the world around them</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Jan Claassen</dc:creator>
-      <author>Jan Claassen</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/some-people-who-appear-to-be-in-a-coma-may-actually-be-conscious/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/sciam/cache/file/9AFECE16-AF02-46B7-80F50857CF06D682_source.jpg"/>
-      <media:content url="https://static.scientificamerican.com/sciam/cache/file/9AFECE16-AF02-46B7-80F50857CF06D682_source.jpg" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/sciam/cache/file/9AFECE16-AF02-46B7-80F50857CF06D682_source.jpg" type="image/jpeg"/>
+      <title>Do birds enjoy flying? Scientists asked cockatoos</title>
+      <link>https://www.scientificamerican.com/article/do-birds-enjoy-flying-scientists-asked-cockatoos/</link>
+      <description>Flying leads to positive emotions and optimism in Galahs</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Clarissa Brincat</dc:creator>
+      <author>Clarissa Brincat</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/do-birds-enjoy-flying-scientists-asked-cockatoos/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/792527f1-6dad-423a-8673-dc7f3f9f2c4e/saw1026Adva10.jpg?m=1788361502.641"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/792527f1-6dad-423a-8673-dc7f3f9f2c4e/saw1026Adva10.jpg?m=1788361502.641" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/792527f1-6dad-423a-8673-dc7f3f9f2c4e/saw1026Adva10.jpg?m=1788361502.641" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>How sleep cleans the brain and keeps you healthy</title>
-      <link>https://www.scientificamerican.com/article/how-sleep-cleans-the-brain-and-keeps-you-healthy/</link>
-      <description>Washing waste from the brain is an essential function of sleep&amp;mdash;and it could help ward off dementia</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Lydia Denworth</dc:creator>
-      <author>Lydia Denworth</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-sleep-cleans-the-brain-and-keeps-you-healthy/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/dam/m/443a4164897ed287/original/sa0925Denw01.jpg?m=1754932906.549"/>
-      <media:content url="https://static.scientificamerican.com/dam/m/443a4164897ed287/original/sa0925Denw01.jpg?m=1754932906.549" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/dam/m/443a4164897ed287/original/sa0925Denw01.jpg?m=1754932906.549" type="image/jpeg"/>
+      <title>Giant armored crustaceans survive thanks to a gene stolen from bacteria</title>
+      <link>https://www.scientificamerican.com/article/giant-armored-crustaceans-survive-thanks-to-a-gene-stolen-from-bacteria/</link>
+      <description>Scientists have long wondered how these bizarre creatures endured for years without food&amp;mdash;now they&amp;rsquo;ve found out why</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Saugat Bolakhe</dc:creator>
+      <author>Saugat Bolakhe</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/giant-armored-crustaceans-survive-thanks-to-a-gene-stolen-from-bacteria/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/59c70beb-99be-4233-b616-47c4e20a7b2e/saw1026Adva11.jpg?m=1788362834.566"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/59c70beb-99be-4233-b616-47c4e20a7b2e/saw1026Adva11.jpg?m=1788362834.566" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/59c70beb-99be-4233-b616-47c4e20a7b2e/saw1026Adva11.jpg?m=1788362834.566" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>Moving in sync creates surprising social bonds among people</title>
-      <link>https://www.scientificamerican.com/article/moving-in-sync-creates-surprising-social-bonds-among-people/</link>
-      <description>Dancing, rowing and even finger tapping in unison unleash powerful forces in the brain that drive good feelings</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:29 +0000</pubDate>
-      <dc:creator>Marta Zaraska</dc:creator>
-      <author>Marta Zaraska</author>
-      <guid isPermaLink="true">https://www.scientificamerican.com/article/moving-in-sync-creates-surprising-social-bonds-among-people/</guid>
-      <media:thumbnail url="https://static.scientificamerican.com/sciam/cache/file/389F93AD-E055-450E-AEA8C883F228F24A_source.jpg"/>
-      <media:content url="https://static.scientificamerican.com/sciam/cache/file/389F93AD-E055-450E-AEA8C883F228F24A_source.jpg" medium="image"/>
-      <enclosure url="https://static.scientificamerican.com/sciam/cache/file/389F93AD-E055-450E-AEA8C883F228F24A_source.jpg" type="image/jpeg"/>
+      <title>Finding meaning in the impossible</title>
+      <link>https://www.scientificamerican.com/article/finding-meaning-in-the-impossible/</link>
+      <description>Some questions may never be answered, but maybe that&amp;rsquo;s not the point</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Jeanna Bryner</dc:creator>
+      <author>Jeanna Bryner</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/finding-meaning-in-the-impossible/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/8ccad3bd-cd3f-46a1-b83a-df8262daf173/saw1026-FromTheEditor-IssueCover.jpg?m=1788891719.982"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/8ccad3bd-cd3f-46a1-b83a-df8262daf173/saw1026-FromTheEditor-IssueCover.jpg?m=1788891719.982" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/8ccad3bd-cd3f-46a1-b83a-df8262daf173/saw1026-FromTheEditor-IssueCover.jpg?m=1788891719.982" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Readers respond to the May 2026 issue</title>
+      <link>https://www.scientificamerican.com/article/readers-respond-to-the-may-2026-issue/</link>
+      <description>Letters to the editors for the May 2026 issue of Scientific American</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Aaron Shattuck</dc:creator>
+      <author>Aaron Shattuck</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/readers-respond-to-the-may-2026-issue/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/f1b8bdfa-b9a1-49b4-af04-4de3a998f277/saw1026-Letters-IssueCover.jpg?m=1789411062.093"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/f1b8bdfa-b9a1-49b4-af04-4de3a998f277/saw1026-Letters-IssueCover.jpg?m=1789411062.093" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/f1b8bdfa-b9a1-49b4-af04-4de3a998f277/saw1026-Letters-IssueCover.jpg?m=1789411062.093" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Google DeepMind wants Gemini to power many different robots</title>
+      <link>https://www.scientificamerican.com/article/google-deepmind-wants-gemini-to-power-many-different-robots/</link>
+      <description>The company&amp;rsquo;s push into physical AI is putting Gemini inside humanoids&amp;mdash;and testing whether its intelligence can survive in the real world</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Adam Rogers</dc:creator>
+      <author>Adam Rogers</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/google-deepmind-wants-gemini-to-power-many-different-robots/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/c6b57a42-7754-43a1-bcbd-3908874eda9c/saw1026Indu01.jpg?m=1789395550.131"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/c6b57a42-7754-43a1-bcbd-3908874eda9c/saw1026Indu01.jpg?m=1789395550.131" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/c6b57a42-7754-43a1-bcbd-3908874eda9c/saw1026Indu01.jpg?m=1789395550.131" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>How mental exhaustion changes the choices you make</title>
+      <link>https://www.scientificamerican.com/article/how-mental-exhaustion-changes-the-choices-you-make/</link>
+      <description>Neuroscientists show how the brain weighs effort against reward when we&amp;rsquo;re mentally fatigued</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Vikram Chib</dc:creator>
+      <author>Vikram Chib</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-mental-exhaustion-changes-the-choices-you-make/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/159a7f22-3b22-4b58-94db-b86aa2f50121/mental-exhaustion.jpg?m=1785174555.446"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/159a7f22-3b22-4b58-94db-b86aa2f50121/mental-exhaustion.jpg?m=1785174555.446" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/159a7f22-3b22-4b58-94db-b86aa2f50121/mental-exhaustion.jpg?m=1785174555.446" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>What will happen to the moon in the far future?</title>
+      <link>https://www.scientificamerican.com/article/what-will-happen-to-the-moon-in-the-far-future/</link>
+      <description>The moon is Earth&amp;rsquo;s constant companion. But will that always be the case?</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Phil Plait</dc:creator>
+      <author>Phil Plait</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/what-will-happen-to-the-moon-in-the-far-future/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/a5bcc1a2-7870-4e62-8c51-27f42965e437/earthmoona2.jpg?m=1789155939.896"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/a5bcc1a2-7870-4e62-8c51-27f42965e437/earthmoona2.jpg?m=1789155939.896" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/a5bcc1a2-7870-4e62-8c51-27f42965e437/earthmoona2.jpg?m=1789155939.896" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Science crossword: Broken thoughts</title>
+      <link>https://www.scientificamerican.com/article/science-crossword-broken-thoughts/</link>
+      <description>Play this crossword inspired by the October 2026 issue of Scientific American</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Ella Dershowitz</dc:creator>
+      <author>Ella Dershowitz</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/science-crossword-broken-thoughts/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078"/>
+      <media:content url="https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/m/170d5c1b1809219e/original/GAMES-ICONS-all.jpg?m=1726666171.078" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>The Pentagon tests lasers and microwaves against drone swarms</title>
+      <link>https://www.scientificamerican.com/article/the-pentagon-tests-lasers-and-microwaves-against-drone-swarms/</link>
+      <description>After decades of hype, directed-energy weapons may offer the U.S. military a cheaper answer to the expensive problem of stopping drones</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Sarah Scoles</dc:creator>
+      <author>Sarah Scoles</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-pentagon-tests-lasers-and-microwaves-against-drone-swarms/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/a263a982-5c5f-48e2-92e7-d6d30203da2b/saw1026SoW01.jpg?m=1789395640.479"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/a263a982-5c5f-48e2-92e7-d6d30203da2b/saw1026SoW01.jpg?m=1789395640.479" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/a263a982-5c5f-48e2-92e7-d6d30203da2b/saw1026SoW01.jpg?m=1789395640.479" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Are darker egg yolks really healthier?</title>
+      <link>https://www.scientificamerican.com/article/are-darker-egg-yolks-really-healthier/</link>
+      <description>Deep-orange yolks could have a slight health benefit, but it&amp;rsquo;s easy for producers to fake it</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Lori Youmshajekian</dc:creator>
+      <author>Lori Youmshajekian</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/are-darker-egg-yolks-really-healthier/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/e84b3894-b1ee-4eb5-a8c0-3d699fe38b90/saw1026SoH01.jpg?m=1789395671.438"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/e84b3894-b1ee-4eb5-a8c0-3d699fe38b90/saw1026SoH01.jpg?m=1789395671.438" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/e84b3894-b1ee-4eb5-a8c0-3d699fe38b90/saw1026SoH01.jpg?m=1789395671.438" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Poem: ‘The Golden Record’</title>
+      <link>https://www.scientificamerican.com/article/poem-the-golden-record/</link>
+      <description>Science in meter and verse</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Jennifer Blackledge</dc:creator>
+      <author>Jennifer Blackledge</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/poem-the-golden-record/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/3e03601c-5f43-4f10-81b3-ed21f052ad01/saw1026Meter.jpg?m=1789395704.674"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/3e03601c-5f43-4f10-81b3-ed21f052ad01/saw1026Meter.jpg?m=1789395704.674" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/3e03601c-5f43-4f10-81b3-ed21f052ad01/saw1026Meter.jpg?m=1789395704.674" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Mathematicians still don’t know the fastest way to multiply numbers</title>
+      <link>https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/</link>
+      <description>A 23-year-old student overturned an ancient conjecture about one of math&amp;rsquo;s simplest operations</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Jack Murtagh</dc:creator>
+      <author>Jack Murtagh</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/1caac706-e03e-4760-8ef0-cc5a554737df/GettyImages-168351286-math-chalkboard.jpeg?m=1788879969.498"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/1caac706-e03e-4760-8ef0-cc5a554737df/GettyImages-168351286-math-chalkboard.jpeg?m=1788879969.498" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/1caac706-e03e-4760-8ef0-cc5a554737df/GettyImages-168351286-math-chalkboard.jpeg?m=1788879969.498" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Why we love unexplainable mysteries</title>
+      <link>https://www.scientificamerican.com/article/why-we-love-unexplainable-mysteries/</link>
+      <description>The biggest questions in science inspire us even when we lack answers</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Clara Moskowitz</dc:creator>
+      <author>Clara Moskowitz</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/why-we-love-unexplainable-mysteries/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/5ecd611a-1aeb-4426-b869-89ec537870ed/saw1026QA01.jpg?m=1789395740.322"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/5ecd611a-1aeb-4426-b869-89ec537870ed/saw1026QA01.jpg?m=1789395740.322" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/5ecd611a-1aeb-4426-b869-89ec537870ed/saw1026QA01.jpg?m=1789395740.322" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>See how gravitational waves warp time and space</title>
+      <link>https://www.scientificamerican.com/article/see-how-gravitational-waves-warp-time-and-space/</link>
+      <description>The latest gravitational-wave discoveries include record-breaking cataclysms</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Clara Moskowitz</dc:creator>
+      <author>Clara Moskowitz</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/see-how-gravitational-waves-warp-time-and-space/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/348bc3ea-1202-4410-bf98-1ffef04eb6b8/sa1026Gsci31_leadImage.png?m=1789395833.513"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/348bc3ea-1202-4410-bf98-1ffef04eb6b8/sa1026Gsci31_leadImage.png?m=1789395833.513" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/348bc3ea-1202-4410-bf98-1ffef04eb6b8/sa1026Gsci31_leadImage.png?m=1789395833.513" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>October 2026: Science history from 50, 100 and 150 years ago</title>
+      <link>https://www.scientificamerican.com/article/october-2026-science-history-from-50-100-and-150-years-ago/</link>
+      <description>Smallpox eradication; skyscraper excavations; research on the racetrack</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Jeanna Bryner</dc:creator>
+      <author>Jeanna Bryner</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/october-2026-science-history-from-50-100-and-150-years-ago/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/45137761-c327-4dc7-bf7b-722b2138873c/saw1026Hist01.jpg?m=1788891874.167"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/45137761-c327-4dc7-bf7b-722b2138873c/saw1026Hist01.jpg?m=1788891874.167" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/45137761-c327-4dc7-bf7b-722b2138873c/saw1026Hist01.jpg?m=1788891874.167" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>The questions science may never answer</title>
+      <link>https://www.scientificamerican.com/article/the-questions-science-may-never-answer/</link>
+      <description>Will some of the biggest mysteries in science remain forever unsolved?</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Sarah Scoles</dc:creator>
+      <author>Sarah Scoles</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/the-questions-science-may-never-answer/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/33b469a5-869b-417f-89ed-b3ea8bc97a45/saw1026Intro01.jpg?m=1788378765.609"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/33b469a5-869b-417f-89ed-b3ea8bc97a45/saw1026Intro01.jpg?m=1788378765.609" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/33b469a5-869b-417f-89ed-b3ea8bc97a45/saw1026Intro01.jpg?m=1788378765.609" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Will we ever know how life began?</title>
+      <link>https://www.scientificamerican.com/article/will-we-ever-know-how-life-began/</link>
+      <description>Scientists disagree on how biology got started and on whether we can ever know for sure</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Sarah Scoles</dc:creator>
+      <author>Sarah Scoles</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/will-we-ever-know-how-life-began/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/ee7b4564-cf6d-422f-9f4a-0d5bcdfe884d/saw1026Scol1_01.jpg?m=1788380329.743"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/ee7b4564-cf6d-422f-9f4a-0d5bcdfe884d/saw1026Scol1_01.jpg?m=1788380329.743" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/ee7b4564-cf6d-422f-9f4a-0d5bcdfe884d/saw1026Scol1_01.jpg?m=1788380329.743" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Can humans live forever?</title>
+      <link>https://www.scientificamerican.com/article/can-humans-live-forever/</link>
+      <description>Scientists are pursuing the limits of longevity</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Venki Ramakrishnan</dc:creator>
+      <author>Venki Ramakrishnan</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/can-humans-live-forever/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/38030320-b557-4937-987c-051b22719571/saw1026Rama01.jpg?m=1789396133.092"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/38030320-b557-4937-987c-051b22719571/saw1026Rama01.jpg?m=1789396133.092" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/38030320-b557-4937-987c-051b22719571/saw1026Rama01.jpg?m=1789396133.092" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>What if we never find dark matter?</title>
+      <link>https://www.scientificamerican.com/article/what-if-we-never-find-dark-matter/</link>
+      <description>Could the hunt for the universe&amp;rsquo;s missing matter be the biggest wild goose chase in scientific history?</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Joseph Howlett</dc:creator>
+      <author>Joseph Howlett</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/what-if-we-never-find-dark-matter/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/19495b9b-663b-4529-b475-11331c2e1df6/saw1026Howl01.jpg?m=1789396203.761"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/19495b9b-663b-4529-b475-11331c2e1df6/saw1026Howl01.jpg?m=1789396203.761" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/19495b9b-663b-4529-b475-11331c2e1df6/saw1026Howl01.jpg?m=1789396203.761" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>What are the smallest pieces of the universe?</title>
+      <link>https://www.scientificamerican.com/article/what-are-the-smallest-pieces-of-the-universe/</link>
+      <description>Physicists are searching for what lies underneath the particles we know</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Jay Bennett</dc:creator>
+      <author>Jay Bennett</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/what-are-the-smallest-pieces-of-the-universe/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/d5fec0ac-b5ce-4bec-9168-18323d6551ce/saw1026Benn01.jpg?m=1789396333.263"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/d5fec0ac-b5ce-4bec-9168-18323d6551ce/saw1026Benn01.jpg?m=1789396333.263" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/d5fec0ac-b5ce-4bec-9168-18323d6551ce/saw1026Benn01.jpg?m=1789396333.263" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>What if ‘consciousness’ isn’t real?</title>
+      <link>https://www.scientificamerican.com/article/what-if-consciousness-isnt-real/</link>
+      <description>Our understanding of consciousness could be fundamentally wrong</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Tim Bayne</dc:creator>
+      <author>Tim Bayne</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/what-if-consciousness-isnt-real/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/30ee59af-1614-40d4-aa40-a72908f52bd7/saw1026Bayne01.jpg?m=1788448561.454"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/30ee59af-1614-40d4-aa40-a72908f52bd7/saw1026Bayne01.jpg?m=1788448561.454" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/30ee59af-1614-40d4-aa40-a72908f52bd7/saw1026Bayne01.jpg?m=1788448561.454" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>What came before the big bang?</title>
+      <link>https://www.scientificamerican.com/article/what-came-before-the-big-bang-cosmology/</link>
+      <description>Physicists cannot access anything that existed before the start of time and space, but they have theories</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Sarah Scoles</dc:creator>
+      <author>Sarah Scoles</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/what-came-before-the-big-bang-cosmology/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/b6fcd01e-de88-4411-9e86-252763eef7ee/saw1026Scol2_01.jpg?m=1788449848.421"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/b6fcd01e-de88-4411-9e86-252763eef7ee/saw1026Scol2_01.jpg?m=1788449848.421" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/b6fcd01e-de88-4411-9e86-252763eef7ee/saw1026Scol2_01.jpg?m=1788449848.421" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>How apple detectives solved the mystery of an ancient tree—and rewrote the history of fruit</title>
+      <link>https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/</link>
+      <description>And how they might have helped save the future of American apples</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Maryn McKenna</dc:creator>
+      <author>Maryn McKenna</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/aa531cd7-0f51-4ee2-93bf-676c480125cb/saw1026McKe01.jpg?m=1788461288.529"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/aa531cd7-0f51-4ee2-93bf-676c480125cb/saw1026McKe01.jpg?m=1788461288.529" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/aa531cd7-0f51-4ee2-93bf-676c480125cb/saw1026McKe01.jpg?m=1788461288.529" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>SpaceXAI’s Colossus data center is fueling a massive backlash</title>
+      <link>https://www.scientificamerican.com/article/spacexais-colossus-data-center-is-fueling-a-massive-backlash/</link>
+      <description>Dozens of temporary gas turbines are powering SpaceXAI&amp;rsquo;s expansion&amp;mdash;and fights over permits and pollution</description>
+      <pubDate>Tue, 15 Sep 2026 10:30:55 +0000</pubDate>
+      <dc:creator>Austyn Gaffney</dc:creator>
+      <author>Austyn Gaffney</author>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/spacexais-colossus-data-center-is-fueling-a-massive-backlash/</guid>
+      <media:thumbnail url="https://static.scientificamerican.com/dam/asset/3139eff3-9529-4843-aab5-a0d78a731516/saw1026Gaff01.jpg?m=1788463072.45"/>
+      <media:content url="https://static.scientificamerican.com/dam/asset/3139eff3-9529-4843-aab5-a0d78a731516/saw1026Gaff01.jpg?m=1788463072.45" medium="image"/>
+      <enclosure url="https://static.scientificamerican.com/dam/asset/3139eff3-9529-4843-aab5-a0d78a731516/saw1026Gaff01.jpg?m=1788463072.45" type="image/jpeg"/>
     </item>
 
   </channel>
